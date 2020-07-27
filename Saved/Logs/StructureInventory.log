@@ -593,3 +593,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.27-13.59.45:081][668]LogFileHelpers: Saving map 'MyLevel' took 0.275
 [2020.07.27-13.59.45:092][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
 [2020.07.27-13.59.45:245][668]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerF17FEAA4477E067CF34F6FAFC65EEFC2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.27-14.00.38:791][989]LogTemp: Repeating last play command: Standalone Game
+[2020.07.27-14.00.38:835][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.07.27-14.01.21:764][633]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.27-14.01.25:069][873]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2E6E455A-4AC1-81AA-6FED-7C91421BE769}
+[2020.07.27-14.01.35:477][663]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.27-14.01.35:484][663]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.27-14.01.45:172][581]LogSlate: Window 'Plugins' being destroyed
+[2020.07.27-14.01.45:177][581]LogSlate: Window 'Plugins' being destroyed
+[2020.07.27-14.01.45:177][581]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.07.27-14.01.45:177][581]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.23/Enterprise/Plugins/' was aborted.
+[2020.07.27-14.01.45:177][581]LogDirectoryWatcher: A directory notification for '../../../../../../Down2DieInventory/StructureInventory/Plugins/' was aborted.
+[2020.07.27-14.01.47:730][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.07.27-14.02.05:196][584]BlueprintLog: New page: Compile MyPlayer
+[2020.07.27-14.02.05:502][584]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.27-14.02.05:502][584]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.27-14.02.05:718][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.07.27-14.02.05:917][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.27-14.02.06:082][589]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer6E681BB14ABD90370ADE1D9C67192145.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.27-14.02.28:699][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.27-14.02.28:848][169]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerEC5CA4484A213F8195244180F81D6AE8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.27-14.02.32:350][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.07.27-14.02.32:365][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.27-14.02.32:393][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.07.27-14.02.32:626][530]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel4A2D62BC468E1DA7F16484BA793771F1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.27-14.02.32:653][530]LogFileHelpers: Saving map 'MyLevel' took 0.289
+[2020.07.27-14.02.35:059][730]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.27-14.02.35:064][730]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.27-14.02.35:076][730]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.27-14.02.36:564][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
