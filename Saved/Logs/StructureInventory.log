@@ -640,3 +640,384 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-23.21.33:538][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
 [2020.07.28-23.21.33:580][393]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataE8F5774C43632B0684EE9FA956D7570D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
 [2020.07.28-23.21.34:680][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.28-23.22.00:715][956]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.28-23.22.22:761][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.28-23.22.22:893][  2]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerB65B65D942CACAFD3DD433989D44B81B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.28-23.22.29:718][668]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.22.29:747][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.28-23.22.30:352][691]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8C285009-4A4B-4DDB-84F6-52BCD8B9C4DD}
+[2020.07.28-23.23.19:913][420]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.28-23.23.19:919][420]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.28-23.23.19:920][420]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.23.22:059][632]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.28-23.23.28:752][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.23.28:780][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.28-23.23.28:929][423]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelDBBE1E4446B763CBB9530B94C9FD2E5E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.28-23.23.28:939][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.07.28-23.23.28:951][423]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltData99678D254FD910DF9279BD85BD462067.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.07.28-23.23.29:893][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.28-23.23.29:907][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.28-23.23.29:929][528]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode0860C4254BD1122137E120BBC9613F20.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.28-23.25.53:270][126]LogRenderer: Reallocating scene render targets to support 1152x440 Format 10 NumSamples 1 (Frame:18715).
+[2020.07.28-23.26.03:439][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.28-23.26.05:138][355]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MM_Level.MM_Level
+[2020.07.28-23.26.05:162][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.07.28-23.26.06:186][355]LogSlate: Window 'Save Content' being destroyed
+[2020.07.28-23.26.06:198][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.26.06:223][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.07.28-23.26.06:235][355]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Level4ED8D8D240F8EF84AC33B4A21F20A4DD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
+[2020.07.28-23.26.06:237][355]LogFileHelpers: Saving map 'MM_Level' took 0.039
+[2020.07.28-23.26.06:271][355]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-23.26.06:271][355]LightingResults: New page: Lighting Build
+[2020.07.28-23.26.06:271][355]LoadErrors: New page: Loading map: MM_Level.umap
+[2020.07.28-23.26.06:271][355]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.26.06:350][355]MapCheck: New page: Map Check
+[2020.07.28-23.26.06:350][355]LightingResults: New page: Lighting Build
+[2020.07.28-23.26.06:391][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.28-23.26.06:489][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-23.26.06:489][355]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.28-23.26.06:529][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.28-23.26.06:545][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-23.26.06:545][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,202ms to complete.
+[2020.07.28-23.26.06:547][355]LogFileHelpers: Loading map 'MM_Level' took 0.309
+[2020.07.28-23.26.12:697][928]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.28-23.26.17:671][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.26.17:698][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.07.28-23.26.17:837][512]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Level485B220F445B98BF808FD78B87679F85.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
+[2020.07.28-23.26.20:144][782]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MM_Level.MM_Level
+[2020.07.28-23.26.20:175][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.07.28-23.26.21:173][782]LogSlate: Window 'Save Content' being destroyed
+[2020.07.28-23.26.21:183][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.28-23.26.21:195][782]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn518F7CE94FBD87643044C28D661D52C9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.28-23.26.21:199][782]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-23.26.21:199][782]LightingResults: New page: Lighting Build
+[2020.07.28-23.26.21:200][782]LoadErrors: New page: Loading map: MM_Level.umap
+[2020.07.28-23.26.21:200][782]LogWorld: UWorld::CleanupWorld for MM_Level, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.26.21:200][782]MapCheck: New page: Map Check
+[2020.07.28-23.26.21:201][782]LightingResults: New page: Lighting Build
+[2020.07.28-23.26.21:226][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.28-23.26.21:229][782]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.28-23.26.21:352][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-23.26.21:381][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.07.28-23.26.21:391][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-23.26.21:392][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,215ms to complete.
+[2020.07.28-23.26.21:393][782]LogFileHelpers: Loading map 'MM_Level' took 0.194
+[2020.07.28-23.26.26:077][206]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.28-23.26.35:407][315]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.28-23.26.42:251][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.26.42:276][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.07.28-23.26.42:409][117]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_LevelF690F7DF4F9AF1DCC4E5D980A14B0F72.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
+[2020.07.28-23.26.45:858][523]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.28-23.26.55:191][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MM_Pawn.MM_Pawn
+[2020.07.28-23.26.55:496][126]LogRenderer: Reallocating scene render targets to support 1152x464 Format 10 NumSamples 1 (Frame:1).
+[2020.07.28-23.26.56:258][188]LogRenderer: Reallocating scene render targets to support 1152x644 Format 10 NumSamples 1 (Frame:64).
+[2020.07.28-23.27.01:511][772]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.28-23.27.01:679][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.07.28-23.27.02:034][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.28-23.27.02:090][807]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn98B59E744F4601AC4734D09B3A5CCAA6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.28-23.27.03:338][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.28-23.27.03:373][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.28-23.27.03:464][942]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer16192C6B4872B2CDCB1DE8A915707FB4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.28-23.27.03:470][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Mm_Gamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/Mm_Gamemode.uasset" SILENT=true
+[2020.07.28-23.27.03:481][942]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mm_GamemodeA43C31A94ED778DD6607258BDCDD8973.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/Mm_Gamemode.uasset'
+[2020.07.28-23.27.06:892][ 72]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.28-23.27.18:782][ 20]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.28-23.27.23:512][427]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.28-23.27.23:521][427]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.28-23.27.24:997][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.07.28-23.27.26:272][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.28-23.27.26:315][715]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn6DA1BFB64C6A1160CAD88FA856C2052F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.28-23.27.26:714][757]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.28-23.27.26:912][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.07.28-23.27.27:832][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.07.28-23.27.29:284][993]LogSlate: Window 'MM_Pawn' being destroyed
+[2020.07.28-23.27.29:290][993]LogSlate: Window 'MM_Pawn' being destroyed
+[2020.07.28-23.27.29:307][993]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.27.29:358][993]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.28-23.27.29:358][993]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.27.31:554][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level' with GeneratedClass '/Game/GameRelated/MM_Level.MM_Level_C' with ClassGeneratedBy '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level'
+[2020.07.28-23.27.31:567][245]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.28-23.27.31:575][245]LogPlayLevel: [PlayLevel] Compiling MasterItemInterface before play...
+[2020.07.28-23.27.31:580][245]LogPlayLevel: [PlayLevel]   Compiling StorageInterface as a dependent...
+[2020.07.28-23.27.31:581][245]LogPlayLevel: [PlayLevel]   Compiling BP_MasterItem as a dependent...
+[2020.07.28-23.27.31:592][245]LogPlayLevel: [PlayLevel]   Compiling InventoryComponent as a dependent...
+[2020.07.28-23.27.31:598][245]LogPlayLevel: [PlayLevel]   Compiling StorageMaster as a dependent...
+[2020.07.28-23.27.31:598][245]LogPlayLevel: [PlayLevel]   Compiling Chest as a dependent...
+[2020.07.28-23.27.31:600][245]LogPlayLevel: [PlayLevel]   Compiling GameHUD as a dependent...
+[2020.07.28-23.27.31:600][245]LogPlayLevel: [PlayLevel]   Compiling Loot_Chest as a dependent...
+[2020.07.28-23.27.31:612][245]LogPlayLevel: [PlayLevel]   Compiling MyPlayer as a dependent...
+[2020.07.28-23.27.31:618][245]LogPlayLevel: [PlayLevel]   Compiling MyPlayerController as a dependent...
+[2020.07.28-23.27.31:625][245]LogPlayLevel: [PlayLevel]   Compiling MyPlayerState as a dependent...
+[2020.07.28-23.27.31:630][245]LogPlayLevel: [PlayLevel]   Compiling SlotItem as a dependent...
+[2020.07.28-23.27.32:026][245]LogPlayLevel: [PlayLevel] Compiling MyGamemode before play...
+[2020.07.28-23.27.32:092][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.07.28-23.27.32:092][245]LogPlayLevel: PlayLevel: Blueprint regeneration took 524 ms (13 blueprints)
+[2020.07.28-23.27.32:165][245]PIE: New page: PIE session: MM_Level (29 jul. 2020 03:27:32)
+[2020.07.28-23.27.32:199][245]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.07.28-23.27.32:199][245]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.07.28-23.27.32:200][245]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.28-23.27.32:229][245]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_0_MM_Level
+[2020.07.28-23.27.32:247][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017574s)
+[2020.07.28-23.27.32:248][245]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.28-23.27.32:248][245]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.07.28-23.27.32:248][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MM_Level.MM_Level to /Game/GameRelated/UEDPIE_0_MM_Level.MM_Level (0.018801s)
+[2020.07.28-23.27.32:301][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.07.28-23.27.32:306][245]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.28-23.27.32:346][245]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.28-23.27.32:380][245]LogInit: FAudioDevice initialized.
+[2020.07.28-23.27.32:395][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.27.32:397][245]LogLoad: Game class is 'Mm_Gamemode_C'
+[2020.07.28-23.27.32:399][245]LogWorld: Bringing World /Game/GameRelated/UEDPIE_0_MM_Level.MM_Level up for play (max tick rate 0) at 2020.07.29-01.27.32
+[2020.07.28-23.27.32:399][245]LogWorld: Bringing up level for play took: 0.000536
+[2020.07.28-23.27.32:399][245]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.07.28-23.27.32:433][245]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.07.28-23.27.32:446][245]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_0_MM_Level 1,155
+[2020.07.28-23.27.32:446][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level' with GeneratedClass '/Game/GameRelated/MM_Level.MM_Level_C' with ClassGeneratedBy '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level'
+[2020.07.28-23.27.32:477][246]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.07.28-23.27.34:644][473]LogInit: WinSock: I am JOEYCOMPUTER (169.254.105.252:0)
+[2020.07.28-23.27.34:661][474]LogNet: Browse: /Game/GameRelated/MyLevel?listen
+[2020.07.28-23.27.34:661][474]LogLoad: LoadMap: /Game/GameRelated/MyLevel?listen
+[2020.07.28-23.27.34:661][474]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_0_MM_Level
+[2020.07.28-23.27.34:662][474]LogWorld: UWorld::CleanupWorld for MM_Level, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.27.34:729][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.07.28-23.27.34:795][474]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.28-23.27.34:795][474]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.28-23.27.34:795][474]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.28-23.27.34:795][474]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.07.28-23.27.34:795][474]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.28-23.27.34:795][474]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.28-23.27.34:795][474]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.28-23.27.34:796][474]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.28-23.27.34:829][474]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.28-23.27.34:856][474]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2020.07.28-23.27.34:859][474]LogWorld: Bringing World /Game/GameRelated/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-01.27.34
+[2020.07.28-23.27.34:860][474]LogWorld: Bringing up level for play took: 0.003365
+[2020.07.28-23.27.34:892][474]LogLoad: Took 0.230492 seconds to LoadMap(/Game/GameRelated/MyLevel)
+[2020.07.28-23.27.37:546][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level' with GeneratedClass '/Game/GameRelated/MM_Level.MM_Level_C' with ClassGeneratedBy '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level'
+[2020.07.28-23.27.37:547][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.27.37:548][750]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_0_MyLevel
+[2020.07.28-23.27.37:557][750]LogSlate: Window 'StructureInventory Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.28-23.27.37:564][750]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.28-23.27.37:564][750]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.27.37:569][750]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.07.28-23.27.37:569][750]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.07.28-23.27.37:569][750]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.07.28-23.27.37:570][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.28-23.27.37:571][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level' with GeneratedClass '/Game/GameRelated/MM_Level.MM_Level_C' with ClassGeneratedBy '/Game/GameRelated/MM_Level.MM_Level:PersistentLevel.MM_Level'
+[2020.07.28-23.27.37:689][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.07.28-23.27.37:703][751]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.07.28-23.27.39:323][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.27.39:347][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.07.28-23.27.39:460][941]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_LevelFEB505824CD45053FBB36C8C14985A82.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
+[2020.07.28-23.27.40:433][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.07.28-23.27.49:716][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.07.28-23.27.52:368][703]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.28-23.27.52:410][703]LogAIModule: Creating AISystem for world TransitionLevel
+[2020.07.28-23.27.52:739][703]AssetCheck: /Game/Inventory/MasterItemStruct has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/ItemType has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/StoneDrop_Cue has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Swap/SwapSound has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Textures/inventory_slot has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Textures/Pumpkin_icon has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestAudio/Locker_4 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestAudio/Locker_9 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Pumpkin/Mat has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Pumpkin/Mat_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Pumpkin/Pumpkin has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/Lock has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Rock/Rock has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Wood/Mat has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Wood/Mat_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Models/Wood/Wood has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_4 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_6 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_8 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Drag_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Wood/Chop_Wood_1_3 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Wood/Wood_Place_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Wood/Wood_Place_2 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Textures/Stones_icon has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Textures/Wood_icon has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/ResourceData has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestCorners has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestCorners_ncl1_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestNewIdle_Bottom has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestNewIdle_Top has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestCorners_2 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Storage/ChestNew/ChestCorners_ncl1_2 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Swap/Swap_01 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Swap/Swap_02 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_2 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_3 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/GameRelated/MM_Level has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/GameRelated/MyLevel_BuiltData has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/GameRelated/MyLevel has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/GameRelated/TransitionLevel has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/StoneDrop_Annutation has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_5 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Destroy_7 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Drag_2 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Impact_1 has no data validation.
+[2020.07.28-23.27.52:740][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Impact_2 has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Impact_3 has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Impact_4 has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: /Game/Inventory/Sound/Stone/Stone_Impact_5 has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: /Game/Inventory/Sound/Wood/Chop_Wood_1_4 has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: /Game/Storage/ChestNew/Mat has no data validation.
+[2020.07.28-23.27.52:741][703]AssetCheck: Data validation SUCCEEDED. Files Checked: 75, Passed: 23, Failed: 0, Skipped: 0, Unable to validate: 52
+[2020.07.28-23.27.54:076][857]LogSlate: Window 'Message Log' being destroyed
+[2020.07.28-23.27.54:082][857]LogSlate: Window 'Message Log' being destroyed
+[2020.07.28-23.27.58:510][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.28-23.27.58:734][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent035114E34B4DF62D9A2C008201F49E27.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.28-23.27.58:739][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.07.28-23.27.58:756][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MasterItemStructBCCF54D046E22108C0B04692FB33ECFA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/MasterItemStruct.uasset'
+[2020.07.28-23.27.58:760][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ItemType" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/ItemType.uasset" SILENT=true
+[2020.07.28-23.27.58:783][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ItemType6BC339B14D1F448B07312AA4A79F81C2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/ItemType.uasset'
+[2020.07.28-23.27.58:787][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/StoneDrop_Cue" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/StoneDrop_Cue.uasset" SILENT=true
+[2020.07.28-23.27.58:817][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/StoneDrop_Cue7D166B864F8590C3C98DB1ABAB054A22.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/StoneDrop_Cue.uasset'
+[2020.07.28-23.27.58:833][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_1.uasset" SILENT=true
+[2020.07.28-23.27.58:847][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_15C43EDD44780E816CED0FFB58E71CE7A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_1.uasset'
+[2020.07.28-23.27.58:858][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActionMaster" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryActionMaster.uasset" SILENT=true
+[2020.07.28-23.27.58:880][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryActionMaster2F3537484DCDEF5D4516DDAE8C04E9AC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryActionMaster.uasset'
+[2020.07.28-23.27.58:890][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.28-23.27.58:984][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer6198668340FB8AC75E58D5835D83B123.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.28-23.27.58:989][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/MasterItemInterface.uasset" SILENT=true
+[2020.07.28-23.27.59:006][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MasterItemInterface11120BCF494D4F18CC59EC9DD16291C2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/MasterItemInterface.uasset'
+[2020.07.28-23.27.59:011][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.07.28-23.27.59:051][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/BP_MasterItemDC5BC2C44AE862D17D8871BA5107DD67.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset'
+[2020.07.28-23.27.59:055][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryContainer.uasset" SILENT=true
+[2020.07.28-23.27.59:114][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryContainer9F63DC8742B71F380404FD835334D36F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryContainer.uasset'
+[2020.07.28-23.27.59:119][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/StorageMaster" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/StorageMaster.uasset" SILENT=true
+[2020.07.28-23.27.59:167][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/StorageMaster00F9434542323886AE72C0BCDEFBFD0C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/StorageMaster.uasset'
+[2020.07.28-23.27.59:172][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset" SILENT=true
+[2020.07.28-23.27.59:198][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerControllerFA4BABAC412C1429795614A94B2FA4B7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset'
+[2020.07.28-23.27.59:202][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.28-23.27.59:257][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD72C9884D4B1E966FC7D1B4B5EAD10679.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.28-23.27.59:262][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.07.28-23.27.59:302][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerStateB804B4E64FA62EDBD544E9B6D2B2F9F8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.07.28-23.27.59:307][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.28-23.27.59:690][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem9A0E3BFF48141FA139D410BB6799CFAA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.07.28-23.27.59:695][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragAndDrop" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryDragAndDrop.uasset" SILENT=true
+[2020.07.28-23.27.59:720][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryDragAndDrop67DDC7A54E6170471FF17BB50BAD35B2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryDragAndDrop.uasset'
+[2020.07.28-23.27.59:724][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItemDragVisual" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItemDragVisual.uasset" SILENT=true
+[2020.07.28-23.27.59:755][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemDragVisual59EEBCFB41D873C829B2EBAEEA92F0A5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItemDragVisual.uasset'
+[2020.07.28-23.27.59:759][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/StorageInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/StorageInterface.uasset" SILENT=true
+[2020.07.28-23.27.59:776][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/StorageInterface2E864D9B4DF5691D9FDB199BD15901BF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/StorageInterface.uasset'
+[2020.07.28-23.27.59:780][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Swap/SwapSound" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/SwapSound.uasset" SILENT=true
+[2020.07.28-23.27.59:795][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SwapSound0EA0146145EB7E43F8F6CEA77E69AB09.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/SwapSound.uasset'
+[2020.07.28-23.27.59:808][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/inventory_slot" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/inventory_slot.uasset" SILENT=true
+[2020.07.28-23.27.59:823][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/inventory_slot38C2AB984FA111492B9519B1F6E50A05.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/inventory_slot.uasset'
+[2020.07.28-23.27.59:830][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.07.28-23.27.59:868][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Pumpkin_iconC6D924EC43517FFD9433CDB7B58A37C8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.07.28-23.27.59:872][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralPlayerWidhet" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/GeneralPlayerWidhet.uasset" SILENT=true
+[2020.07.28-23.27.59:892][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GeneralPlayerWidhet5C1CCAC14CADCA65CB95B9B2F8214681.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/GeneralPlayerWidhet.uasset'
+[2020.07.28-23.27.59:930][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestAudio/Locker_4" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestAudio/Locker_4.uasset" SILENT=true
+[2020.07.28-23.27.59:946][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Locker_4892186AB4AFE3AEAB8177EA797361951.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestAudio/Locker_4.uasset'
+[2020.07.28-23.27.59:966][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestAudio/Locker_9" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestAudio/Locker_9.uasset" SILENT=true
+[2020.07.28-23.27.59:983][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Locker_95044EBA24472F60581A31B9BADB367DA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestAudio/Locker_9.uasset'
+[2020.07.28-23.28.00:007][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/Mat" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Mat.uasset" SILENT=true
+[2020.07.28-23.28.00:055][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mat7E39ED864DEF7F748C1F58BDFAA91666.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Mat.uasset'
+[2020.07.28-23.28.00:069][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/Mat_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Mat_1.uasset" SILENT=true
+[2020.07.28-23.28.00:105][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mat_16F6A0DD444AFEE91D485A189F8477426.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Mat_1.uasset'
+[2020.07.28-23.28.00:124][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/Pumpkin" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Pumpkin.uasset" SILENT=true
+[2020.07.28-23.28.00:214][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Pumpkin7B73BE724A1B71FDCCDFBBB963D3627B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Pumpkin/Pumpkin.uasset'
+[2020.07.28-23.28.00:227][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/Lock" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/Lock.uasset" SILENT=true
+[2020.07.28-23.28.00:262][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/LockA4C9AD994B90EA1D589C338153625649.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/Lock.uasset'
+[2020.07.28-23.28.00:274][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Rock/Rock" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Rock/Rock.uasset" SILENT=true
+[2020.07.28-23.28.00:323][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Rock2B822EC34C31DB14DAF8F2B0871F16E5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Rock/Rock.uasset'
+[2020.07.28-23.28.00:335][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Wood/Mat" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Mat.uasset" SILENT=true
+[2020.07.28-23.28.00:355][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mat6CAADB6F47C5EE886D659A87DE1FD659.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Mat.uasset'
+[2020.07.28-23.28.00:370][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Wood/Mat_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Mat_1.uasset" SILENT=true
+[2020.07.28-23.28.00:390][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mat_19A5C8C0341C52BAE938ADF8C3F0182A2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Mat_1.uasset'
+[2020.07.28-23.28.00:467][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Wood/Wood" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Wood.uasset" SILENT=true
+[2020.07.28-23.28.00:506][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Wood51E0787D4D056C644EB6B9905D57715C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Models/Wood/Wood.uasset'
+[2020.07.28-23.28.00:527][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_4" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_4.uasset" SILENT=true
+[2020.07.28-23.28.00:544][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_4ABFBDDDC4C09F56965847E8646187725.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_4.uasset'
+[2020.07.28-23.28.00:562][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_6" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_6.uasset" SILENT=true
+[2020.07.28-23.28.00:580][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_6D5883A004D76C3864BE40281F6ABDDEF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_6.uasset'
+[2020.07.28-23.28.00:588][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_8" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_8.uasset" SILENT=true
+[2020.07.28-23.28.00:605][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_8674B3BD1461C8052B8C1B1811CAE623E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_8.uasset'
+[2020.07.28-23.28.00:621][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Drag_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Drag_1.uasset" SILENT=true
+[2020.07.28-23.28.00:640][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Drag_11F0F0CCE4646E32ECA39648EF7E0D020.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Drag_1.uasset'
+[2020.07.28-23.28.00:653][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Wood/Chop_Wood_1_3" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Chop_Wood_1_3.uasset" SILENT=true
+[2020.07.28-23.28.00:686][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Chop_Wood_1_3684CDB2343B9ABAB085E13995692F2A4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Chop_Wood_1_3.uasset'
+[2020.07.28-23.28.00:710][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Wood/Wood_Place_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Wood_Place_1.uasset" SILENT=true
+[2020.07.28-23.28.00:728][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Wood_Place_19D3821F14210946DB128FBA023C28808.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Wood_Place_1.uasset'
+[2020.07.28-23.28.00:734][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Wood/Wood_Place_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Wood_Place_2.uasset" SILENT=true
+[2020.07.28-23.28.00:753][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Wood_Place_28F5BC2354C5ABC305E9255AC85E6CD50.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Wood_Place_2.uasset'
+[2020.07.28-23.28.00:761][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stones_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Stones_icon.uasset" SILENT=true
+[2020.07.28-23.28.00:787][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stones_icon65F983044B2E1590C05602BE5A3127D7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Stones_icon.uasset'
+[2020.07.28-23.28.00:794][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.07.28-23.28.00:831][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Wood_iconC46A4F2B4E94087A3FC3509E06AADB69.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.07.28-23.28.00:835][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ResourceData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/ResourceData.uasset" SILENT=true
+[2020.07.28-23.28.00:874][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ResourceData28044A3945674CC11383D98F45050A7F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/ResourceData.uasset'
+[2020.07.28-23.28.00:887][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestCorners" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners.uasset" SILENT=true
+[2020.07.28-23.28.00:951][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCornersC281FE5247BA8C1095AD9898E5FCC691.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners.uasset'
+[2020.07.28-23.28.00:964][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestCorners_ncl1_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_ncl1_1.uasset" SILENT=true
+[2020.07.28-23.28.01:004][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCorners_ncl1_13A346F834F7B4F36A772BE8474684931.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_ncl1_1.uasset'
+[2020.07.28-23.28.01:016][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestNewIdle_Bottom" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestNewIdle_Bottom.uasset" SILENT=true
+[2020.07.28-23.28.01:061][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestNewIdle_Bottom560307A44F7ED9DEF292ACBC001B0F2C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestNewIdle_Bottom.uasset'
+[2020.07.28-23.28.01:072][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestNewIdle_Top" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestNewIdle_Top.uasset" SILENT=true
+[2020.07.28-23.28.01:123][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestNewIdle_Top45B2D18041D77B1A0DD1369157C5FEE4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestNewIdle_Top.uasset'
+[2020.07.28-23.28.01:144][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/Chest" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/Chest.uasset" SILENT=true
+[2020.07.28-23.28.01:188][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Chest8A395766401B9FEC63194EB9757F838C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/Chest.uasset'
+[2020.07.28-23.28.01:204][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestCorners_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_2.uasset" SILENT=true
+[2020.07.28-23.28.01:240][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCorners_23311F70247DBBA4301F2F3B1EBC8D183.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_2.uasset'
+[2020.07.28-23.28.01:253][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestCorners_ncl1_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_ncl1_2.uasset" SILENT=true
+[2020.07.28-23.28.01:289][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCorners_ncl1_233CEE308435D89C7EE186E9A30BEA240.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_ncl1_2.uasset'
+[2020.07.28-23.28.01:308][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/Loot_Chest" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/Loot_Chest.uasset" SILENT=true
+[2020.07.28-23.28.01:347][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Loot_ChestD20ADAE24E2C6B9F8EFB22A9F4897652.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/Loot_Chest.uasset'
+[2020.07.28-23.28.01:352][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGameState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGameState.uasset" SILENT=true
+[2020.07.28-23.28.01:419][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGameStateAA0529A3429DEA4FA469C297EDD32471.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGameState.uasset'
+[2020.07.28-23.28.01:423][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.28-23.28.01:443][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemodeCC652378404A638FD2EE18BCC09EBA1A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.28-23.28.01:455][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Swap/Swap_01" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/Swap_01.uasset" SILENT=true
+[2020.07.28-23.28.01:476][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Swap_013385E20B43BE4C91FA37C8878EDBA4C3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/Swap_01.uasset'
+[2020.07.28-23.28.01:500][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Swap/Swap_02" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/Swap_02.uasset" SILENT=true
+[2020.07.28-23.28.01:521][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Swap_02FFE9683946570E553A5177BEEF34BE9E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Swap/Swap_02.uasset'
+[2020.07.28-23.28.01:563][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_2.uasset" SILENT=true
+[2020.07.28-23.28.01:582][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_24ED412D341A83110BE4BA081256C71C0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_2.uasset'
+[2020.07.28-23.28.01:635][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_3" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_3.uasset" SILENT=true
+[2020.07.28-23.28.01:813][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_3031E462240D3DA2022954494A4040343.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_3.uasset'
+[2020.07.28-23.28.01:817][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Mm_Gamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/Mm_Gamemode.uasset" SILENT=true
+[2020.07.28-23.28.01:840][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mm_Gamemode3C1993144D2A8270CF9BA2A609647882.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/Mm_Gamemode.uasset'
+[2020.07.28-23.28.01:844][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.28-23.28.01:879][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn29B6C90D4F49024D3E0CACB2FE0AFF82.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.28-23.28.01:884][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.28.01:913][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.07.28-23.28.02:061][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Level762161384A5F54CE177AEF9935CB1DC0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
+[2020.07.28-23.28.02:080][379]LogFileHelpers: Saving map 'MM_Level' took 0.196
+[2020.07.28-23.28.02:082][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGameInstance" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGameInstance.uasset" SILENT=true
+[2020.07.28-23.28.02:101][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGameInstanceF3FC4AF1416651A9362232BCA737A57E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGameInstance.uasset'
+[2020.07.28-23.28.02:105][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.07.28-23.28.02:130][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataCD2C607745B59464C875198277E0B64A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.07.28-23.28.02:143][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/Mat" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/Mat.uasset" SILENT=true
+[2020.07.28-23.28.02:163][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Mat6B4813B948BCEA5A22A987983AB7F1D6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/Mat.uasset'
+[2020.07.28-23.28.02:170][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Wood/Chop_Wood_1_4" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Chop_Wood_1_4.uasset" SILENT=true
+[2020.07.28-23.28.02:191][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Chop_Wood_1_42BA3F6F14471C1EC5092ED87992AC101.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Wood/Chop_Wood_1_4.uasset'
+[2020.07.28-23.28.02:204][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Impact_5" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_5.uasset" SILENT=true
+[2020.07.28-23.28.02:227][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Impact_5CBF1964D4BFE4704419E32B57CC7CF04.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_5.uasset'
+[2020.07.28-23.28.02:247][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Impact_4" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_4.uasset" SILENT=true
+[2020.07.28-23.28.02:303][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Impact_4A91DC18941875FB8D3BEA3966815E806.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_4.uasset'
+[2020.07.28-23.28.02:323][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Impact_3" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_3.uasset" SILENT=true
+[2020.07.28-23.28.02:344][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Impact_37BA5EE1246BEA9A1FCF557AD0D86F426.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_3.uasset'
+[2020.07.28-23.28.02:363][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Impact_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_2.uasset" SILENT=true
+[2020.07.28-23.28.02:384][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Impact_2471CC7414010A51C64BF64B62AB7A913.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_2.uasset'
+[2020.07.28-23.28.02:396][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Impact_1" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_1.uasset" SILENT=true
+[2020.07.28-23.28.02:418][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Impact_17AAC1C6C4AFD7F035DCE6CAE9F2998B3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Impact_1.uasset'
+[2020.07.28-23.28.02:438][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Drag_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Drag_2.uasset" SILENT=true
+[2020.07.28-23.28.02:459][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Drag_241295F9145A3AC242AC9AE974C722FCD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Drag_2.uasset'
+[2020.07.28-23.28.02:483][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_7" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_7.uasset" SILENT=true
+[2020.07.28-23.28.02:505][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_7B254F07447E3E6A26285BC896D753E04.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_7.uasset'
+[2020.07.28-23.28.02:558][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Sound/Stone/Stone_Destroy_5" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_5.uasset" SILENT=true
+[2020.07.28-23.28.02:591][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/Stone_Destroy_5254D372B4279E1DA76A67A96F59DC135.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/Stone_Destroy_5.uasset'
+[2020.07.28-23.28.02:620][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/StoneDrop_Annutation317EC99C47A9DF3811098D83473ACC4D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/Sound/Stone/StoneDrop_Annutation.uasset'
+[2020.07.28-23.28.02:670][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.07.28-23.28.02:940][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/TransitionLevel915DB9174B01D211C0795A8A0ED03AD5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/TransitionLevel.umap'
+[2020.07.28-23.28.02:943][379]LogFileHelpers: Saving map 'TransitionLevel' took 0.314
+[2020.07.28-23.28.02:946][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.28.02:988][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.07.28-23.28.03:147][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel0391DFE044761AC76D412EA00E45D57F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.28-23.28.03:155][379]LogFileHelpers: Saving map 'MyLevel' took 0.210
+[2020.07.28-23.28.03:242][379]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ExampleAdvancedSessionsFunctions2BB1A5D6463EE1DF49CA63B20D6201B9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
