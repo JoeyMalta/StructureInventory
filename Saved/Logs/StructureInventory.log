@@ -570,3 +570,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-23.53.01:872][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2020.07.28-23.53.03:649][429]LogTemp: Repeating last play command: Standalone Game
 [2020.07.28-23.53.03:678][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.07.28-23.53.59:957][908]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9248A4FC-4A74-FB36-F700-919897C18A20}
+[2020.07.28-23.54.03:733][969]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.54.03:767][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.28-23.55.20:573][107]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.28-23.55.21:178][107]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.28-23.55.21:188][107]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MyLevel.MyLevel
+[2020.07.28-23.55.21:217][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.07.28-23.55.21:218][107]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-23.55.21:218][107]LightingResults: New page: Lighting Build
+[2020.07.28-23.55.21:218][107]LoadErrors: New page: Loading map: MyLevel.umap
+[2020.07.28-23.55.21:218][107]LogWorld: UWorld::CleanupWorld for MM_Level, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.55.21:219][107]MapCheck: New page: Map Check
+[2020.07.28-23.55.21:219][107]LightingResults: New page: Lighting Build
+[2020.07.28-23.55.21:241][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.28-23.55.21:330][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-23.55.21:351][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.28-23.55.21:372][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-23.55.21:372][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,252ms to complete.
+[2020.07.28-23.55.21:372][107]LogFileHelpers: Loading map 'MyLevel' took 0.155
+[2020.07.28-23.55.29:518][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.55.29:538][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.28-23.55.29:662][ 64]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelD0317051414CA09577E1AC88E06AFDF4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.28-23.55.29:686][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.07.28-23.55.29:714][ 64]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataEE5D827540A6022136B57998E3B398C5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.07.28-23.55.30:618][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.28-23.55.30:633][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.28-23.55.30:671][166]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode58D4E668422ABEF77E9E669A9B208C5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
