@@ -614,3 +614,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-23.55.42:492][383]LogFileHelpers: Loading map 'MM_Level' took 0.133
 [2020.07.28-23.55.44:680][637]LogTemp: Repeating last play command: Standalone Game
 [2020.07.28-23.55.44:714][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.07.28-23.56.26:478][ 98]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.56.26:509][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.07.28-23.57.58:556][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.28-23.57.58:752][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.28-23.57.59:467][  5]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.28-23.57.59:577][  6]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.28-23.58.14:944][476]BlueprintLog: New page: Compile MyPlayer
+[2020.07.28-23.58.15:185][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.07.28-23.58.27:768][688]BlueprintLog: New page: Compile MyPlayer
+[2020.07.28-23.58.27:989][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.07.28-23.58.28:260][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.28-23.58.28:371][705]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer3228EEB8435B53EB2A3E25B6862EC3BE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
