@@ -625,3 +625,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-23.18.21:938][403]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel533976404112D52383500382E9D1C0D2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
 [2020.07.28-23.18.21:954][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
 [2020.07.28-23.18.21:966][403]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltData117967E14B4E19C9C08146896A0111FE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.07.28-23.19.08:941][  9]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.19.08:990][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.07.28-23.19.24:773][482]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.19.24:797][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.28-23.21.15:620][433]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.28-23.21.31:703][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.07.28-23.21.32:367][285]LogSlate: Window 'Save Content' being destroyed
+[2020.07.28-23.21.32:396][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.28-23.21.32:414][285]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemodeBDA50B344DFBAB20C92D3BADF8E8F224.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.28-23.21.33:346][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.28-23.21.33:372][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.07.28-23.21.33:526][393]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel6840D55340B383FE897E5C9DDE08B8ED.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.28-23.21.33:538][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.07.28-23.21.33:580][393]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataE8F5774C43632B0684EE9FA956D7570D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.07.28-23.21.34:680][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
