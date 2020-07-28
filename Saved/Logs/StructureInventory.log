@@ -597,3 +597,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.28-23.55.30:618][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
 [2020.07.28-23.55.30:633][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
 [2020.07.28-23.55.30:671][166]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode58D4E668422ABEF77E9E669A9B208C5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.28-23.55.42:335][383]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.28-23.55.42:338][383]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MM_Level.MM_Level
+[2020.07.28-23.55.42:359][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.07.28-23.55.42:361][383]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-23.55.42:361][383]LightingResults: New page: Lighting Build
+[2020.07.28-23.55.42:361][383]LoadErrors: New page: Loading map: MM_Level.umap
+[2020.07.28-23.55.42:362][383]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.55.42:362][383]MapCheck: New page: Map Check
+[2020.07.28-23.55.42:362][383]LightingResults: New page: Lighting Build
+[2020.07.28-23.55.42:385][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.07.28-23.55.42:448][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-23.55.42:472][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.28-23.55.42:492][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-23.55.42:492][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,269ms to complete.
+[2020.07.28-23.55.42:492][383]LogFileHelpers: Loading map 'MM_Level' took 0.133
+[2020.07.28-23.55.44:680][637]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.55.44:714][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
