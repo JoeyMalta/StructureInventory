@@ -1,4 +1,4 @@
-﻿Log file open, 07/29/20 01:49:25
+﻿Log file open, 07/29/20 01:52:50
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: StructureInventory
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.075066
+LogStats: Stats thread started at 0.104391
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -180,398 +180,393 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.07.28-23.49.25:463][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.07.28-23.49.25:463][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.07.28-23.49.25:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:463][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.07.28-23.49.25:463][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
-[2020.07.28-23.49.25:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:463][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.07.28-23.49.25:464][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:464][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.07.28-23.49.25:468][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.07.28-23.49.25:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.07.28-23.49.25:469][  0]LogInit: Selected Device Profile: [Windows]
-[2020.07.28-23.49.25:469][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.07.28-23.49.25:472][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.07.28-23.49.25:472][  0]LogInit: Going up to parent DeviceProfile []
-[2020.07.28-23.49.25:472][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
-[2020.07.28-23.49.25:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.07.28-23.49.25:473][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.07.28-23.49.25:474][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
-[2020.07.28-23.49.25:474][  0]LogInit: Computer: JOEYCOMPUTER
-[2020.07.28-23.49.25:474][  0]LogInit: User: joeym
-[2020.07.28-23.49.25:474][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.07.28-23.49.25:474][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.07.28-23.49.25:474][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2020.07.28-23.49.25:474][  0]LogMemory: Platform Memory Stats for Windows
-[2020.07.28-23.49.25:474][  0]LogMemory: Process Physical Memory: 101.52 MB used, 101.52 MB peak
-[2020.07.28-23.49.25:474][  0]LogMemory: Process Virtual Memory: 100.86 MB used, 100.86 MB peak
-[2020.07.28-23.49.25:474][  0]LogMemory: Physical Memory: 6877.88 MB used,  9435.73 MB free, 16313.61 MB total
-[2020.07.28-23.49.25:474][  0]LogMemory: Virtual Memory: 4669.78 MB used,  134213056.00 MB free, 134217728.00 MB total
-[2020.07.28-23.49.25:478][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.07.28-23.49.25:505][  0]LogInit: Using OS detected language (nl-NL).
-[2020.07.28-23.49.25:505][  0]LogInit: Using OS detected locale (nl-NL).
-[2020.07.28-23.49.25:506][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
-[2020.07.28-23.49.25:661][  0]LogInit: Setting process to per monitor DPI aware
-[2020.07.28-23.49.25:700][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.07.28-23.49.25:700][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.07.28-23.49.25:904][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.07.28-23.49.25:904][  0]LogD3D11RHI: D3D11 adapters:
-[2020.07.28-23.49.25:955][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2020.07.28-23.49.25:955][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2020.07.28-23.49.25:958][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.07.28-23.49.25:958][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.07.28-23.49.25:958][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.07.28-23.49.25:965][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.07.28-23.49.25:965][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2020.07.28-23.49.25:965][  0]LogWindows: EnumDisplayDevices:
-[2020.07.28-23.49.25:965][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2020.07.28-23.49.25:965][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
-[2020.07.28-23.49.25:965][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2020.07.28-23.49.25:966][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2020.07.28-23.49.25:966][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2020.07.28-23.49.25:966][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2020.07.28-23.49.25:966][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
-[2020.07.28-23.49.25:966][  0]LogD3D11RHI:      Driver Date: 5-15-2020
-[2020.07.28-23.49.25:966][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
-[2020.07.28-23.49.26:001][  0]LogD3D11RHI: Async texture creation enabled
-[2020.07.28-23.49.26:011][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.07.28-23.49.26:289][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2020.07.28-23.49.26:297][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2020.07.28-23.49.26:304][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2020.07.28-23.49.26:312][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2020.07.28-23.49.26:321][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2020.07.28-23.49.26:329][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.07.28-23.49.26:336][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.07.28-23.49.26:344][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.07.28-23.49.26:348][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2020.07.28-23.49.26:378][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2020.07.28-23.49.26:380][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2020.07.28-23.49.26:398][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2020.07.28-23.49.26:398][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2020.07.28-23.49.26:411][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2020.07.28-23.49.26:411][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2020.07.28-23.49.26:418][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2020.07.28-23.49.26:425][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2020.07.28-23.49.26:432][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2020.07.28-23.49.26:440][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2020.07.28-23.49.26:462][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2020.07.28-23.49.26:462][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2020.07.28-23.49.26:462][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.07.28-23.49.26:471][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.07.28-23.49.26:532][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Down2DieInventory/StructureInventory/Intermediate/Shaders/WorkingDirectory/13564/).
-[2020.07.28-23.49.26:532][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/C36590A94BBC723D02497F8F0A9D32B6/'.
-[2020.07.28-23.49.26:533][  0]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2020.07.28-23.49.26:534][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.07.28-23.49.26:534][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.07.28-23.49.26:534][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.07.28-23.49.27:047][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Down2DieInventory/StructureInventory/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Down2DieInventory/StructureInventory/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.07.28-23.49.27:097][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.07.28-23.49.27:107][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.07.28-23.49.27:109][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
-[2020.07.28-23.49.27:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.07.28-23.49.27:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.07.28-23.49.27:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.07.28-23.49.27:127][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.07.28-23.49.27:129][  0]LogSlate: Using FreeType 2.6.0
-[2020.07.28-23.49.27:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.07.28-23.49.27:182][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
-[2020.07.28-23.49.27:419][  0]LogInit: Selected Device Profile: [Windows]
-[2020.07.28-23.49.27:556][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.07.28-23.49.27:556][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.07.28-23.49.27:556][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.07.28-23.49.27:556][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.07.28-23.49.27:556][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.07.28-23.49.27:564][  0]LogNetVersion: StructureInventory 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2032503810)
-[2020.07.28-23.49.27:967][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.083475 seconds
-[2020.07.28-23.49.27:973][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
-[2020.07.28-23.49.27:973][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
-[2020.07.28-23.49.27:973][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.07.28-23.49.28:779][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.07.28-23.49.28:782][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.07.28-23.49.28:862][  0]SourceControl: Source control is disabled
-[2020.07.28-23.49.28:862][  0]SourceControl: Source control is disabled
-[2020.07.28-23.49.28:864][  0]SourceControl: Source control is disabled
-[2020.07.28-23.49.28:865][  0]SourceControl: Source control is disabled
-[2020.07.28-23.49.29:072][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.07.28-23.49.29:237][  0]LogOcInput: OculusInput pre-init called
-[2020.07.28-23.49.29:248][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2020.07.28-23.49.29:248][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2020.07.28-23.49.31:604][  0]LogEngine: Initializing Engine...
-[2020.07.28-23.49.31:605][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.07.28-23.49.31:606][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.07.28-23.49.31:803][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.07.28-23.49.31:820][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.07.28-23.49.31:861][  0]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2020.07.28-23.49.31:902][  0]LogInit: FAudioDevice initialized.
-[2020.07.28-23.49.31:902][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.07.28-23.49.31:968][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2020.07.28-23.49.31:975][  0]LogInit: Texture streaming: Enabled
-[2020.07.28-23.49.31:992][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.07.28-23.49.31:992][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2020.07.28-23.49.31:993][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2020.07.28-23.49.32:049][  0]LogInit: Transaction tracking system initialized
-[2020.07.28-23.49.32:075][  0]BlueprintLog: New page: Editor Load
-[2020.07.28-23.49.32:159][  0]LocalizationService: Localization service is disabled
-[2020.07.28-23.49.32:416][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/' took 0.00s
-[2020.07.28-23.49.32:416][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.07.28-23.49.32:416][  0]LogCook: Display: Mobile HDR setting 1
-[2020.07.28-23.49.33:873][  0]SourceControl: Source control is disabled
-[2020.07.28-23.49.33:873][  0]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.07.28-23.49.33:874][  0]LightingResults: New page: Lighting Build
-[2020.07.28-23.49.33:875][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2020.07.28-23.49.33:876][  0]MapCheck: New page: Map Check
-[2020.07.28-23.49.33:876][  0]LightingResults: New page: Lighting Build
-[2020.07.28-23.49.33:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
-[2020.07.28-23.49.33:933][  0]LogAIModule: Creating AISystem for world MM_Level
-[2020.07.28-23.49.33:934][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.07.28-23.49.33:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
-[2020.07.28-23.49.33:954][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.07.28-23.49.33:954][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,231ms to complete.
-[2020.07.28-23.49.33:954][  0]LogFileHelpers: Loading map 'MM_Level' took 0.081
-[2020.07.28-23.49.34:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.28-23.49.34:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.28-23.49.34:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.28-23.49.34:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.07.28-23.49.34:089][  0]LogCollectionManager: Loaded 0 collections in 0.001315 seconds
-[2020.07.28-23.49.34:097][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Saved/Collections/' took 0.00s
-[2020.07.28-23.49.34:097][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/Developers/joeym/Collections/' took 0.00s
-[2020.07.28-23.49.34:097][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/Collections/' took 0.00s
-[2020.07.28-23.49.34:097][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2020.07.28-23.49.34:104][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3071 classes and 775 folders.
-[2020.07.28-23.49.34:108][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.07.28-23.49.34:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2020.07.28-23.49.34:168][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
-[2020.07.28-23.49.34:211][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
-[2020.07.28-23.49.34:224][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.07.28-23.49.34:225][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.07.28-23.49.34:236][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2020.07.28-23.49.34:237][  0]LogLoad: (Engine Initialization) Total time: 10.34 seconds
-[2020.07.28-23.49.34:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.07.28-23.49.34:286][  0]LogAssetRegistry: Asset discovery search completed in 7.1043 seconds
-[2020.07.28-23.49.34:289][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
-[2020.07.28-23.49.34:289][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
-[2020.07.28-23.49.34:289][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2020.07.28-23.49.34:299][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.07.28-23.49.34:347][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.07.28-23.49.34:367][  0]LogRenderer: Reallocating scene render targets to support 764x244 Format 10 NumSamples 1 (Frame:1).
-[2020.07.28-23.49.36:726][138]LogRenderer: Reallocating scene render targets to support 1152x420 Format 10 NumSamples 1 (Frame:139).
-[2020.07.28-23.49.37:226][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.07.28-23.49.40:165][456]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2020.07.28-23.49.42:586][727]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.07.28-23.49.46:478][181]LogSlate: Window 'Project Settings' being destroyed
-[2020.07.28-23.49.46:484][181]LogSlate: Window 'Project Settings' being destroyed
-[2020.07.28-23.49.47:689][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MM_Level" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.07.28-23.49.47:710][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
-[2020.07.28-23.49.47:803][320]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_LevelD8298669475A1B8A12D0B59EFA4FBB5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap'
-[2020.07.28-23.49.48:865][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:836][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.28-23.52.50:842][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.28-23.52.50:843][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:843][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.28-23.52.50:843][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.28-23.52.50:843][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.28-23.52.50:843][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.28-23.52.50:845][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.28-23.52.50:846][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.28-23.52.50:846][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Scalability.ini]
+[2020.07.28-23.52.50:846][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.28-23.52.50:847][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.28-23.52.50:847][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.28-23.52.50:847][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.28-23.52.50:847][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.28-23.52.50:847][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Down2DieInventory/StructureInventory/Saved/Config/Windows/Engine.ini]
+[2020.07.28-23.52.50:847][  0]LogInit: Computer: JOEYCOMPUTER
+[2020.07.28-23.52.50:847][  0]LogInit: User: joeym
+[2020.07.28-23.52.50:847][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.28-23.52.50:847][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.28-23.52.50:847][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.28-23.52.50:847][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.28-23.52.50:847][  0]LogMemory: Process Physical Memory: 101.43 MB used, 101.43 MB peak
+[2020.07.28-23.52.50:847][  0]LogMemory: Process Virtual Memory: 100.66 MB used, 100.66 MB peak
+[2020.07.28-23.52.50:847][  0]LogMemory: Physical Memory: 6856.68 MB used,  9456.93 MB free, 16313.61 MB total
+[2020.07.28-23.52.50:847][  0]LogMemory: Virtual Memory: 4669.78 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.07.28-23.52.50:852][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.28-23.52.50:879][  0]LogInit: Using OS detected language (nl-NL).
+[2020.07.28-23.52.50:879][  0]LogInit: Using OS detected locale (nl-NL).
+[2020.07.28-23.52.50:880][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2020.07.28-23.52.51:035][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.28-23.52.51:076][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.28-23.52.51:076][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.28-23.52.51:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.28-23.52.51:294][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.28-23.52.51:353][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.07.28-23.52.51:353][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.28-23.52.51:356][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.28-23.52.51:356][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.28-23.52.51:356][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.28-23.52.51:363][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.28-23.52.51:364][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.28-23.52.51:364][  0]LogWindows: EnumDisplayDevices:
+[2020.07.28-23.52.51:364][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.07.28-23.52.51:364][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.07.28-23.52.51:364][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.28-23.52.51:364][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.28-23.52.51:365][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.28-23.52.51:365][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.07.28-23.52.51:365][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.07.28-23.52.51:365][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.07.28-23.52.51:365][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.07.28-23.52.51:402][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.28-23.52.51:413][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.28-23.52.51:703][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.28-23.52.51:711][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.28-23.52.51:722][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.28-23.52.51:730][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.28-23.52.51:738][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.28-23.52.51:752][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.28-23.52.51:765][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.28-23.52.51:774][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.28-23.52.51:779][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.28-23.52.51:816][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.28-23.52.51:819][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.28-23.52.51:837][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.28-23.52.51:837][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.28-23.52.51:853][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.28-23.52.51:853][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.28-23.52.51:863][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.28-23.52.51:872][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.28-23.52.51:882][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.28-23.52.51:893][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.28-23.52.51:934][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.28-23.52.51:934][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.28-23.52.51:935][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.28-23.52.51:954][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.28-23.52.52:059][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Down2DieInventory/StructureInventory/Intermediate/Shaders/WorkingDirectory/15520/).
+[2020.07.28-23.52.52:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/666BC3A547C52441A315E08B50EFE069/'.
+[2020.07.28-23.52.52:063][  0]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.28-23.52.52:063][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.28-23.52.52:063][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.28-23.52.52:063][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.28-23.52.52:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.28-23.52.52:743][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.28-23.52.52:743][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.07.28-23.52.52:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Down2DieInventory/StructureInventory/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.28-23.52.52:744][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.28-23.52.52:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Down2DieInventory/StructureInventory/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.28-23.52.52:744][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.28-23.52.52:754][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.28-23.52.52:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.07.28-23.52.52:756][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.28-23.52.52:756][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.28-23.52.52:756][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.28-23.52.52:773][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.28-23.52.52:776][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.28-23.52.52:776][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.28-23.52.52:830][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.07.28-23.52.53:081][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.28-23.52.53:214][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.28-23.52.53:214][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.28-23.52.53:214][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.28-23.52.53:214][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.28-23.52.53:214][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.28-23.52.53:222][  0]LogNetVersion: StructureInventory 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2032503810)
+[2020.07.28-23.52.53:600][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.064394 seconds
+[2020.07.28-23.52.53:607][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.07.28-23.52.53:607][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.07.28-23.52.53:607][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.28-23.52.54:410][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.28-23.52.54:414][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.28-23.52.54:476][  0]SourceControl: Source control is disabled
+[2020.07.28-23.52.54:476][  0]SourceControl: Source control is disabled
+[2020.07.28-23.52.54:478][  0]SourceControl: Source control is disabled
+[2020.07.28-23.52.54:479][  0]SourceControl: Source control is disabled
+[2020.07.28-23.52.54:680][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.28-23.52.54:842][  0]LogOcInput: OculusInput pre-init called
+[2020.07.28-23.52.54:852][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.28-23.52.54:852][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.28-23.52.57:241][  0]LogEngine: Initializing Engine...
+[2020.07.28-23.52.57:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.28-23.52.57:242][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.28-23.52.57:426][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.28-23.52.57:436][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.28-23.52.57:479][  0]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.28-23.52.57:518][  0]LogInit: FAudioDevice initialized.
+[2020.07.28-23.52.57:518][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.28-23.52.57:569][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.28-23.52.57:575][  0]LogInit: Texture streaming: Enabled
+[2020.07.28-23.52.57:591][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.28-23.52.57:591][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.28-23.52.57:592][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.28-23.52.57:641][  0]LogInit: Transaction tracking system initialized
+[2020.07.28-23.52.57:666][  0]BlueprintLog: New page: Editor Load
+[2020.07.28-23.52.57:727][  0]LocalizationService: Localization service is disabled
+[2020.07.28-23.52.57:955][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/' took 0.00s
+[2020.07.28-23.52.57:955][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.28-23.52.57:955][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.28-23.52.59:398][  0]SourceControl: Source control is disabled
+[2020.07.28-23.52.59:399][  0]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.28-23.52.59:399][  0]LightingResults: New page: Lighting Build
+[2020.07.28-23.52.59:401][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.28-23.52.59:401][  0]MapCheck: New page: Map Check
+[2020.07.28-23.52.59:401][  0]LightingResults: New page: Lighting Build
+[2020.07.28-23.52.59:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.07.28-23.52.59:457][  0]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.28-23.52.59:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.28-23.52.59:477][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.07.28-23.52.59:477][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.28-23.52.59:477][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,238ms to complete.
+[2020.07.28-23.52.59:477][  0]LogFileHelpers: Loading map 'MM_Level' took 0.079
+[2020.07.28-23.52.59:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.52.59:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.52.59:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.52.59:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.28-23.52.59:623][  0]LogCollectionManager: Loaded 0 collections in 0.001080 seconds
+[2020.07.28-23.52.59:628][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Saved/Collections/' took 0.00s
+[2020.07.28-23.52.59:628][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/Developers/joeym/Collections/' took 0.00s
+[2020.07.28-23.52.59:628][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/Content/Collections/' took 0.00s
+[2020.07.28-23.52.59:628][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.07.28-23.52.59:635][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3071 classes and 775 folders.
+[2020.07.28-23.52.59:640][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.28-23.52.59:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.28-23.52.59:699][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.07.28-23.52.59:745][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.07.28-23.52.59:756][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.28-23.52.59:759][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.28-23.52.59:762][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.28-23.52.59:811][  0]LogRenderer: Reallocating scene render targets to support 1152x412 Format 10 NumSamples 1 (Frame:1).
+[2020.07.28-23.52.59:888][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.28-23.52.59:888][  0]LogLoad: (Engine Initialization) Total time: 10.62 seconds
+[2020.07.28-23.52.59:888][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.28-23.52.59:935][  0]LogAssetRegistry: Asset discovery search completed in 7.1056 seconds
+[2020.07.28-23.52.59:938][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.07.28-23.52.59:938][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2020.07.28-23.52.59:938][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.07.28-23.52.59:972][  0]LogRenderer: Reallocating scene render targets to support 1152x420 Format 10 NumSamples 1 (Frame:3).
+[2020.07.28-23.52.59:972][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.28-23.53.01:006][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.28-23.53.01:872][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.28-23.53.03:649][429]LogTemp: Repeating last play command: Standalone Game
+[2020.07.28-23.53.03:678][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
