@@ -598,3 +598,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-19.47.09:258][197]LogSlate: Window 'MyPlayerController' being destroyed
 [2020.07.29-19.47.09:262][197]LogSlate: Window 'MyPlayerController' being destroyed
 [2020.07.29-19.47.09:278][197]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-19.48.23:277][526]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-19.48.23:315][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.29-19.48.57:106][879]LogRenderer: Reallocating scene render targets to support 1060x500 Format 10 NumSamples 1 (Frame:11099).
+[2020.07.29-19.49.04:019][549]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.29-19.49.09:400][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-19.49.09:553][ 58]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerFE0297284C8E31B7512888A6F5504E1D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-19.49.28:102][892]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-19.49.28:351][892]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-19.49.28:351][892]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-19.49.28:351][892]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-19.49.28:351][892]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-19.49.28:526][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.07.29-19.49.28:877][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-19.49.29:015][919]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer6B1A422C49A99C65BD38CB99FD124B6A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-19.49.30:704][102]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2020.07.29-19.49.43:922][589]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.29-19.49.44:153][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.07.29-19.49.44:591][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-19.49.44:865][632]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentF31919234ED5794CA8C0A8BABFA3EEFF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-19.49.48:179][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-19.49.48:331][988]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerB72209DD4CF678A84BDB51911E7A3326.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-19.49.49:670][111]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.07.29-19.49.49:674][111]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.07.29-19.49.49:681][111]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-19.49.49:726][111]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-19.49.51:372][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerState.MyPlayerState
+[2020.07.29-19.50.03:310][572]BlueprintLog: New page: Compile MyPlayerState
+[2020.07.29-19.50.03:502][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.07.29-19.50.05:511][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.07.29-19.50.05:611][800]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState7CF49203484F0CB09D47EEA37582D1F4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.07.29-19.50.10:482][315]BlueprintLog: New page: Compile MyPlayerState
+[2020.07.29-19.50.10:661][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.07.29-19.50.11:072][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.07.29-19.50.11:170][353]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState55ED6E1E49681787F136F49BA5C6A40C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.07.29-19.50.12:795][530]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-19.50.12:800][530]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-19.50.12:807][530]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-19.51.49:168][579]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerState.MyPlayerState
+[2020.07.29-19.51.51:209][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.07.29-19.51.51:317][757]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState98550AA94A4D478D6852FA93CDC784D4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.07.29-19.51.52:302][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.07.29-19.51.52:320][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.29-19.51.52:347][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.29-19.51.52:553][859]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel6C53BA2440278205B5F35EA9170C11B6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.29-19.51.52:583][859]LogFileHelpers: Saving map 'MyLevel' took 0.264
+[2020.07.29-19.51.53:581][968]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-19.51.53:586][968]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-19.51.53:586][968]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-19.51.54:396][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.29-19.51.54:421][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.07.29-19.51.54:617][ 57]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelC56E825E402DDDBA081AEFBB68A44C5D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.29-19.51.54:646][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.07.29-19.51.54:723][ 57]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltData95AC05EB43A922AB4485A1864B45372F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
