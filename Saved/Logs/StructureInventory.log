@@ -1230,3 +1230,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-16.21.39:029][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2020.07.29-16.21.40:326][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2020.07.29-16.21.41:704][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.07.29-16.22.42:167][831]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-16.22.42:198][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.07.29-16.23.21:325][547]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-16.23.21:357][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.07.29-16.25.03:377][167]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerController.MyPlayerController
+[2020.07.29-16.25.08:837][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset" SILENT=true
+[2020.07.29-16.25.08:860][767]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerController6DB96FBB4297D8E14DEE0FA5CF4B01EC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset'
+[2020.07.29-16.25.18:526][686]LogSlate: Window 'MyPlayerController' being destroyed
+[2020.07.29-16.25.18:530][686]LogSlate: Window 'MyPlayerController' being destroyed
+[2020.07.29-16.25.18:530][686]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.25.31:524][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.29-16.25.45:182][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-16.25.45:277][103]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerFBFC9B714F1293DFD11952BAC9DD1388.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-16.25.47:381][304]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.25.47:386][304]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.25.47:395][304]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.25.51:109][742]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.29-16.26.24:127][343]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-16.26.24:338][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.29-16.26.26:957][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-16.26.27:055][604]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer47479E9542F06D065F12C09247FA0BF2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-16.26.35:003][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-16.26.35:090][413]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerD52C2F23435066B25CF48991CC2A080B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-16.26.54:844][537]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.26.54:849][537]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.26.54:857][537]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.26.56:318][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerState.MyPlayerState
+[2020.07.29-16.27.03:571][447]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-16.27.03:574][447]LogSlate: Window 'MyPlayerState' being destroyed
+[2020.07.29-16.27.03:588][447]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.27.05:765][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/GameHUD.GameHUD
+[2020.07.29-16.27.20:206][320]BlueprintLog: New page: Compile GameHUD
+[2020.07.29-16.27.20:440][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.07.29-16.27.20:650][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.29-16.27.20:700][338]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD7A75BE63464FDB36F915A4BAA12C698C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.29-16.27.30:558][442]BlueprintLog: New page: Compile GameHUD
+[2020.07.29-16.27.30:793][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.07.29-16.27.41:616][679]BlueprintLog: New page: Compile GameHUD
+[2020.07.29-16.27.41:855][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.29-16.27.42:119][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.29-16.27.42:160][704]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUDEA4E64194703D2AEF78CB4AEF0BA3577.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.29-16.27.43:454][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.07.29-16.27.44:287][939]LogSlate: Window 'GameHUD' being destroyed
+[2020.07.29-16.27.44:291][939]LogSlate: Window 'GameHUD' being destroyed
+[2020.07.29-16.27.44:300][939]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
