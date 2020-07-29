@@ -749,3 +749,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-00.09.59:585][426]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2020.07.29-00.09.59:621][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.07.29-00.09.59:622][426]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-00.10.35:489][684]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-00.10.35:528][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.07.29-00.10.51:976][707]LogAIModule: Creating AISystem for world MM_Level
+[2020.07.29-00.10.51:978][707]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MM_Level.MM_Level
+[2020.07.29-00.10.52:001][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.07.29-00.10.52:002][707]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.29-00.10.52:002][707]LightingResults: New page: Lighting Build
+[2020.07.29-00.10.52:002][707]LoadErrors: New page: Loading map: MM_Level.umap
+[2020.07.29-00.10.52:002][707]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-00.10.52:003][707]MapCheck: New page: Map Check
+[2020.07.29-00.10.52:003][707]LightingResults: New page: Lighting Build
+[2020.07.29-00.10.52:032][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.29-00.10.52:089][707]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.29-00.10.52:114][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.29-00.10.52:134][707]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.29-00.10.52:134][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,201ms to complete.
+[2020.07.29-00.10.52:134][707]LogFileHelpers: Loading map 'MM_Level' took 0.132
+[2020.07.29-00.10.52:975][803]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-00.10.53:008][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.29-00.11.05:106][155]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-00.11.05:139][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.29-00.11.37:197][ 14]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MM_Pawn.MM_Pawn
+[2020.07.29-00.11.43:526][614]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.29-00.11.43:690][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.07.29-00.11.44:060][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-00.11.44:102][649]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn8635414944C2F81756E4D4815992DDE4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-00.11.58:077][240]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.29-00.11.58:238][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.07.29-00.11.58:553][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-00.11.58:593][270]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_PawnFA23D8A04CD112C5EF84518031AACABC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-00.11.59:773][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
