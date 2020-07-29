@@ -780,3 +780,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-00.11.58:553][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
 [2020.07.29-00.11.58:593][270]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_PawnFA23D8A04CD112C5EF84518031AACABC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
 [2020.07.29-00.11.59:773][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.07.29-00.12.20:169][738]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-00.12.20:206][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.29-00.13.06:554][559]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.29-00.13.06:722][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.07.29-00.13.06:974][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-00.13.07:015][580]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_PawnC9AE3F33477CACE4A2E40A9EAF195CD7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-00.13.08:399][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
