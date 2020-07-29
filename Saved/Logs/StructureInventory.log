@@ -6098,3 +6098,9 @@ Make sure 'MyPlayerState_C' has been compiled for  Get InventoryComponent
 [2020.07.29-18.26.35:547][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
 [2020.07.29-18.26.35:739][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
 [2020.07.29-18.26.35:856][928]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer5971F3404F22E9AA496CB78505B60B20.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-18.26.45:093][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.07.29-18.26.51:491][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-18.26.51:595][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer438E730A4E6927B967498B81408D06D2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-18.26.53:265][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.07.29-18.27.01:852][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.29-18.27.02:237][454]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemEBDE71BE4819FB38120D8F832F37D556.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
