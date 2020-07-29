@@ -672,3 +672,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-00.03.02:607][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
 [2020.07.29-00.03.02:642][411]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode94257FE746A18426078F7988902F3640.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
 [2020.07.29-00.03.03:685][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.29-00.03.46:612][903]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-00.03.46:652][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.29-00.04.41:434][ 29]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-00.04.51:551][191]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-00.04.51:713][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.07.29-00.04.52:098][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-00.04.52:124][232]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode09F20A754A8D0C052863BCA84A3EF382.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-00.04.54:188][468]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-00.04.57:467][841]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-00.04.57:629][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.07.29-00.04.58:095][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-00.04.58:122][892]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode4059A80E459612148BEF28A73B3777DD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-00.04.59:093][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
