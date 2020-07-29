@@ -672,3 +672,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-16.00.05:131][582]LogSlate: Window 'MyGamemode' being destroyed
 [2020.07.29-16.00.05:136][582]LogSlate: Window 'MyGamemode' being destroyed
 [2020.07.29-16.00.05:152][582]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.01.01:896][942]LogTemp: Repeating last play command: Standalone Game
+[2020.07.29-16.01.01:932][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.07.29-16.01.33:568][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.29-16.01.35:007][751]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.01.35:012][751]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-16.01.35:021][751]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-16.01.36:146][879]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MM_Pawn.MM_Pawn
+[2020.07.29-16.01.43:222][605]BlueprintLog: New page: Compile MM_Pawn
+[2020.07.29-16.01.43:383][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.07.29-16.01.43:774][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-16.01.43:801][643]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn61E971844A550825D07D79BA6F3B2662.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-16.01.45:409][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-16.01.45:437][823]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn42A741454588C11E0ED13FBD3EECC39D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-16.01.46:546][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.07.29-16.01.51:511][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MM_Pawn" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset" SILENT=true
+[2020.07.29-16.01.51:535][514]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MM_Pawn9581DE39405E2AF48C7E0A963E6F067F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MM_Pawn.uasset'
+[2020.07.29-16.01.52:654][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.29-16.01.53:321][707]LogSlate: Window 'MM_Pawn' being destroyed
+[2020.07.29-16.01.53:326][707]LogSlate: Window 'MM_Pawn' being destroyed
+[2020.07.29-16.01.53:342][707]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
