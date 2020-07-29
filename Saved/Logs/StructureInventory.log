@@ -609,3 +609,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-15.53.27:790][238]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2020.07.29-15.53.38:627][279]LogSlate: Window 'Project Settings' being destroyed
 [2020.07.29-15.53.38:632][279]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.29-15.54.10:116][515]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={2F800026-499A-D030-2B4C-539CD5CD1485}
+[2020.07.29-15.55.06:701][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.07.29-15.57.01:370][754]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.29-15.57.01:381][754]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2020.07.29-15.57.01:750][754]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.29-15.57.02:754][754]LogSlate: Took 0.015552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.29-15.57.02:939][755]LogSlate: Took 0.050259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.29-15.57.08:433][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-15.57.08:662][171]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent91E047AF44D35829000B368D3F5A36B0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-15.57.09:877][304]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.07.29-15.57.09:881][304]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.07.29-15.57.09:912][304]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-15.57.13:096][671]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.29-15.57.58:007][269]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-15.57.58:353][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.07.29-15.58.15:514][895]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-15.58.15:726][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.29-15.58.16:149][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-15.58.16:265][927]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerC7255E1D4EDC32CF642CBFA4DD90A817.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-15.58.29:629][331]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-15.58.29:840][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.29-15.58.30:311][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-15.58.30:397][371]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerC619D7424992988BA56A709551609886.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-15.58.50:495][454]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-15.58.50:703][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.07.29-15.58.51:088][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-15.58.51:178][485]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerE7B15A914B67AA9AFE59ACB9CE8E0D47.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-15.58.57:507][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-15.58.57:588][110]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer36E9E4A749B63CB27F5FC38F931A5A96.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-15.58.59:352][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.07.29-15.59.01:143][429]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-15.59.01:148][429]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.29-15.59.01:162][429]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-15.59.04:544][823]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameRelated/MyGameState.MyGameState
+[2020.07.29-15.59.06:077][972]LogSlate: Window 'MyGameState' being destroyed
+[2020.07.29-15.59.06:081][972]LogSlate: Window 'MyGameState' being destroyed
+[2020.07.29-15.59.06:090][972]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-15.59.07:466][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameRelated/MyGamemode.MyGamemode
+[2020.07.29-15.59.16:410][125]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-15.59.16:567][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.07.29-15.59.16:912][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-15.59.16:931][161]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemodeD32C7F8F42C9585E99A1CE8E94964060.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-15.59.18:519][340]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-15.59.20:913][615]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-15.59.21:066][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.07.29-15.59.22:046][725]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-15.59.31:629][832]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-15.59.31:787][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.07.29-15.59.32:700][935]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-15.59.36:551][383]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-15.59.36:702][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.07.29-15.59.44:083][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-15.59.44:097][158]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode1602E346452241A59A62E386688114F7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-15.59.50:424][894]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.29-15.59.52:206][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-15.59.52:223][ 99]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemodeE965FFC4404CF2852289369C5D0FDBFB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-16.00.00:268][ 39]BlueprintLog: New page: Compile MyGamemode
+[2020.07.29-16.00.00:424][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.07.29-16.00.03:958][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset" SILENT=true
+[2020.07.29-16.00.03:975][451]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyGamemode6CA978E94CCB5F8DCE4D96A4558C1927.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyGamemode.uasset'
+[2020.07.29-16.00.05:131][582]LogSlate: Window 'MyGamemode' being destroyed
+[2020.07.29-16.00.05:136][582]LogSlate: Window 'MyGamemode' being destroyed
+[2020.07.29-16.00.05:152][582]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
