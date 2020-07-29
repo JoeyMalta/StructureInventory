@@ -592,3 +592,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-19.36.11:194][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2020.07.29-19.36.11:393][419]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel4EF75D2746AE5CE002E933BEECA79B6D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
 [2020.07.29-19.36.11:421][419]LogFileHelpers: Saving map 'MyLevel' took 0.253
+[2020.07.29-19.37.03:084][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.29-19.39.21:633][ 29]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AA13A9DA-417D-2139-6EA7-3AA3D723EE6F}
