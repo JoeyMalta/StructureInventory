@@ -4446,3 +4446,889 @@ Make sure 'MyPlayerState_C' has been compiled for  Get InventoryComponent
 [2020.07.29-17.53.28:132][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2020.07.29-17.53.28:329][111]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel4AB7430A4A0B89B69665E889486D7E42.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
 [2020.07.29-17.53.28:352][111]LogFileHelpers: Saving map 'MyLevel' took 0.259
+[2020.07.29-17.54.16:911][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.07.29-17.55.36:505][937]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.29-17.55.36:815][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.07.29-17.55.36:927][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.55.37:166][938]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentD902C47D4C004F1A5C32AD80DFF37B25.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.55.42:068][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.55.42:288][466]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent9B6EAAE74C961D8C3A4C7C8C8D83043F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.55.45:788][816]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.29-17.55.46:100][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.07.29-17.55.47:471][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.55.47:471][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.29-17.55.47:471][949]PIE: New page: PIE session: MyLevel (29 jul. 2020 21:55:47)
+[2020.07.29-17.55.47:471][949]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.55.47:474][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002308s)
+[2020.07.29-17.55.47:474][949]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.55.47:475][949]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2020.07.29-17.55.47:475][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003232s)
+[2020.07.29-17.55.47:517][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.07.29-17.55.47:517][949]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.55.47:543][949]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.29-17.55.47:576][949]LogInit: FAudioDevice initialized.
+[2020.07.29-17.55.47:585][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.55.47:585][949]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.29-17.55.47:586][949]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.55.47
+[2020.07.29-17.55.47:586][949]LogWorld: Bringing up level for play took: 0.000827
+[2020.07.29-17.55.47:586][949]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.07.29-17.55.47:589][949]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.55.47:589][949]LogTemp: Display: ParseSettings for IpNetDriver_54
+[2020.07.29-17.55.47:589][949]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.55.47:590][949]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.29-17.55.47:590][949]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.29-17.55.47:590][949]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.29-17.55.47:590][949]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.55.47:590][949]LogNet: GameNetDriver IpNetDriver_54 IpNetDriver listening on port 17777
+[2020.07.29-17.55.47:625][949]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel -0,565
+[2020.07.29-17.55.47:626][949]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.55.47:631][949]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.29-17.55.47:638][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.55.47:638][949]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MM_Level
+[2020.07.29-17.55.47:638][949]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.55.47:639][949]LogTemp: Display: ParseSettings for IpNetDriver_55
+[2020.07.29-17.55.47:639][949]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.29-17.55.47:639][949]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.29-17.55.47:640][949]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.55.47:640][949]LogNet: Game client on port 17777, rate 10000
+[2020.07.29-17.55.47:644][949]PIE: Play in editor start time for /Game/GameRelated/MM_Level -0,546
+[2020.07.29-17.55.47:652][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.55.47:653][949]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50655
+[2020.07.29-17.55.47:653][949]LogHandshake: SendConnectChallenge. Timestamp: 0.008729, Cookie: 254125011113216189149177173094203242180060200231013216225144
+[2020.07.29-17.55.47:654][949]LogHandshake: SendChallengeResponse. Timestamp: 0.008729, Cookie: 254125011113216189149177173094203242180060200231013216225144
+[2020.07.29-17.55.47:704][950]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50655
+[2020.07.29-17.55.47:704][950]LogHandshake: SendChallengeAck. InCookie: 254125011113216189149177173094203242180060200231013216225144
+[2020.07.29-17.55.47:704][950]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50655
+[2020.07.29-17.55.47:704][950]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.55.47:704][950]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 07/29/20 19:55:47, [UNetConnection] RemoteAddr: 127.0.0.1:50655, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_54, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.55.47:704][950]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50655, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_54, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.55.47:705][950]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_54, Driver: PendingNetDriver IpNetDriver_55, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.55.47:721][951]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.29-17.55.47:721][951]LogNet: Remote platform little endian=1
+[2020.07.29-17.55.47:721][951]LogNet: This platform little endian=1
+[2020.07.29-17.55.47:722][951]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.07.29-17.55.47:738][952]LogNet: Login request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338 userId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338 platform: NULL
+[2020.07.29-17.55.47:739][952]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.29-17.55.47:739][952]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.29-17.55.47:739][952]LogWorld: BeginTearingDown for /Temp/Untitled_28
+[2020.07.29-17.55.47:739][952]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.55.47:779][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.07.29-17.55.47:783][952]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.55.47:783][952]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.55.47:784][952]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.55.47
+[2020.07.29-17.55.47:784][952]LogWorld: Bringing up level for play took: 0.000653
+[2020.07.29-17.55.47:784][952]LogLoad: Took 0.045647 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.29-17.55.47:806][953]LogNet: Client netspeed is 10000
+[2020.07.29-17.55.47:807][953]LogNet: Join request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338?SplitscreenCount=1
+[2020.07.29-17.55.47:807][953]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.55.47:808][953]LogNet: Join succeeded: JOEYCOMPUTER-3909914
+[2020.07.29-17.55.48:546][  6]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_54.InventoryContainer_C_1 NOT Supported.
+[2020.07.29-17.55.48:546][  6]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_54.InventoryContainer_C_0 NOT Supported.
+[2020.07.29-17.55.49:691][ 94]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.55.49:715][ 96]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.55.49:715][ 96]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.55.49:755][ 96]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.55.49:755][ 96]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.55.49:782][ 98]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:1067
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:1048
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:109A
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:1067
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:1048
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	MyPlayer_C /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:109A
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:821][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:822][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:823][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:824][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:825][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:826][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:827][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:828][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:829][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:830][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:831][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:832][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:833][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:834][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:835][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:836][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:837][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:838][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:839][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:840][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:841][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:842][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:843][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:844][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:845][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:846][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:847][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:848][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:849][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:850][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:851][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:852][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:853][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:854][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:855][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:856][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:857][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:858][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:859][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:860][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:861][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:862][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:863][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:864][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:864][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:864][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:864][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:864][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:865][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:866][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:866][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:866][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:866][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:867][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:868][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:868][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:868][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:869][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:870][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:871][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:871][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:871][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:871][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:871][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:872][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:872][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:872][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:872][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:873][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:874][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:874][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:874][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:875][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsInventory_Container". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:875][101]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.49:875][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  UpdateInventoryGraph Node:  Update Slot
+[2020.07.29-17.55.54:164][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.56.01:887][888]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_2. Function SRV_EndOverlap will not be processed.
+[2020.07.29-17.56.06:173][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.06:174][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.06:174][163]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.29-17.56.06:185][163]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.56.06:189][163]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.06:190][163]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.56.06:197][163]LogNet: World NetDriver shutdown IpNetDriver_55 [GameNetDriver]
+[2020.07.29-17.56.06:197][163]LogNet: DestroyNamedNetDriver IpNetDriver_55 [GameNetDriver]
+[2020.07.29-17.56.06:197][163]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_55, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338, Channels: 37, Time: 2020.07.29-17.56.06
+[2020.07.29-17.56.06:197][163]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_55, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338
+[2020.07.29-17.56.06:197][163]LogExit: GameNetDriver IpNetDriver_55 shut down
+[2020.07.29-17.56.06:198][163]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.56.06:198][163]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.29-17.56.06:199][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.06:210][163]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.56.06:216][163]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.06:216][163]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.56.06:220][163]LogNet: World NetDriver shutdown IpNetDriver_54 [GameNetDriver]
+[2020.07.29-17.56.06:220][163]LogNet: DestroyNamedNetDriver IpNetDriver_54 [GameNetDriver]
+[2020.07.29-17.56.06:220][163]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50655, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_54, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338
+[2020.07.29-17.56.06:220][163]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50655, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_54, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338, Channels: 37, Time: 2020.07.29-17.56.06
+[2020.07.29-17.56.06:220][163]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50655, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_54, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-39099145470EB6D1F03D90AD8FC82338
+[2020.07.29-17.56.06:221][163]LogExit: GameNetDriver IpNetDriver_54 shut down
+[2020.07.29-17.56.06:222][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.29-17.56.06:222][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.06:277][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.07.29-17.56.06:335][164]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.07.29-17.56.06:335][164]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.07.29-17.56.08:020][301]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.56.08:024][301]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.56.11:620][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.56.11:834][672]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentF59B74694DE0A8A36977BAB07BEF77FF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.56.21:572][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.56.21:795][674]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentD5D2855B423A1BA792930A8527ADA93D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.56.23:364][828]LogEditorViewport: Clicking on Actor (LMB): Loot_Chest_C (Loot_Chest)
+[2020.07.29-17.56.24:301][938]Cmd: DELETE
+[2020.07.29-17.56.24:301][938]Cmd: ACTOR DELETE
+[2020.07.29-17.56.24:387][938]LogEditorActor: Deleted Actor: Loot_Chest_C
+[2020.07.29-17.56.24:427][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.07.29-17.56.24:427][938]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.07.29-17.56.24:811][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.56.25:647][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.29-17.56.25:675][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.25:675][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.29-17.56.25:675][ 83]PIE: New page: PIE session: MyLevel (29 jul. 2020 21:56:25)
+[2020.07.29-17.56.25:675][ 83]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.56.25:677][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2020.07.29-17.56.25:678][ 83]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.56.25:678][ 83]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2020.07.29-17.56.25:678][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003168s)
+[2020.07.29-17.56.25:716][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.07.29-17.56.25:716][ 83]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.25:741][ 83]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.29-17.56.25:773][ 83]LogInit: FAudioDevice initialized.
+[2020.07.29-17.56.25:782][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.25:782][ 83]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.29-17.56.25:783][ 83]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.56.25
+[2020.07.29-17.56.25:784][ 83]LogWorld: Bringing up level for play took: 0.001097
+[2020.07.29-17.56.25:784][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2020.07.29-17.56.25:786][ 83]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.56.25:787][ 83]LogTemp: Display: ParseSettings for IpNetDriver_56
+[2020.07.29-17.56.25:787][ 83]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.56.25:787][ 83]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.29-17.56.25:787][ 83]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.29-17.56.25:787][ 83]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.29-17.56.25:787][ 83]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.56.25:787][ 83]LogNet: GameNetDriver IpNetDriver_56 IpNetDriver listening on port 17777
+[2020.07.29-17.56.25:791][ 83]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel -0,399
+[2020.07.29-17.56.25:792][ 83]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.25:797][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.29-17.56.25:804][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.25:804][ 83]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MM_Level
+[2020.07.29-17.56.25:804][ 83]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.56.25:804][ 83]LogTemp: Display: ParseSettings for IpNetDriver_57
+[2020.07.29-17.56.25:805][ 83]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.29-17.56.25:805][ 83]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.29-17.56.25:805][ 83]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.56.25:806][ 83]LogNet: Game client on port 17777, rate 10000
+[2020.07.29-17.56.25:810][ 83]PIE: Play in editor start time for /Game/GameRelated/MM_Level -0,38
+[2020.07.29-17.56.25:816][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.25:816][ 83]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50666
+[2020.07.29-17.56.25:816][ 83]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 098221059079222120045197028148072200236206038102044210089250
+[2020.07.29-17.56.25:817][ 83]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 098221059079222120045197028148072200236206038102044210089250
+[2020.07.29-17.56.25:864][ 84]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50666
+[2020.07.29-17.56.25:864][ 84]LogHandshake: SendChallengeAck. InCookie: 098221059079222120045197028148072200236206038102044210089250
+[2020.07.29-17.56.25:864][ 84]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50666
+[2020.07.29-17.56.25:864][ 84]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.56.25:864][ 84]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 07/29/20 19:56:25, [UNetConnection] RemoteAddr: 127.0.0.1:50666, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.56.25:864][ 84]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50666, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.56.25:865][ 84]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: PendingNetDriver IpNetDriver_57, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.56.25:877][ 85]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.29-17.56.25:877][ 85]LogNet: Remote platform little endian=1
+[2020.07.29-17.56.25:877][ 85]LogNet: This platform little endian=1
+[2020.07.29-17.56.25:878][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.07.29-17.56.25:891][ 86]LogNet: Login request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678 userId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678 platform: NULL
+[2020.07.29-17.56.25:892][ 86]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.29-17.56.25:892][ 86]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.29-17.56.25:892][ 86]LogWorld: BeginTearingDown for /Temp/Untitled_29
+[2020.07.29-17.56.25:892][ 86]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.56.25:933][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.07.29-17.56.25:937][ 86]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.56.25:937][ 86]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.56.25:938][ 86]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.56.25
+[2020.07.29-17.56.25:938][ 86]LogWorld: Bringing up level for play took: 0.000546
+[2020.07.29-17.56.25:938][ 86]LogLoad: Took 0.047638 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.29-17.56.25:955][ 87]LogNet: Client netspeed is 10000
+[2020.07.29-17.56.25:955][ 87]LogNet: Join request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678?SplitscreenCount=1
+[2020.07.29-17.56.25:956][ 87]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.56.25:958][ 87]LogNet: Join succeeded: JOEYCOMPUTER-53A7F44
+[2020.07.29-17.56.26:776][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.56.26:828][176]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_56.InventoryContainer_C_1 NOT Supported.
+[2020.07.29-17.56.26:828][176]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_56.InventoryContainer_C_0 NOT Supported.
+[2020.07.29-17.56.27:232][220]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.56.27:260][223]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.56.27:260][223]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.56.27:260][223]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.56.27:315][229]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.56.27:584][258]LogScript: Warning: Accessed None trying to read property GameHUD
+	MyPlayerController_C /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.MyPlayerController_C_0
+	Function /Game/MyPlayer/MyPlayerController.MyPlayerController_C:ExecuteUbergraph_MyPlayerController:0061
+[2020.07.29-17.56.27:584][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameHUD". Blueprint:  MyPlayerController Function:  Execute Ubergraph My Player Controller Graph:  EventGraph Node:  Show Inventory
+[2020.07.29-17.56.28:019][306]LogScript: Warning: Accessed None trying to read property GameHUD
+	MyPlayerController_C /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.MyPlayerController_C_0
+	Function /Game/MyPlayer/MyPlayerController.MyPlayerController_C:ExecuteUbergraph_MyPlayerController:008A
+[2020.07.29-17.56.28:019][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameHUD". Blueprint:  MyPlayerController Function:  Execute Ubergraph My Player Controller Graph:  EventGraph Node:  Hide Inventory
+[2020.07.29-17.56.32:141][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.56.34:252][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.56.35:470][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.35:471][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.35:471][896]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.29-17.56.35:482][896]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.56.35:487][896]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.35:487][896]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.56.35:497][896]LogNet: World NetDriver shutdown IpNetDriver_57 [GameNetDriver]
+[2020.07.29-17.56.35:497][896]LogNet: DestroyNamedNetDriver IpNetDriver_57 [GameNetDriver]
+[2020.07.29-17.56.35:497][896]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: GameNetDriver IpNetDriver_57, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678, Channels: 12, Time: 2020.07.29-17.56.35
+[2020.07.29-17.56.35:497][896]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: GameNetDriver IpNetDriver_57, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678
+[2020.07.29-17.56.35:497][896]LogExit: GameNetDriver IpNetDriver_57 shut down
+[2020.07.29-17.56.35:498][896]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.56.35:498][896]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.29-17.56.35:499][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.56.35:509][896]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.56.35:514][896]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.56.35:514][896]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.56.35:520][896]LogNet: World NetDriver shutdown IpNetDriver_56 [GameNetDriver]
+[2020.07.29-17.56.35:520][896]LogNet: DestroyNamedNetDriver IpNetDriver_56 [GameNetDriver]
+[2020.07.29-17.56.35:520][896]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50666, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678
+[2020.07.29-17.56.35:520][896]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50666, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678, Channels: 12, Time: 2020.07.29-17.56.35
+[2020.07.29-17.56.35:521][896]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50666, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-53A7F44349BDDE955982AE87C068F678
+[2020.07.29-17.56.35:521][896]LogExit: GameNetDriver IpNetDriver_56 shut down
+[2020.07.29-17.56.35:522][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.29-17.56.35:522][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.56.35:583][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.07.29-17.56.35:621][897]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.07.29-17.56.35:621][897]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.07.29-17.56.38:887][281]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.56.38:892][281]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.57.02:256][928]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.29-17.57.02:331][928]LogBlueprint: Warning: [Compiler BP_MasterItem] Could not find a variable named "InventoryComponent" in 'MyPlayerState_C'.
+Make sure 'MyPlayerState_C' has been compiled for  Get InventoryComponent
+[2020.07.29-17.57.02:458][928]LogBlueprint: Error: [Compiler BP_MasterItem] The property associated with  Inventory Component  could not be found in '/Game/Inventory/BP_MasterItem.BP_MasterItem_C'
+[2020.07.29-17.57.02:557][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:557][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:557][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:558][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:558][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:558][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:558][928]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.29-17.57.02:809][928]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.07.29-17.57.03:237][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.29-17.57.03:269][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.57.03:269][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.29-17.57.03:269][965]BlueprintLog: Warning: Blueprint failed to compile:  BP_MasterItem
+[2020.07.29-17.57.03:269][965]LogCustomDialog: Dialog displayed:
+[2020.07.29-17.57.04:887][965]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/BP_MasterItem.BP_MasterItem
+[2020.07.29-17.57.05:650][965]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.07.29-17.57.06:787][ 58]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.57.06:793][ 58]LogSlate: Window 'Message Log' being destroyed
+[2020.07.29-17.57.26:564][927]BlueprintLog: New page: Compile BP_MasterItem
+[2020.07.29-17.57.26:799][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.07.29-17.57.27:105][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.07.29-17.57.27:145][954]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/BP_MasterItemFB30F25746CEA3EDF0BD26B7DD99A878.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset'
+[2020.07.29-17.57.33:547][623]BlueprintLog: New page: Compile BP_MasterItem
+[2020.07.29-17.57.33:790][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.07.29-17.57.34:071][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.07.29-17.57.34:106][648]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/BP_MasterItemACF059A9411A5BF953857DA9D6550A64.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/BP_MasterItem.uasset'
+[2020.07.29-17.57.35:964][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.07.29-17.57.35:979][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.29-17.57.36:020][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.07.29-17.57.36:230][822]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel47C602E8454D343588CFCE839AA7DAD2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.29-17.57.36:256][822]LogFileHelpers: Saving map 'MyLevel' took 0.278
+[2020.07.29-17.57.36:259][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.57.36:470][822]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentA67F7C344DF2D910AE4251AA448DE8E0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.57.36:486][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-17.57.36:600][822]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerF3F1914D4B1B4E5F26A46A882E89538D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-17.57.37:565][917]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.57.42:288][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.29-17.57.42:656][269]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem5F935BFC4849ACAB9B1787AE7C584496.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.07.29-17.57.49:833][818]BlueprintLog: New page: Compile SlotItem
+[2020.07.29-17.57.49:982][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.07.29-17.57.57:633][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.57.57:862][572]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent28C2D82548F0EC04B0CDA0831D0F2CFA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.57.58:328][619]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.29-17.57.58:358][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.57.58:358][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.29-17.57.58:358][619]PIE: New page: PIE session: MyLevel (29 jul. 2020 21:57:58)
+[2020.07.29-17.57.58:358][619]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.57.58:361][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2020.07.29-17.57.58:362][619]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.57.58:362][619]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2020.07.29-17.57.58:362][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.004069s)
+[2020.07.29-17.57.58:407][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.07.29-17.57.58:407][619]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.57.58:433][619]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.29-17.57.58:467][619]LogInit: FAudioDevice initialized.
+[2020.07.29-17.57.58:475][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.57.58:475][619]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.29-17.57.58:477][619]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.57.58
+[2020.07.29-17.57.58:477][619]LogWorld: Bringing up level for play took: 0.001100
+[2020.07.29-17.57.58:478][619]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2020.07.29-17.57.58:480][619]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.57.58:480][619]LogTemp: Display: ParseSettings for IpNetDriver_58
+[2020.07.29-17.57.58:480][619]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.57.58:480][619]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.29-17.57.58:480][619]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.29-17.57.58:481][619]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.29-17.57.58:481][619]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.57.58:481][619]LogNet: GameNetDriver IpNetDriver_58 IpNetDriver listening on port 17777
+[2020.07.29-17.57.58:484][619]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 0,294
+[2020.07.29-17.57.58:486][619]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.57.58:491][619]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.29-17.57.58:498][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.57.58:498][619]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MM_Level
+[2020.07.29-17.57.58:498][619]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.57.58:498][619]LogTemp: Display: ParseSettings for IpNetDriver_59
+[2020.07.29-17.57.58:498][619]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.29-17.57.58:499][619]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.29-17.57.58:499][619]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.57.58:500][619]LogNet: Game client on port 17777, rate 10000
+[2020.07.29-17.57.58:503][619]PIE: Play in editor start time for /Game/GameRelated/MM_Level 0,313
+[2020.07.29-17.57.58:510][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.57.58:510][619]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51872
+[2020.07.29-17.57.58:510][619]LogHandshake: SendConnectChallenge. Timestamp: 0.008876, Cookie: 201143198021164145086134169242248126197044000072079042183135
+[2020.07.29-17.57.58:511][619]LogHandshake: SendChallengeResponse. Timestamp: 0.008876, Cookie: 201143198021164145086134169242248126197044000072079042183135
+[2020.07.29-17.57.58:564][620]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51872
+[2020.07.29-17.57.58:564][620]LogHandshake: SendChallengeAck. InCookie: 201143198021164145086134169242248126197044000072079042183135
+[2020.07.29-17.57.58:564][620]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51872
+[2020.07.29-17.57.58:565][620]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.57.58:565][620]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 07/29/20 19:57:58, [UNetConnection] RemoteAddr: 127.0.0.1:51872, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.57.58:565][620]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51872, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.57.58:566][620]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: PendingNetDriver IpNetDriver_59, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.57.58:581][621]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.29-17.57.58:581][621]LogNet: Remote platform little endian=1
+[2020.07.29-17.57.58:581][621]LogNet: This platform little endian=1
+[2020.07.29-17.57.58:582][621]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.07.29-17.57.58:596][622]LogNet: Login request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004 userId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004 platform: NULL
+[2020.07.29-17.57.58:597][622]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.29-17.57.58:597][622]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.29-17.57.58:597][622]LogWorld: BeginTearingDown for /Temp/Untitled_30
+[2020.07.29-17.57.58:598][622]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.57.58:638][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.07.29-17.57.58:641][622]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.57.58:642][622]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.57.58:643][622]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.57.58
+[2020.07.29-17.57.58:643][622]LogWorld: Bringing up level for play took: 0.000636
+[2020.07.29-17.57.58:643][622]LogLoad: Took 0.045870 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.29-17.57.58:665][623]LogNet: Client netspeed is 10000
+[2020.07.29-17.57.58:665][623]LogNet: Join request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004?SplitscreenCount=1
+[2020.07.29-17.57.58:666][623]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.57.58:667][623]LogNet: Join succeeded: JOEYCOMPUTER-E82B6B8
+[2020.07.29-17.57.59:698][699]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_58.InventoryContainer_C_1 NOT Supported.
+[2020.07.29-17.57.59:698][699]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_58.InventoryContainer_C_0 NOT Supported.
+[2020.07.29-17.57.59:737][702]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.57.59:776][705]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.57.59:792][706]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.57.59:792][706]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.57.59:792][706]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.58.02:736][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.58.05:159][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.05:160][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.05:160][ 39]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.29-17.58.05:172][ 39]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.58.05:177][ 39]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.05:177][ 39]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.58.05:186][ 39]LogNet: World NetDriver shutdown IpNetDriver_59 [GameNetDriver]
+[2020.07.29-17.58.05:186][ 39]LogNet: DestroyNamedNetDriver IpNetDriver_59 [GameNetDriver]
+[2020.07.29-17.58.05:186][ 39]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: GameNetDriver IpNetDriver_59, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004, Channels: 12, Time: 2020.07.29-17.58.05
+[2020.07.29-17.58.05:186][ 39]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: GameNetDriver IpNetDriver_59, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004
+[2020.07.29-17.58.05:186][ 39]LogExit: GameNetDriver IpNetDriver_59 shut down
+[2020.07.29-17.58.05:187][ 39]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.58.05:187][ 39]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.29-17.58.05:187][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.05:197][ 39]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.58.05:203][ 39]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.05:203][ 39]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.58.05:210][ 39]LogNet: World NetDriver shutdown IpNetDriver_58 [GameNetDriver]
+[2020.07.29-17.58.05:210][ 39]LogNet: DestroyNamedNetDriver IpNetDriver_58 [GameNetDriver]
+[2020.07.29-17.58.05:210][ 39]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51872, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004
+[2020.07.29-17.58.05:210][ 39]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51872, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004, Channels: 12, Time: 2020.07.29-17.58.05
+[2020.07.29-17.58.05:210][ 39]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51872, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-E82B6B8D4F8CA60153639D8ECD152004
+[2020.07.29-17.58.05:210][ 39]LogExit: GameNetDriver IpNetDriver_58 shut down
+[2020.07.29-17.58.05:211][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.29-17.58.05:211][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.05:269][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.07.29-17.58.05:291][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.07.29-17.58.05:291][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.07.29-17.58.08:820][378]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.29-17.58.09:149][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.07.29-17.58.09:740][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.29-17.58.09:770][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.09:771][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.29-17.58.09:771][428]PIE: New page: PIE session: MyLevel (29 jul. 2020 21:58:09)
+[2020.07.29-17.58.09:771][428]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.58.09:773][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2020.07.29-17.58.09:774][428]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.58.09:775][428]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2020.07.29-17.58.09:775][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003841s)
+[2020.07.29-17.58.09:821][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.07.29-17.58.09:821][428]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.09:847][428]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.29-17.58.09:881][428]LogInit: FAudioDevice initialized.
+[2020.07.29-17.58.09:891][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.09:891][428]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.29-17.58.09:892][428]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.58.09
+[2020.07.29-17.58.09:893][428]LogWorld: Bringing up level for play took: 0.001050
+[2020.07.29-17.58.09:893][428]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.07.29-17.58.09:896][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.58.09:896][428]LogTemp: Display: ParseSettings for IpNetDriver_60
+[2020.07.29-17.58.09:896][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.58.09:896][428]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.29-17.58.09:896][428]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.29-17.58.09:897][428]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.29-17.58.09:897][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.58.09:897][428]LogNet: GameNetDriver IpNetDriver_60 IpNetDriver listening on port 17777
+[2020.07.29-17.58.09:900][428]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel -0,29
+[2020.07.29-17.58.09:902][428]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.09:906][428]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.29-17.58.09:912][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.09:913][428]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MM_Level
+[2020.07.29-17.58.09:913][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.58.09:913][428]LogTemp: Display: ParseSettings for IpNetDriver_61
+[2020.07.29-17.58.09:913][428]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.29-17.58.09:914][428]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.29-17.58.09:914][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.58.09:914][428]LogNet: Game client on port 17777, rate 10000
+[2020.07.29-17.58.09:918][428]PIE: Play in editor start time for /Game/GameRelated/MM_Level -0,272
+[2020.07.29-17.58.09:925][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.09:925][428]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54859
+[2020.07.29-17.58.09:925][428]LogHandshake: SendConnectChallenge. Timestamp: 0.008440, Cookie: 209128202077025023121218097162045038124191069011033130125179
+[2020.07.29-17.58.09:926][428]LogHandshake: SendChallengeResponse. Timestamp: 0.008440, Cookie: 209128202077025023121218097162045038124191069011033130125179
+[2020.07.29-17.58.09:980][429]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54859
+[2020.07.29-17.58.09:980][429]LogHandshake: SendChallengeAck. InCookie: 209128202077025023121218097162045038124191069011033130125179
+[2020.07.29-17.58.09:980][429]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54859
+[2020.07.29-17.58.09:981][429]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.29-17.58.09:981][429]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 07/29/20 19:58:09, [UNetConnection] RemoteAddr: 127.0.0.1:54859, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.58.09:981][429]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54859, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.58.09:981][429]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: PendingNetDriver IpNetDriver_61, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.29-17.58.09:995][430]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.29-17.58.09:995][430]LogNet: Remote platform little endian=1
+[2020.07.29-17.58.09:995][430]LogNet: This platform little endian=1
+[2020.07.29-17.58.09:996][430]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.07.29-17.58.10:016][431]LogNet: Login request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441 userId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441 platform: NULL
+[2020.07.29-17.58.10:017][431]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.29-17.58.10:017][431]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.29-17.58.10:017][431]LogWorld: BeginTearingDown for /Temp/Untitled_31
+[2020.07.29-17.58.10:017][431]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.58.10:062][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.07.29-17.58.10:065][431]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-17.58.10:065][431]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.29-17.58.10:066][431]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.07.29-19.58.10
+[2020.07.29-17.58.10:066][431]LogWorld: Bringing up level for play took: 0.000451
+[2020.07.29-17.58.10:066][431]LogLoad: Took 0.049065 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.29-17.58.10:085][432]LogNet: Client netspeed is 10000
+[2020.07.29-17.58.10:085][432]LogNet: Join request: /Game/GameRelated/MM_Level?Name=JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441?SplitscreenCount=1
+[2020.07.29-17.58.10:086][432]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.58.10:087][432]LogNet: Join succeeded: JOEYCOMPUTER-C73669F
+[2020.07.29-17.58.11:139][512]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_60.InventoryContainer_C_1 NOT Supported.
+[2020.07.29-17.58.11:139][512]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:AdvancedFriendsGameInstance_60.InventoryContainer_C_0 NOT Supported.
+[2020.07.29-17.58.11:164][514]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.58.11:205][517]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.58.11:206][517]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.58.11:206][517]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_ResizeInventory will not be processed.
+[2020.07.29-17.58.11:232][519]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.29-17.58.12:739][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.58.15:534][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-17.58.17:482][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.17:483][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.17:483][917]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.29-17.58.17:494][917]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.58.17:497][917]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.17:497][917]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.58.17:504][917]LogNet: World NetDriver shutdown IpNetDriver_61 [GameNetDriver]
+[2020.07.29-17.58.17:504][917]LogNet: DestroyNamedNetDriver IpNetDriver_61 [GameNetDriver]
+[2020.07.29-17.58.17:504][917]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: GameNetDriver IpNetDriver_61, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441, Channels: 12, Time: 2020.07.29-17.58.17
+[2020.07.29-17.58.17:504][917]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: GameNetDriver IpNetDriver_61, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441
+[2020.07.29-17.58.17:504][917]LogExit: GameNetDriver IpNetDriver_61 shut down
+[2020.07.29-17.58.17:505][917]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.29-17.58.17:505][917]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.29-17.58.17:506][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.29-17.58.17:516][917]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.29-17.58.17:525][917]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.07.29-17.58.17:525][917]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-17.58.17:534][917]LogNet: World NetDriver shutdown IpNetDriver_60 [GameNetDriver]
+[2020.07.29-17.58.17:534][917]LogNet: DestroyNamedNetDriver IpNetDriver_60 [GameNetDriver]
+[2020.07.29-17.58.17:534][917]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54859, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441
+[2020.07.29-17.58.17:534][917]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54859, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441, Channels: 12, Time: 2020.07.29-17.58.17
+[2020.07.29-17.58.17:534][917]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54859, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-C73669F0456358B165D3E0AFA0E6C441
+[2020.07.29-17.58.17:534][917]LogExit: GameNetDriver IpNetDriver_60 shut down
+[2020.07.29-17.58.17:534][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.29-17.58.17:535][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.29-17.58.17:590][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.07.29-17.58.17:622][918]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.07.29-17.58.17:622][918]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.07.29-17.58.18:657][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.29-17.58.18:880][ 18]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent1D8992E5442AEA4FA790F69D69143D1B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.29-17.58.25:335][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.07.29-17.58.25:348][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.29-17.58.25:392][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.07.29-17.58.25:600][304]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelCD28E637482848C9987EA98955A29020.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.29-17.58.25:624][304]LogFileHelpers: Saving map 'MyLevel' took 0.275
+[2020.07.29-17.58.25:626][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.29-17.58.25:972][304]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem710235CB472A39D7304BADAD7504A88B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
