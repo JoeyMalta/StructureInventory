@@ -704,3 +704,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.29-00.07.42:100][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
 [2020.07.29-00.07.42:201][628]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer77CBBE1345EBE1B1A96BFAB7F759CDBD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
 [2020.07.29-00.07.43:489][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.07.29-00.09.21:522][884]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.29-00.09.21:527][884]LogAssetEditorManager: Opening Asset editor for World /Game/GameRelated/MyLevel.MyLevel
+[2020.07.29-00.09.21:558][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.07.29-00.09.21:559][884]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.29-00.09.21:559][884]LightingResults: New page: Lighting Build
+[2020.07.29-00.09.21:560][884]LoadErrors: New page: Loading map: MyLevel.umap
+[2020.07.29-00.09.21:560][884]LogWorld: UWorld::CleanupWorld for MM_Level, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-00.09.21:560][884]MapCheck: New page: Map Check
+[2020.07.29-00.09.21:560][884]LightingResults: New page: Lighting Build
+[2020.07.29-00.09.21:592][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.29-00.09.21:673][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.29-00.09.21:704][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.29-00.09.21:724][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.29-00.09.21:724][884]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,203ms to complete.
+[2020.07.29-00.09.21:724][884]LogFileHelpers: Loading map 'MyLevel' took 0.166
+[2020.07.29-00.09.22:491][947]LogEditorViewport: Clicking on Actor (LMB): Loot_Chest_C (Loot_Chest)
+[2020.07.29-00.09.23:239][ 19]Cmd: DELETE
+[2020.07.29-00.09.23:239][ 19]Cmd: ACTOR DELETE
+[2020.07.29-00.09.23:511][ 19]LogEditorActor: Deleted Actor: Loot_Chest_C
+[2020.07.29-00.09.23:543][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.29-00.09.23:544][ 19]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.07.29-00.09.23:863][ 50]LogEditorViewport: Clicking on Actor (LMB): Chest_C (Chest)
+[2020.07.29-00.09.24:083][ 71]Cmd: DELETE
+[2020.07.29-00.09.24:083][ 71]Cmd: ACTOR DELETE
+[2020.07.29-00.09.24:084][ 71]LogEditorActor: Deleted Actor: Chest_C
+[2020.07.29-00.09.24:109][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.29-00.09.24:109][ 71]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.29-00.09.27:766][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-00.09.33:219][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.29-00.09.33:233][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.29-00.09.33:263][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.29-00.09.33:427][924]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelF5F6CEE9456DD1D26883809027490372.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.29-00.09.33:451][924]LogFileHelpers: Saving map 'MyLevel' took 0.219
+[2020.07.29-00.09.35:901][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.29-00.09.53:740][890]BlueprintLog: New page: Compile MyPlayer
+[2020.07.29-00.09.53:963][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.07.29-00.09.54:263][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.29-00.09.54:369][910]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer7077E1A441DA45884CE7DB9C1C919CAE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.29-00.09.55:820][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.07.29-00.09.59:510][426]LogSlate: Window 'MyGamemode' being destroyed
+[2020.07.29-00.09.59:516][426]LogSlate: Window 'MyGamemode' being destroyed
+[2020.07.29-00.09.59:534][426]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-00.09.59:585][426]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.29-00.09.59:621][426]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.29-00.09.59:622][426]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
