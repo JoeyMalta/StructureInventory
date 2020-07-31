@@ -1081,3 +1081,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-16.18.34:611][  7]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataD2D2D6E24BD0BE18B302729F5C439E57.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
 [2020.07.31-16.18.35:537][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
 [2020.07.31-16.22.22:969][ 31]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={42E6C237-45B2-EEC6-66A5-69818BB55DE8}
+[2020.07.31-16.24.07:864][770]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.31-16.24.26:523][707]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-16.24.26:779][707]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.24.26:779][707]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.24.26:779][707]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.24.26:779][707]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.24.26:964][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.07.31-16.24.27:323][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.31-16.24.27:482][737]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerCD983A9541B6D15FA79E1FB1ECF0B06F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.31-16.24.28:860][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.07.31-16.24.28:873][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.31-16.24.28:903][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.31-16.24.29:116][877]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelC6C43A1F4EFAC6F7EFB75E8C88867DF1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.31-16.24.29:147][877]LogFileHelpers: Saving map 'MyLevel' took 0.275
+[2020.07.31-16.24.32:001][187]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.31-16.24.32:006][187]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.31-16.24.32:015][187]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-16.24.32:824][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
