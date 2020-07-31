@@ -1080,3 +1080,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-16.18.34:433][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
 [2020.07.31-16.18.34:611][  7]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltDataD2D2D6E24BD0BE18B302729F5C439E57.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
 [2020.07.31-16.18.35:537][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.07.31-16.22.22:969][ 31]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={42E6C237-45B2-EEC6-66A5-69818BB55DE8}
