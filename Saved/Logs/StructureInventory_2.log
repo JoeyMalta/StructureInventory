@@ -590,3 +590,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-16.31.30:119][126]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2020.07.31-16.31.30:651][159]LogRenderer: Reallocating scene render targets to support 1108x480 Format 10 NumSamples 1 (Frame:1552).
 [2020.07.31-16.31.31:140][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-16.37.53:408][835]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.31-16.38.24:331][470]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F6644413-47DA-E247-6AD6-BABCE593D1D5}
+[2020.07.31-16.40.37:577][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
