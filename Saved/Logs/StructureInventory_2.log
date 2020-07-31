@@ -3993,3 +3993,853 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-23.43.00:743][426]LogFileHelpers: Saving map 'MyLevel' took 0.310
 [2020.07.31-23.43.00:746][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
 [2020.07.31-23.43.01:061][426]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent0F48A49643361E95CA92DFB88B78D734.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.31-23.44.19:986][597]BlueprintLog: New page: Compile SlotItem
+[2020.07.31-23.44.20:237][597]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.44.20:237][597]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.44.20:441][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.31-23.44.20:963][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.31-23.44.21:332][633]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemE55C31EB440F4332AFB2E080FABCC0C0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.07.31-23.44.23:827][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.07.31-23.44.24:241][855]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem8E22EA9E4C19073E7FF35FB331E0F72A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.07.31-23.44.28:981][311]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.44.29:011][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.29:011][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.44.29:011][311]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:44:29)
+[2020.07.31-23.44.29:011][311]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.44.29:014][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002408s)
+[2020.07.31-23.44.29:014][311]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.44.29:014][311]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.07.31-23.44.29:015][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003353s)
+[2020.07.31-23.44.29:049][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.07.31-23.44.29:078][311]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.44.29:112][311]LogInit: FAudioDevice initialized.
+[2020.07.31-23.44.29:121][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.29:121][311]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.44.29:123][311]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.44.29
+[2020.07.31-23.44.29:123][311]LogWorld: Bringing up level for play took: 0.001125
+[2020.07.31-23.44.29:124][311]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.07.31-23.44.29:126][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.29:126][311]LogTemp: Display: ParseSettings for IpNetDriver_36
+[2020.07.31-23.44.29:126][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.29:126][311]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.44.29:126][311]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.44.29:127][311]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.44.29:127][311]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.29:127][311]LogNet: GameNetDriver IpNetDriver_36 IpNetDriver listening on port 17777
+[2020.07.31-23.44.29:160][311]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel -0,339
+[2020.07.31-23.44.29:168][311]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.44.29:174][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.29:174][311]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.44.29:175][311]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.29:175][311]LogTemp: Display: ParseSettings for IpNetDriver_37
+[2020.07.31-23.44.29:175][311]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.44.29:175][311]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.44.29:176][311]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.29:176][311]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.44.29:181][311]PIE: Play in editor start time for /Game/GameRelated/MyLevel -0,318
+[2020.07.31-23.44.29:188][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.29:188][311]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63846
+[2020.07.31-23.44.29:188][311]LogHandshake: SendConnectChallenge. Timestamp: 0.009555, Cookie: 242049026010255240196117095032000153156090248040097191007236
+[2020.07.31-23.44.29:189][311]LogHandshake: SendChallengeResponse. Timestamp: 0.009555, Cookie: 242049026010255240196117095032000153156090248040097191007236
+[2020.07.31-23.44.29:251][312]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63846
+[2020.07.31-23.44.29:251][312]LogHandshake: SendChallengeAck. InCookie: 242049026010255240196117095032000153156090248040097191007236
+[2020.07.31-23.44.29:251][312]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63846
+[2020.07.31-23.44.29:251][312]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.29:251][312]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:44:29, [UNetConnection] RemoteAddr: 127.0.0.1:63846, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.29:251][312]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63846, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.29:252][312]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: PendingNetDriver IpNetDriver_37, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.29:269][313]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.44.29:269][313]LogNet: Remote platform little endian=1
+[2020.07.31-23.44.29:269][313]LogNet: This platform little endian=1
+[2020.07.31-23.44.29:270][313]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.07.31-23.44.29:284][314]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507 userId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507 platform: NULL
+[2020.07.31-23.44.29:284][314]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.44.29:285][314]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.44.29:285][314]LogWorld: BeginTearingDown for /Temp/Untitled_18
+[2020.07.31-23.44.29:285][314]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.29:320][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.31-23.44.29:324][314]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.44.29:325][314]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.29:326][314]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.44.29
+[2020.07.31-23.44.29:326][314]LogWorld: Bringing up level for play took: 0.000496
+[2020.07.31-23.44.29:326][314]LogLoad: Took 0.042018 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.44.29:348][315]LogNet: Client netspeed is 10000
+[2020.07.31-23.44.29:348][315]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507?SplitscreenCount=1
+[2020.07.31-23.44.29:348][315]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.29:350][315]LogNet: Join succeeded: JOEYCOMPUTER-2137AA2
+[2020.07.31-23.44.29:783][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.44.30:224][372]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_34.InventoryContainer_C_0 NOT Supported.
+[2020.07.31-23.44.30:225][372]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_34.InventoryContainer_C_1 NOT Supported.
+[2020.07.31-23.44.30:240][373]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.30:514][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.30:514][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.30:514][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.44.30:514][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.30:514][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.30:575][396]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.30:974][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryContainer". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Close Container
+[2020.07.31-23.44.31:233][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryContainer". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Open Container
+[2020.07.31-23.44.31:414][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryContainer". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Close Container
+[2020.07.31-23.44.34:602][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.34:603][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.34:603][680]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.44.34:618][680]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.44.34:623][680]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.34:631][680]LogNet: World NetDriver shutdown IpNetDriver_37 [GameNetDriver]
+[2020.07.31-23.44.34:632][680]LogNet: DestroyNamedNetDriver IpNetDriver_37 [GameNetDriver]
+[2020.07.31-23.44.34:632][680]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507, Channels: 13, Time: 2020.07.31-23.44.34
+[2020.07.31-23.44.34:632][680]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507
+[2020.07.31-23.44.34:632][680]LogExit: GameNetDriver IpNetDriver_37 shut down
+[2020.07.31-23.44.34:632][680]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.44.34:632][680]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.44.34:633][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.34:648][680]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.44.34:653][680]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.34:661][680]LogNet: World NetDriver shutdown IpNetDriver_36 [GameNetDriver]
+[2020.07.31-23.44.34:661][680]LogNet: DestroyNamedNetDriver IpNetDriver_36 [GameNetDriver]
+[2020.07.31-23.44.34:661][680]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63846, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507
+[2020.07.31-23.44.34:661][680]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63846, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507, Channels: 13, Time: 2020.07.31-23.44.34
+[2020.07.31-23.44.34:661][680]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63846, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2137AA264DD0E5E6F77D7194C9F19507
+[2020.07.31-23.44.34:661][680]LogExit: GameNetDriver IpNetDriver_36 shut down
+[2020.07.31-23.44.34:662][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.44.34:662][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.34:710][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.31-23.44.34:752][681]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.07.31-23.44.34:753][681]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.07.31-23.44.35:963][793]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.44.35:968][793]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.44.49:136][ 93]BlueprintLog: New page: Compile InventoryComponent
+[2020.07.31-23.44.49:419][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.07.31-23.44.49:789][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.44.49:820][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.49:820][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.44.49:820][123]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:44:49)
+[2020.07.31-23.44.49:820][123]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.44.49:823][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002699s)
+[2020.07.31-23.44.49:824][123]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.44.49:825][123]LogPlayLevel: PIE: World Init took: (0.001814s)
+[2020.07.31-23.44.49:825][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.004719s)
+[2020.07.31-23.44.49:864][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.07.31-23.44.49:893][123]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.44.49:928][123]LogInit: FAudioDevice initialized.
+[2020.07.31-23.44.49:936][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.49:936][123]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.44.49:938][123]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.44.49
+[2020.07.31-23.44.49:938][123]LogWorld: Bringing up level for play took: 0.000932
+[2020.07.31-23.44.49:938][123]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.07.31-23.44.49:941][123]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.49:941][123]LogTemp: Display: ParseSettings for IpNetDriver_38
+[2020.07.31-23.44.49:941][123]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.49:941][123]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.44.49:941][123]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.44.49:941][123]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.44.49:942][123]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.49:942][123]LogNet: GameNetDriver IpNetDriver_38 IpNetDriver listening on port 17777
+[2020.07.31-23.44.49:971][123]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 0,472
+[2020.07.31-23.44.49:979][123]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.44.49:984][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.49:985][123]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.44.49:985][123]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.49:985][123]LogTemp: Display: ParseSettings for IpNetDriver_39
+[2020.07.31-23.44.49:985][123]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.44.49:985][123]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.44.49:986][123]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.49:986][123]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.44.49:989][123]PIE: Play in editor start time for /Game/GameRelated/MyLevel 0,49
+[2020.07.31-23.44.49:996][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.49:996][123]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50758
+[2020.07.31-23.44.49:996][123]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 058021237216230028060133188212232160058002157155016201030107
+[2020.07.31-23.44.49:997][123]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 058021237216230028060133188212232160058002157155016201030107
+[2020.07.31-23.44.50:051][124]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50758
+[2020.07.31-23.44.50:052][124]LogHandshake: SendChallengeAck. InCookie: 058021237216230028060133188212232160058002157155016201030107
+[2020.07.31-23.44.50:052][124]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50758
+[2020.07.31-23.44.50:052][124]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.44.50:052][124]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:44:50, [UNetConnection] RemoteAddr: 127.0.0.1:50758, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.50:052][124]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50758, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.50:053][124]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: PendingNetDriver IpNetDriver_39, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.44.50:074][125]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.44.50:074][125]LogNet: Remote platform little endian=1
+[2020.07.31-23.44.50:074][125]LogNet: This platform little endian=1
+[2020.07.31-23.44.50:075][125]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.07.31-23.44.50:088][126]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92 userId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92 platform: NULL
+[2020.07.31-23.44.50:089][126]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.44.50:089][126]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.44.50:089][126]LogWorld: BeginTearingDown for /Temp/Untitled_19
+[2020.07.31-23.44.50:089][126]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.50:124][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.31-23.44.50:128][126]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.44.50:128][126]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.44.50:129][126]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.44.50
+[2020.07.31-23.44.50:130][126]LogWorld: Bringing up level for play took: 0.001091
+[2020.07.31-23.44.50:130][126]LogLoad: Took 0.040943 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.44.50:150][127]LogNet: Client netspeed is 10000
+[2020.07.31-23.44.50:150][127]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92?SplitscreenCount=1
+[2020.07.31-23.44.50:151][127]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.50:152][127]LogNet: Join succeeded: JOEYCOMPUTER-400D83F
+[2020.07.31-23.44.50:817][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.44.51:057][192]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_36.InventoryContainer_C_0 NOT Supported.
+[2020.07.31-23.44.51:057][192]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_36.InventoryContainer_C_1 NOT Supported.
+[2020.07.31-23.44.51:071][193]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.51:393][216]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.44.51:668][236]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.51:668][236]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.51:668][236]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.44.51:668][236]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.51:668][236]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.44.52:361][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryContainer". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Open Container
+[2020.07.31-23.44.59:718][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.59:718][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.59:718][807]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.44.59:733][807]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.44.59:737][807]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.59:745][807]LogNet: World NetDriver shutdown IpNetDriver_39 [GameNetDriver]
+[2020.07.31-23.44.59:745][807]LogNet: DestroyNamedNetDriver IpNetDriver_39 [GameNetDriver]
+[2020.07.31-23.44.59:745][807]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_39, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92, Channels: 13, Time: 2020.07.31-23.44.59
+[2020.07.31-23.44.59:745][807]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_39, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92
+[2020.07.31-23.44.59:745][807]LogExit: GameNetDriver IpNetDriver_39 shut down
+[2020.07.31-23.44.59:746][807]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.44.59:746][807]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.44.59:747][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.44.59:763][807]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.44.59:770][807]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.44.59:776][807]LogNet: World NetDriver shutdown IpNetDriver_38 [GameNetDriver]
+[2020.07.31-23.44.59:776][807]LogNet: DestroyNamedNetDriver IpNetDriver_38 [GameNetDriver]
+[2020.07.31-23.44.59:777][807]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50758, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92
+[2020.07.31-23.44.59:777][807]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50758, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92, Channels: 13, Time: 2020.07.31-23.44.59
+[2020.07.31-23.44.59:777][807]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50758, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-400D83F74958875C308B1DA904EC5C92
+[2020.07.31-23.44.59:777][807]LogExit: GameNetDriver IpNetDriver_38 shut down
+[2020.07.31-23.44.59:777][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.44.59:778][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.44.59:828][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.07.31-23.44.59:883][808]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.07.31-23.44.59:883][808]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.07.31-23.45.01:094][924]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.45.01:101][924]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.45.12:611][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.31-23.45.12:888][142]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent1518830D43E3DD78BD243F923065BD5F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.31-23.45.17:552][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.07.31-23.45.17:828][638]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentC466BF1B4E50445D3214D0AFD0AFEEBC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.07.31-23.45.39:118][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/GameHUD.GameHUD
+[2020.07.31-23.46.06:853][446]BlueprintLog: New page: Compile GameHUD
+[2020.07.31-23.46.07:153][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.07.31-23.46.08:249][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.46.08:366][553]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD7F63F15E414F1B502686B286FA9093E0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.46.09:630][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.07.31-23.46.09:644][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.31-23.46.09:679][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.07.31-23.46.09:919][676]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel2F6AECD14A696CBE2AF30F801308C0A9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.31-23.46.09:952][676]LogFileHelpers: Saving map 'MyLevel' took 0.309
+[2020.07.31-23.46.09:955][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.07.31-23.46.10:065][676]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerStateA07FBE3345E8EAD99185E2A814F1839D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.07.31-23.47.17:761][441]BlueprintLog: New page: Compile InventoryContainer
+[2020.07.31-23.47.17:842][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.31-23.47.18:247][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryContainer.uasset" SILENT=true
+[2020.07.31-23.47.18:366][473]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryContainerA87E1FAA4746E7EFE49D6DA9232B1769.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryContainer.uasset'
+[2020.07.31-23.47.50:085][577]BlueprintLog: New page: Compile GameHUD
+[2020.07.31-23.47.50:377][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.07.31-23.47.50:718][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.47.50:833][604]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD8B7C01EA43D03547CCF43586CC54E97F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.48.52:581][856]BlueprintLog: New page: Compile GameHUD
+[2020.07.31-23.48.52:867][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.07.31-23.48.53:150][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.48.53:265][878]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD4AF4B1114DC129921A4988B995B78866.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.49.46:743][142]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-23.49.47:064][142]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.49.47:064][142]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.49.47:064][142]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.49.47:064][142]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.49.47:064][142]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.49.47:287][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.07.31-23.49.47:493][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.31-23.49.47:658][150]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer18B961424BE1DC988EADDEB6C67A8BA7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.31-23.49.48:227][204]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.49.48:259][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.49.48:259][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.49.48:260][204]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:49:48)
+[2020.07.31-23.49.48:260][204]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.49.48:262][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002585s)
+[2020.07.31-23.49.48:263][204]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.49.48:263][204]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2020.07.31-23.49.48:263][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003667s)
+[2020.07.31-23.49.48:305][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.07.31-23.49.48:336][204]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.49.48:370][204]LogInit: FAudioDevice initialized.
+[2020.07.31-23.49.48:382][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.49.48:382][204]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.49.48:384][204]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.49.48
+[2020.07.31-23.49.48:384][204]LogWorld: Bringing up level for play took: 0.001081
+[2020.07.31-23.49.48:384][204]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.07.31-23.49.48:387][204]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.49.48:388][204]LogTemp: Display: ParseSettings for IpNetDriver_40
+[2020.07.31-23.49.48:388][204]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.49.48:388][204]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.49.48:388][204]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.49.48:388][204]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.49.48:388][204]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.49.48:388][204]LogNet: GameNetDriver IpNetDriver_40 IpNetDriver listening on port 17777
+[2020.07.31-23.49.48:437][204]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 0,937
+[2020.07.31-23.49.48:446][204]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.49.48:452][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.49.48:452][204]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.49.48:452][204]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.49.48:452][204]LogTemp: Display: ParseSettings for IpNetDriver_41
+[2020.07.31-23.49.48:452][204]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.49.48:453][204]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.49.48:453][204]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.49.48:453][204]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.49.48:461][204]PIE: Play in editor start time for /Game/GameRelated/MyLevel 0,961
+[2020.07.31-23.49.48:469][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.49.48:470][204]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63162
+[2020.07.31-23.49.48:470][204]LogHandshake: SendConnectChallenge. Timestamp: 0.008663, Cookie: 007043149032065070213126156196226149210013135126180186074184
+[2020.07.31-23.49.48:470][204]LogHandshake: SendChallengeResponse. Timestamp: 0.008663, Cookie: 007043149032065070213126156196226149210013135126180186074184
+[2020.07.31-23.49.48:525][205]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63162
+[2020.07.31-23.49.48:525][205]LogHandshake: SendChallengeAck. InCookie: 007043149032065070213126156196226149210013135126180186074184
+[2020.07.31-23.49.48:525][205]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63162
+[2020.07.31-23.49.48:525][205]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.49.48:525][205]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:49:48, [UNetConnection] RemoteAddr: 127.0.0.1:63162, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.49.48:525][205]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63162, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.49.48:526][205]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: PendingNetDriver IpNetDriver_41, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.49.48:544][206]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.49.48:544][206]LogNet: Remote platform little endian=1
+[2020.07.31-23.49.48:544][206]LogNet: This platform little endian=1
+[2020.07.31-23.49.48:545][206]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.07.31-23.49.48:558][207]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63 userId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63 platform: NULL
+[2020.07.31-23.49.48:559][207]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.49.48:559][207]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.49.48:559][207]LogWorld: BeginTearingDown for /Temp/Untitled_20
+[2020.07.31-23.49.48:559][207]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.49.48:598][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.31-23.49.48:601][207]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.49.48:602][207]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.49.48:603][207]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.49.48
+[2020.07.31-23.49.48:603][207]LogWorld: Bringing up level for play took: 0.000530
+[2020.07.31-23.49.48:603][207]LogLoad: Took 0.043963 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.49.48:624][208]LogNet: Client netspeed is 10000
+[2020.07.31-23.49.48:624][208]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63?SplitscreenCount=1
+[2020.07.31-23.49.48:625][208]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.49.48:626][208]LogNet: Join succeeded: JOEYCOMPUTER-EAD5C64
+[2020.07.31-23.49.49:298][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.49.49:535][273]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.49.49:829][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.49.49:829][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.49.49:829][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.49.49:829][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.49.49:829][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.49.49:871][298]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.49.50:222][324]LogBlueprintUserMessages: [GameHUD_C_0] Server: YES
+[2020.07.31-23.49.50:556][349]LogBlueprintUserMessages: [GameHUD_C_0] Client 1: YES
+[2020.07.31-23.49.51:813][440]LogBlueprintUserMessages: [GameHUD_C_0] Client 1: YES
+[2020.07.31-23.49.53:238][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.49.53:238][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.49.53:238][544]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.49.53:254][544]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.49.53:260][544]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.49.53:270][544]LogNet: World NetDriver shutdown IpNetDriver_41 [GameNetDriver]
+[2020.07.31-23.49.53:270][544]LogNet: DestroyNamedNetDriver IpNetDriver_41 [GameNetDriver]
+[2020.07.31-23.49.53:270][544]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63, Channels: 13, Time: 2020.07.31-23.49.53
+[2020.07.31-23.49.53:270][544]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_40, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63
+[2020.07.31-23.49.53:270][544]LogExit: GameNetDriver IpNetDriver_41 shut down
+[2020.07.31-23.49.53:271][544]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.49.53:271][544]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.49.53:271][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.49.53:285][544]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.49.53:291][544]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.49.53:300][544]LogNet: World NetDriver shutdown IpNetDriver_40 [GameNetDriver]
+[2020.07.31-23.49.53:300][544]LogNet: DestroyNamedNetDriver IpNetDriver_40 [GameNetDriver]
+[2020.07.31-23.49.53:300][544]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63162, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63
+[2020.07.31-23.49.53:300][544]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63162, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63, Channels: 13, Time: 2020.07.31-23.49.53
+[2020.07.31-23.49.53:300][544]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63162, Name: IpConnection_41, Driver: GameNetDriver IpNetDriver_40, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-EAD5C646436D883648B9F986CEC12E63
+[2020.07.31-23.49.53:301][544]LogExit: GameNetDriver IpNetDriver_40 shut down
+[2020.07.31-23.49.53:301][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.49.53:301][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.49.53:350][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.07.31-23.49.53:373][545]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.07.31-23.49.53:373][545]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.07.31-23.50.20:904][213]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-23.50.21:211][213]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.21:211][213]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.21:211][213]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.21:211][213]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.21:212][213]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.21:429][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.07.31-23.50.22:367][293]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.50.22:400][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.22:401][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.50.22:401][293]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:50:22)
+[2020.07.31-23.50.22:401][293]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.50.22:403][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002362s)
+[2020.07.31-23.50.22:404][293]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.50.22:404][293]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2020.07.31-23.50.22:404][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003586s)
+[2020.07.31-23.50.22:446][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.07.31-23.50.22:474][293]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.50.22:509][293]LogInit: FAudioDevice initialized.
+[2020.07.31-23.50.22:519][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.22:519][293]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.50.22:520][293]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.50.22
+[2020.07.31-23.50.22:520][293]LogWorld: Bringing up level for play took: 0.001109
+[2020.07.31-23.50.22:520][293]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.07.31-23.50.22:523][293]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.22:523][293]LogTemp: Display: ParseSettings for IpNetDriver_42
+[2020.07.31-23.50.22:523][293]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.22:523][293]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.50.22:523][293]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.50.22:524][293]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.50.22:524][293]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.22:524][293]LogNet: GameNetDriver IpNetDriver_42 IpNetDriver listening on port 17777
+[2020.07.31-23.50.22:557][293]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 1,057
+[2020.07.31-23.50.22:564][293]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.50.22:572][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.22:572][293]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.50.22:572][293]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.22:572][293]LogTemp: Display: ParseSettings for IpNetDriver_43
+[2020.07.31-23.50.22:572][293]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.50.22:573][293]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.50.22:573][293]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.22:573][293]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.50.22:577][293]PIE: Play in editor start time for /Game/GameRelated/MyLevel 1,078
+[2020.07.31-23.50.22:584][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.22:585][293]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61375
+[2020.07.31-23.50.22:585][293]LogHandshake: SendConnectChallenge. Timestamp: 0.008525, Cookie: 223151010181174031001089065097002249191045237002247171227060
+[2020.07.31-23.50.22:586][293]LogHandshake: SendChallengeResponse. Timestamp: 0.008525, Cookie: 223151010181174031001089065097002249191045237002247171227060
+[2020.07.31-23.50.22:640][294]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61375
+[2020.07.31-23.50.22:640][294]LogHandshake: SendChallengeAck. InCookie: 223151010181174031001089065097002249191045237002247171227060
+[2020.07.31-23.50.22:640][294]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61375
+[2020.07.31-23.50.22:641][294]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.22:641][294]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:50:22, [UNetConnection] RemoteAddr: 127.0.0.1:61375, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_42, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.22:641][294]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61375, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_42, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.22:642][294]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_42, Driver: PendingNetDriver IpNetDriver_43, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.22:658][295]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.50.22:658][295]LogNet: Remote platform little endian=1
+[2020.07.31-23.50.22:658][295]LogNet: This platform little endian=1
+[2020.07.31-23.50.22:659][295]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.07.31-23.50.22:673][296]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A userId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A platform: NULL
+[2020.07.31-23.50.22:674][296]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.50.22:674][296]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.50.22:674][296]LogWorld: BeginTearingDown for /Temp/Untitled_21
+[2020.07.31-23.50.22:674][296]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.22:709][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.31-23.50.22:714][296]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.50.22:714][296]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.22:716][296]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.50.22
+[2020.07.31-23.50.22:716][296]LogWorld: Bringing up level for play took: 0.000540
+[2020.07.31-23.50.22:716][296]LogLoad: Took 0.041357 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.50.22:738][297]LogNet: Client netspeed is 10000
+[2020.07.31-23.50.22:738][297]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A?SplitscreenCount=1
+[2020.07.31-23.50.22:738][297]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.22:739][297]LogNet: Join succeeded: JOEYCOMPUTER-0BCF271
+[2020.07.31-23.50.23:215][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.50.23:589][347]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.23:884][368]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.23:884][368]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.23:884][368]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.50.23:884][368]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.23:884][368]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.23:927][371]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.24:364][402]LogBlueprintUserMessages: [GameHUD_C_0] Server: YES
+[2020.07.31-23.50.24:871][438]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	MyPlayer_C /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:0148
+[2020.07.31-23.50.24:871][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  EventGraph Node:  Branch
+[2020.07.31-23.50.25:861][508]LogBlueprintUserMessages: [GameHUD_C_0] Client 1: YES
+[2020.07.31-23.50.31:469][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.31:469][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.31:469][898]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.50.31:483][898]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.50.31:488][898]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.31:497][898]LogNet: World NetDriver shutdown IpNetDriver_43 [GameNetDriver]
+[2020.07.31-23.50.31:497][898]LogNet: DestroyNamedNetDriver IpNetDriver_43 [GameNetDriver]
+[2020.07.31-23.50.31:498][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_43, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A, Channels: 13, Time: 2020.07.31-23.50.31
+[2020.07.31-23.50.31:498][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_42, Driver: GameNetDriver IpNetDriver_43, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A
+[2020.07.31-23.50.31:498][898]LogExit: GameNetDriver IpNetDriver_43 shut down
+[2020.07.31-23.50.31:498][898]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.50.31:498][898]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.50.31:498][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.31:511][898]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.50.31:519][898]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.31:527][898]LogNet: World NetDriver shutdown IpNetDriver_42 [GameNetDriver]
+[2020.07.31-23.50.31:527][898]LogNet: DestroyNamedNetDriver IpNetDriver_42 [GameNetDriver]
+[2020.07.31-23.50.31:527][898]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61375, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_42, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A
+[2020.07.31-23.50.31:527][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61375, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_42, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A, Channels: 13, Time: 2020.07.31-23.50.31
+[2020.07.31-23.50.31:527][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61375, Name: IpConnection_43, Driver: GameNetDriver IpNetDriver_42, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-0BCF271746C65BBA077C4D847ED4643A
+[2020.07.31-23.50.31:527][898]LogExit: GameNetDriver IpNetDriver_42 shut down
+[2020.07.31-23.50.31:528][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.50.31:528][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.31:577][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.31-23.50.31:622][899]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.07.31-23.50.31:622][899]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.07.31-23.50.34:676][189]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.50.34:684][189]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.50.44:395][134]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-23.50.44:712][134]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.44:712][134]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.44:712][134]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.44:712][134]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.44:712][134]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.44:929][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.07.31-23.50.45:806][209]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.50.45:841][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.45:841][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.50.45:841][209]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:50:45)
+[2020.07.31-23.50.45:841][209]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.50.45:847][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005381s)
+[2020.07.31-23.50.45:848][209]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.50.45:848][209]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2020.07.31-23.50.45:848][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.006692s)
+[2020.07.31-23.50.45:890][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.07.31-23.50.45:918][209]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.50.45:951][209]LogInit: FAudioDevice initialized.
+[2020.07.31-23.50.45:960][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.45:960][209]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.50.45:961][209]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.50.45
+[2020.07.31-23.50.45:962][209]LogWorld: Bringing up level for play took: 0.001265
+[2020.07.31-23.50.45:962][209]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.07.31-23.50.45:965][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.45:965][209]LogTemp: Display: ParseSettings for IpNetDriver_44
+[2020.07.31-23.50.45:965][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.45:965][209]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.50.45:965][209]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.50.45:966][209]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.50.45:966][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.45:966][209]LogNet: GameNetDriver IpNetDriver_44 IpNetDriver listening on port 17777
+[2020.07.31-23.50.45:999][209]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 0,499
+[2020.07.31-23.50.46:006][209]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.50.46:012][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.46:013][209]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.50.46:013][209]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.46:013][209]LogTemp: Display: ParseSettings for IpNetDriver_45
+[2020.07.31-23.50.46:013][209]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.50.46:014][209]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.50.46:014][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.46:014][209]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.50.46:019][209]PIE: Play in editor start time for /Game/GameRelated/MyLevel 0,519
+[2020.07.31-23.50.46:026][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.46:026][209]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55802
+[2020.07.31-23.50.46:026][209]LogHandshake: SendConnectChallenge. Timestamp: 0.009503, Cookie: 066119235080011128175188090238242176215115189164212244069066
+[2020.07.31-23.50.46:027][209]LogHandshake: SendChallengeResponse. Timestamp: 0.009503, Cookie: 066119235080011128175188090238242176215115189164212244069066
+[2020.07.31-23.50.46:084][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55802
+[2020.07.31-23.50.46:084][210]LogHandshake: SendChallengeAck. InCookie: 066119235080011128175188090238242176215115189164212244069066
+[2020.07.31-23.50.46:084][210]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55802
+[2020.07.31-23.50.46:084][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.50.46:084][210]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:50:46, [UNetConnection] RemoteAddr: 127.0.0.1:55802, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.46:084][210]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55802, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.46:085][210]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: PendingNetDriver IpNetDriver_45, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.50.46:104][211]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.50.46:104][211]LogNet: Remote platform little endian=1
+[2020.07.31-23.50.46:104][211]LogNet: This platform little endian=1
+[2020.07.31-23.50.46:105][211]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.07.31-23.50.46:122][212]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB userId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB platform: NULL
+[2020.07.31-23.50.46:123][212]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.50.46:123][212]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.50.46:123][212]LogWorld: BeginTearingDown for /Temp/Untitled_22
+[2020.07.31-23.50.46:123][212]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.46:160][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.07.31-23.50.46:165][212]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.50.46:165][212]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.50.46:166][212]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.50.46
+[2020.07.31-23.50.46:166][212]LogWorld: Bringing up level for play took: 0.000486
+[2020.07.31-23.50.46:166][212]LogLoad: Took 0.042611 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.50.46:188][213]LogNet: Client netspeed is 10000
+[2020.07.31-23.50.46:188][213]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB?SplitscreenCount=1
+[2020.07.31-23.50.46:188][213]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.46:189][213]LogNet: Join succeeded: JOEYCOMPUTER-8960237
+[2020.07.31-23.50.46:699][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.50.47:087][275]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.47:370][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.47:370][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.47:370][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.50.47:370][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.47:370][295]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.50.47:413][298]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.50.47:802][326]LogBlueprintUserMessages: [GameHUD_C_0] Server: YES
+[2020.07.31-23.50.48:363][366]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	MyPlayer_C /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.MyPlayer_C_1
+	Function /Game/MyPlayer/MyPlayer.MyPlayer_C:ExecuteUbergraph_MyPlayer:0148
+[2020.07.31-23.50.48:365][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_ReturnValue". Blueprint:  MyPlayer Function:  Execute Ubergraph My Player Graph:  EventGraph Node:  Branch
+[2020.07.31-23.50.49:353][436]LogBlueprintUserMessages: [GameHUD_C_0] Client 1: YES
+[2020.07.31-23.50.52:329][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.52:330][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.52:330][646]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.50.52:347][646]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.50.52:352][646]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.52:358][646]LogNet: World NetDriver shutdown IpNetDriver_45 [GameNetDriver]
+[2020.07.31-23.50.52:359][646]LogNet: DestroyNamedNetDriver IpNetDriver_45 [GameNetDriver]
+[2020.07.31-23.50.52:359][646]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_45, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB, Channels: 13, Time: 2020.07.31-23.50.52
+[2020.07.31-23.50.52:359][646]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_45, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB
+[2020.07.31-23.50.52:359][646]LogExit: GameNetDriver IpNetDriver_45 shut down
+[2020.07.31-23.50.52:360][646]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.50.52:360][646]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.50.52:360][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.50.52:374][646]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.50.52:382][646]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.50.52:388][646]LogNet: World NetDriver shutdown IpNetDriver_44 [GameNetDriver]
+[2020.07.31-23.50.52:388][646]LogNet: DestroyNamedNetDriver IpNetDriver_44 [GameNetDriver]
+[2020.07.31-23.50.52:388][646]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55802, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB
+[2020.07.31-23.50.52:388][646]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55802, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB, Channels: 13, Time: 2020.07.31-23.50.52
+[2020.07.31-23.50.52:388][646]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55802, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_44, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-8960237A41962132D5D60AA5821EA0EB
+[2020.07.31-23.50.52:389][646]LogExit: GameNetDriver IpNetDriver_44 shut down
+[2020.07.31-23.50.52:389][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.50.52:389][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.50.52:437][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.31-23.50.52:482][647]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.07.31-23.50.52:482][647]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.07.31-23.50.53:873][775]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.50.53:880][775]LogSlate: Window 'Message Log' being destroyed
+[2020.07.31-23.50.59:333][250]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-23.50.59:639][250]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.59:639][250]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.59:639][250]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.59:639][250]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.59:639][250]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.50.59:851][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.07.31-23.51.00:329][283]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.51.00:362][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.51.00:362][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.51.00:362][283]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:51:00)
+[2020.07.31-23.51.00:364][283]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.51.00:366][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002400s)
+[2020.07.31-23.51.00:367][283]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.51.00:367][283]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2020.07.31-23.51.00:367][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.003380s)
+[2020.07.31-23.51.00:410][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.07.31-23.51.00:437][283]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.51.00:471][283]LogInit: FAudioDevice initialized.
+[2020.07.31-23.51.00:481][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.51.00:481][283]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.51.00:483][283]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.51.00
+[2020.07.31-23.51.00:484][283]LogWorld: Bringing up level for play took: 0.001385
+[2020.07.31-23.51.00:484][283]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.07.31-23.51.00:487][283]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.51.00:487][283]LogTemp: Display: ParseSettings for IpNetDriver_46
+[2020.07.31-23.51.00:487][283]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.51.00:487][283]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.51.00:487][283]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.51.00:488][283]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.51.00:488][283]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.51.00:488][283]LogNet: GameNetDriver IpNetDriver_46 IpNetDriver listening on port 17777
+[2020.07.31-23.51.00:534][283]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel 1,034
+[2020.07.31-23.51.00:541][283]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.51.00:549][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.51.00:549][283]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.51.00:550][283]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.51.00:550][283]LogTemp: Display: ParseSettings for IpNetDriver_47
+[2020.07.31-23.51.00:550][283]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.51.00:550][283]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.51.00:551][283]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.51.00:551][283]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.51.00:556][283]PIE: Play in editor start time for /Game/GameRelated/MyLevel 1,056
+[2020.07.31-23.51.00:564][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.51.00:564][283]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56804
+[2020.07.31-23.51.00:564][283]LogHandshake: SendConnectChallenge. Timestamp: 0.009601, Cookie: 028193000244100115005184131045003016236142197147027016051191
+[2020.07.31-23.51.00:565][283]LogHandshake: SendChallengeResponse. Timestamp: 0.009601, Cookie: 028193000244100115005184131045003016236142197147027016051191
+[2020.07.31-23.51.00:618][284]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56804
+[2020.07.31-23.51.00:618][284]LogHandshake: SendChallengeAck. InCookie: 028193000244100115005184131045003016236142197147027016051191
+[2020.07.31-23.51.00:618][284]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56804
+[2020.07.31-23.51.00:618][284]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.51.00:619][284]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:51:00, [UNetConnection] RemoteAddr: 127.0.0.1:56804, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_46, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.51.00:619][284]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56804, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_46, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.51.00:619][284]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_46, Driver: PendingNetDriver IpNetDriver_47, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.51.00:636][285]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.51.00:636][285]LogNet: Remote platform little endian=1
+[2020.07.31-23.51.00:636][285]LogNet: This platform little endian=1
+[2020.07.31-23.51.00:637][285]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.07.31-23.51.00:655][286]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB userId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB platform: NULL
+[2020.07.31-23.51.00:656][286]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.51.00:656][286]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.51.00:656][286]LogWorld: BeginTearingDown for /Temp/Untitled_23
+[2020.07.31-23.51.00:656][286]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.51.00:698][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.07.31-23.51.00:702][286]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.51.00:702][286]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.51.00:703][286]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.51.00
+[2020.07.31-23.51.00:703][286]LogWorld: Bringing up level for play took: 0.000501
+[2020.07.31-23.51.00:703][286]LogLoad: Took 0.046618 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.51.00:729][287]LogNet: Client netspeed is 10000
+[2020.07.31-23.51.00:729][287]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB?SplitscreenCount=1
+[2020.07.31-23.51.00:729][287]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.51.00:730][287]LogNet: Join succeeded: JOEYCOMPUTER-2C834DC
+[2020.07.31-23.51.01:042][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.51.01:587][344]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.51.01:587][344]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.51.01:587][344]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.51.01:635][347]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.51.01:635][347]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.51.01:635][347]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.51.01:936][367]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.51.02:321][392]LogBlueprintUserMessages: [GameHUD_C_0] Server: YES
+[2020.07.31-23.51.02:655][413]LogBlueprintUserMessages: [GameHUD_C_0] Client 1: YES
+[2020.07.31-23.51.05:152][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.51.05:152][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.51.05:152][585]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.51.05:165][585]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.51.05:170][585]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.51.05:178][585]LogNet: World NetDriver shutdown IpNetDriver_47 [GameNetDriver]
+[2020.07.31-23.51.05:178][585]LogNet: DestroyNamedNetDriver IpNetDriver_47 [GameNetDriver]
+[2020.07.31-23.51.05:178][585]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_47, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB, Channels: 12, Time: 2020.07.31-23.51.05
+[2020.07.31-23.51.05:178][585]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_47, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB
+[2020.07.31-23.51.05:179][585]LogExit: GameNetDriver IpNetDriver_47 shut down
+[2020.07.31-23.51.05:179][585]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.51.05:179][585]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.51.05:179][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.51.05:194][585]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.51.05:201][585]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.51.05:208][585]LogNet: World NetDriver shutdown IpNetDriver_46 [GameNetDriver]
+[2020.07.31-23.51.05:208][585]LogNet: DestroyNamedNetDriver IpNetDriver_46 [GameNetDriver]
+[2020.07.31-23.51.05:208][585]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56804, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_46, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB
+[2020.07.31-23.51.05:208][585]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56804, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_46, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB, Channels: 12, Time: 2020.07.31-23.51.05
+[2020.07.31-23.51.05:208][585]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56804, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_46, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-2C834DC04FAC61E9D655A29FC6AB2EBB
+[2020.07.31-23.51.05:208][585]LogExit: GameNetDriver IpNetDriver_46 shut down
+[2020.07.31-23.51.05:209][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.51.05:209][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.51.05:256][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.07.31-23.51.05:280][586]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.07.31-23.51.05:281][586]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.07.31-23.51.40:526][143]BlueprintLog: New page: Compile GameHUD
+[2020.07.31-23.51.40:843][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.07.31-23.51.41:144][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.51.41:262][168]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD8B271C6443B6F8785C5C12B6D3430E5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.52.00:906][192]BlueprintLog: New page: Compile GameHUD
+[2020.07.31-23.52.01:192][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.07.31-23.52.01:621][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.52.01:740][231]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUDDC62678F4E993DB65D8B98A81B6C9E14.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.52.23:469][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.52.23:585][537]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD1F5B48FB4D65EB139F05F7B8A9A1FDC1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.52.24:549][630]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.31-23.52.24:582][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.52.24:582][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.31-23.52.24:582][630]PIE: New page: PIE session: MyLevel (1 aug. 2020 03:52:24)
+[2020.07.31-23.52.24:584][630]LogPlayLevel: Creating play world package: /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.52.24:590][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006005s)
+[2020.07.31-23.52.24:591][630]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.52.24:591][630]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.07.31-23.52.24:591][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameRelated/MyLevel.MyLevel to /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel (0.007343s)
+[2020.07.31-23.52.24:637][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.07.31-23.52.24:666][630]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.31-23.52.24:699][630]LogInit: FAudioDevice initialized.
+[2020.07.31-23.52.24:706][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.52.24:707][630]LogLoad: Game class is 'MyGamemode_C'
+[2020.07.31-23.52.24:708][630]LogWorld: Bringing World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.52.24
+[2020.07.31-23.52.24:708][630]LogWorld: Bringing up level for play took: 0.001040
+[2020.07.31-23.52.24:709][630]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.07.31-23.52.24:712][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.52.24:712][630]LogTemp: Display: ParseSettings for IpNetDriver_48
+[2020.07.31-23.52.24:712][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.52.24:712][630]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.07.31-23.52.24:712][630]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.07.31-23.52.24:712][630]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.07.31-23.52.24:713][630]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.52.24:713][630]LogNet: GameNetDriver IpNetDriver_48 IpNetDriver listening on port 17777
+[2020.07.31-23.52.24:743][630]PIE: Play in editor start time for /Game/GameRelated/UEDPIE_1_MyLevel -0,757
+[2020.07.31-23.52.24:750][630]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-23.52.24:756][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.52.24:756][630]LogNet: Browse: 127.0.0.1:17777//Game/GameRelated/MyLevel
+[2020.07.31-23.52.24:757][630]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.52.24:757][630]LogTemp: Display: ParseSettings for IpNetDriver_49
+[2020.07.31-23.52.24:757][630]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.07.31-23.52.24:757][630]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.07.31-23.52.24:758][630]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.52.24:758][630]LogNet: Game client on port 17777, rate 10000
+[2020.07.31-23.52.24:762][630]PIE: Play in editor start time for /Game/GameRelated/MyLevel -0,737
+[2020.07.31-23.52.24:769][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.52.24:769][630]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50463
+[2020.07.31-23.52.24:769][630]LogHandshake: SendConnectChallenge. Timestamp: 0.010021, Cookie: 196167120025051018210000096228093087107189164052163000114107
+[2020.07.31-23.52.24:770][630]LogHandshake: SendChallengeResponse. Timestamp: 0.010021, Cookie: 196167120025051018210000096228093087107189164052163000114107
+[2020.07.31-23.52.24:820][631]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50463
+[2020.07.31-23.52.24:820][631]LogHandshake: SendChallengeAck. InCookie: 196167120025051018210000096228093087107189164052163000114107
+[2020.07.31-23.52.24:820][631]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50463
+[2020.07.31-23.52.24:820][631]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.07.31-23.52.24:820][631]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 08/01/20 01:52:24, [UNetConnection] RemoteAddr: 127.0.0.1:50463, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.52.24:820][631]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50463, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.52.24:821][631]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: PendingNetDriver IpNetDriver_49, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.07.31-23.52.24:836][632]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameRelated/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.07.31-23.52.24:836][632]LogNet: Remote platform little endian=1
+[2020.07.31-23.52.24:836][632]LogNet: This platform little endian=1
+[2020.07.31-23.52.24:837][632]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.07.31-23.52.24:852][633]LogNet: Login request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6 userId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6 platform: NULL
+[2020.07.31-23.52.24:852][633]LogNet: Welcomed by server (Level: /Game/GameRelated/UEDPIE_1_MyLevel, Game: /Game/GameRelated/MyGamemode.MyGamemode_C)
+[2020.07.31-23.52.24:853][633]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameRelated/UEDPIE_1_MyLevel?game=/Game/GameRelated/MyGamemode.MyGamemode_C
+[2020.07.31-23.52.24:853][633]LogWorld: BeginTearingDown for /Temp/Untitled_24
+[2020.07.31-23.52.24:853][633]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.52.24:895][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.07.31-23.52.24:899][633]LogAIModule: Creating AISystem for world MyLevel
+[2020.07.31-23.52.24:899][633]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.07.31-23.52.24:900][633]LogWorld: Bringing World /Game/GameRelated/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.08.01-01.52.24
+[2020.07.31-23.52.24:900][633]LogWorld: Bringing up level for play took: 0.000536
+[2020.07.31-23.52.24:900][633]LogLoad: Took 0.047695 seconds to LoadMap(/Game/GameRelated/UEDPIE_1_MyLevel)
+[2020.07.31-23.52.24:921][634]LogNet: Client netspeed is 10000
+[2020.07.31-23.52.24:921][634]LogNet: Join request: /Game/GameRelated/MyLevel?Name=JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6?SplitscreenCount=1
+[2020.07.31-23.52.24:921][634]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.52.24:922][634]LogNet: Join succeeded: JOEYCOMPUTER-5F3B05C
+[2020.07.31-23.52.25:414][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.52.25:797][691]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.52.26:083][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Chest_5. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.52.26:083][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.52.26:084][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Loot_Chest_2. Function SRV_AddItem will not be processed.
+[2020.07.31-23.52.26:084][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.52.26:084][711]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayerState_C_0. Function SRV_ResizeInventory will not be processed.
+[2020.07.31-23.52.26:128][714]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.07.31-23.52.27:437][801]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_46.InventoryContainer_C_0 NOT Supported.
+[2020.07.31-23.52.27:437][801]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: InventoryContainer_C /Engine/Transient.UnrealEdEngine_0:GameInstance_46.InventoryContainer_C_1 NOT Supported.
+[2020.07.31-23.52.35:581][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.52.40:035][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-23.52.44:600][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.52.44:601][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.52.44:601][833]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_2_MyLevel
+[2020.07.31-23.52.44:616][833]LogSlate: Window 'StructureInventory Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.52.44:623][833]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.52.44:634][833]LogNet: World NetDriver shutdown IpNetDriver_49 [GameNetDriver]
+[2020.07.31-23.52.44:635][833]LogNet: DestroyNamedNetDriver IpNetDriver_49 [GameNetDriver]
+[2020.07.31-23.52.44:635][833]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_49, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6, Channels: 13, Time: 2020.07.31-23.52.44
+[2020.07.31-23.52.44:635][833]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_49, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6
+[2020.07.31-23.52.44:635][833]LogExit: GameNetDriver IpNetDriver_49 shut down
+[2020.07.31-23.52.44:636][833]LogWorld: BeginTearingDown for /Game/GameRelated/UEDPIE_1_MyLevel
+[2020.07.31-23.52.44:636][833]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.07.31-23.52.44:637][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.31-23.52.44:651][833]LogSlate: Window 'StructureInventory Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.31-23.52.44:658][833]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.52.44:665][833]LogNet: World NetDriver shutdown IpNetDriver_48 [GameNetDriver]
+[2020.07.31-23.52.44:665][833]LogNet: DestroyNamedNetDriver IpNetDriver_48 [GameNetDriver]
+[2020.07.31-23.52.44:665][833]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50463, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6
+[2020.07.31-23.52.44:665][833]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50463, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6, Channels: 13, Time: 2020.07.31-23.52.44
+[2020.07.31-23.52.44:665][833]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50463, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_48, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-5F3B05C44841410FCCAE48A487AB4BD6
+[2020.07.31-23.52.44:665][833]LogExit: GameNetDriver IpNetDriver_48 shut down
+[2020.07.31-23.52.44:666][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.31-23.52.44:666][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/GameRelated/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/GameRelated/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.07.31-23.52.44:720][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.31-23.52.44:742][834]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.07.31-23.52.44:742][834]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.07.31-23.52.48:281][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.52.48:392][180]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD2AD817894B506E1C39F40889E1DC3D2C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.52.53:450][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.52.53:563][670]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD319948CD465D95E3406EEEA96D679DF4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.53.16:273][885]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-23.53.16:592][885]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.53.16:592][885]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.53.16:592][885]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.53.16:592][885]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.53.16:592][885]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-23.53.16:813][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.07.31-23.53.36:723][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.31-23.53.36:889][950]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer41C60D194E5651424C1414973107DFAE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.31-23.53.52:439][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.53.52:547][511]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUDC19C3FBC485797FCF60557B59E8576C9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.54.03:767][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset" SILENT=true
+[2020.07.31-23.54.03:883][587]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/GameHUD7BC546034DFC098A9F2A358DF61027C1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/GameHUD.uasset'
+[2020.07.31-23.54.05:145][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.07.31-23.54.05:158][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.31-23.54.05:199][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.31-23.54.05:442][702]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelF97BED154CD89CE4ABACC7A7A6EC5557.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.31-23.54.05:474][702]LogFileHelpers: Saving map 'MyLevel' took 0.316
+[2020.07.31-23.54.07:196][837]LogSlate: Window 'GameHUD' being destroyed
+[2020.07.31-23.54.07:202][837]LogSlate: Window 'GameHUD' being destroyed
+[2020.07.31-23.54.07:212][837]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:281][837]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:324][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.31-23.54.07:324][837]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:376][837]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:382][837]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:423][837]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:427][837]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.07:476][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.31-23.54.07:477][837]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-23.54.08:083][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
