@@ -567,3 +567,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-16.29.26:690][465]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.07.31-16.29.27:560][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2020.07.31-16.29.28:450][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-16.31.21:301][546]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.31-16.31.21:310][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayer.MyPlayer
+[2020.07.31-16.31.21:515][546]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.31-16.31.22:238][546]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.31-16.31.23:001][595]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.31-16.31.25:632][832]BlueprintLog: New page: Compile MyPlayer
+[2020.07.31-16.31.25:913][832]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.31.25:913][832]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.07.31-16.31.26:082][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.07.31-16.31.27:655][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.31-16.31.27:829][953]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer4A6D8EA9482A8877DC1736A58439095E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.31-16.31.28:193][980]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.31-16.31.28:818][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.07.31-16.31.28:833][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.31-16.31.28:862][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.31-16.31.29:070][ 36]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel70266E604856DBBFA05332A3D4F0DBC9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.07.31-16.31.29:100][ 36]LogFileHelpers: Saving map 'MyLevel' took 0.267
+[2020.07.31-16.31.30:023][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.31-16.31.30:115][126]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.31-16.31.30:119][126]LogSlate: Window 'MyPlayer' being destroyed
+[2020.07.31-16.31.30:119][126]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.31-16.31.30:651][159]LogRenderer: Reallocating scene render targets to support 1108x480 Format 10 NumSamples 1 (Frame:1552).
+[2020.07.31-16.31.31:140][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
