@@ -1111,3 +1111,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.31-23.11.27:818][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
 [2020.07.31-23.11.28:016][ 83]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer767631A246FB44609CC813847034D741.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
 [2020.07.31-23.11.40:798][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.31-23.12.44:585][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset" SILENT=true
+[2020.07.31-23.12.44:744][522]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayer10C436CE4990644405355590E4B1EA7B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayer.uasset'
+[2020.07.31-23.12.54:608][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
