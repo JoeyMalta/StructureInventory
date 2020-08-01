@@ -6140,3 +6140,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.01-00.08.05:877][702]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState63DB40364DBC9CF813DC1E95FB12755B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
 [2020.08.01-00.08.07:107][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2020.08.01-00.08.13:254][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.01-00.09.46:217][633]BlueprintLog: New page: Compile MyPlayerState
+[2020.08.01-00.09.46:431][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.08.01-00.09.46:884][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.08.01-00.09.46:993][670]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState468B103946B0204964A24882EEC019F4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.08.01-00.09.48:054][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.01-00.10.03:611][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.08.01-00.10.03:716][431]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState75F9346B43E014C4D42CFD8EBD1A62C6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.08.01-00.10.10:219][ 18]BlueprintLog: New page: Compile MyPlayerState
+[2020.08.01-00.10.10:427][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.08.01-00.10.10:728][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.08.01-00.10.10:830][ 36]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerStateDE0354034133F6398ED631A2AF0EE962.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.08.01-00.10.13:077][234]BlueprintLog: New page: Compile MyPlayerState
+[2020.08.01-00.10.13:285][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.08.01-00.10.13:670][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.08.01-00.10.13:778][263]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerStateDE3C6BAA4D9AC5986B6F4BB8384DF4A3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.08.01-00.10.15:505][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset" SILENT=true
+[2020.08.01-00.10.15:610][418]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerState74E7F6AB4D5B99E4EB3C46946C64D450.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerState.uasset'
+[2020.08.01-00.10.16:503][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
