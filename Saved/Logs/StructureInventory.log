@@ -11135,3 +11135,32 @@ Make sure 'InventoryComponent_C' has been compiled for  SRV Update Inventory Arr
 [2020.08.10-16.56.53:289][266]LogSlate: Window 'Message Log' being destroyed
 [2020.08.10-16.56.53:293][266]LogSlate: Window 'Message Log' being destroyed
 [2020.08.10-16.56.54:371][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.08.10-16.57.35:530][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.08.10-16.59.38:704][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-16.59.38:730][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.10-16.59.38:896][427]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelD131342E4192F32B45735187C3910069.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.08.10-16.59.38:924][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset" SILENT=true
+[2020.08.10-16.59.38:963][427]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel_BuiltData1F0A27154D871176785409818F66243F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel_BuiltData.uasset'
+[2020.08.10-16.59.40:476][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.08.10-17.06.00:072][438]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerState.MyPlayerState
+[2020.08.10-17.06.26:039][783]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/SlotItem.SlotItem
+[2020.08.10-17.07.06:342][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.10-17.07.06:704][915]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem93F295F540504323CA70C183A44C195F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.10-17.09.57:145][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.08.10-17.09.57:145][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameRelated/MyLevel' took 0.032
+[2020.08.10-17.09.57:147][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/SlotItem] ([1] browsable assets)...
+[2020.08.10-17.09.57:147][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/SlotItem]
+[2020.08.10-17.09.57:147][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Saved/Autosaves/Game/Inventory/SlotItem_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.08.10-17.09.57:425][146]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem_Auto30D4A51AA42C93A33916BA6BE48E1ABEB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Saved/Autosaves/Game/Inventory/SlotItem_Auto3.uasset'
+[2020.08.10-17.09.59:212][146]LogFileHelpers: Auto-saving content packages took 2.066
+[2020.08.10-17.10.16:003][103]LogTemp: Repeating last play command: Standalone Game
+[2020.08.10-17.10.16:044][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.10-17.10.19:534][103]LogSlate: Window 'Save Content' being destroyed
+[2020.08.10-17.10.19:542][103]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2020.08.10-17.10.19:542][103]PIE: Warning: PIE failed because map save was canceled
+[2020.08.10-17.10.20:450][210]LogSlate: Window 'Message Log' being destroyed
+[2020.08.10-17.10.20:454][210]LogSlate: Window 'Message Log' being destroyed
+[2020.08.10-17.10.21:333][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.10-17.10.21:969][312]LogSlate: Window 'Save Content' being destroyed
+[2020.08.10-17.10.21:990][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.10-17.10.22:280][312]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem538B5E0649639EB69EA92382A6A4B502.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
