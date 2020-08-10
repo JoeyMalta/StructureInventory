@@ -21748,3 +21748,28 @@ Make sure 'SlotItem_C' has been compiled for  Refresh Slot
 [2020.08.10-23.17.19:185][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2020.08.10-23.17.19:417][797]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel3392384A470F15C4A347C7BBB21A8AF7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
 [2020.08.10-23.17.19:448][797]LogFileHelpers: Saving map 'MyLevel' took 0.304
+[2020.08.10-23.20.14:694][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.10-23.20.21:515][975]BlueprintLog: New page: Compile SlotItem
+[2020.08.10-23.20.22:000][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.08.10-23.20.22:415][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.10-23.20.22:736][992]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem6A5ABB4D41C7E26056AD80AEA9E8C837.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.10-23.20.23:003][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.10-23.20.35:603][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.10-23.20.35:917][ 43]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem151D83374CFAE1165ED8A4A91AD1B58F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.10-23.20.46:098][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.10-23.20.47:493][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.10-23.20.47:790][ 46]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem0A25AB0F4D0363CCF959C9BA25E028D2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.10-23.20.48:008][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.10-23.21.05:513][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.08.10-23.21.05:737][484]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent9A12093140FAF0E9011E948DCA7F6642.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.08.10-23.21.06:067][509]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.10-23.21.06:715][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.08.10-23.21.06:730][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-23.21.06:767][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.08.10-23.21.06:984][561]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevelE05E57FB4017FF650EDCE98509C4F4D5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.08.10-23.21.07:014][561]LogFileHelpers: Saving map 'MyLevel' took 0.284
+[2020.08.10-23.21.35:094][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.10-23.21.39:544][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.08.10-23.21.39:752][639]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponent5CACE74849BAC8E167671AA1593BB1BD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
+[2020.08.10-23.21.40:091][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.10-23.21.41:330][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
