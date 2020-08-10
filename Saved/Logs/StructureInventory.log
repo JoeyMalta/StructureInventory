@@ -9960,3 +9960,4 @@ Make sure 'InventoryComponent_C' has been compiled for  SRV Update Inventory Arr
 [2020.08.10-16.30.49:869][ 85]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2020.08.10-16.30.50:643][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
 [2020.08.10-16.30.50:768][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.08.10-16.36.37:249][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
