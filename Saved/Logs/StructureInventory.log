@@ -9951,3 +9951,12 @@ Make sure 'InventoryComponent_C' has been compiled for  SRV Update Inventory Arr
 [2020.08.10-16.30.07:588][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset" SILENT=true
 [2020.08.10-16.30.07:775][578]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/InventoryComponentF9D841144BB1816046DB5486E4484B49.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/InventoryComponent.uasset'
 [2020.08.10-16.30.08:697][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.08.10-16.30.48:513][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.10-16.30.49:609][ 85]LogSlate: Window 'SlotItem' being destroyed
+[2020.08.10-16.30.49:613][ 85]LogSlate: Window 'SlotItem' being destroyed
+[2020.08.10-16.30.49:621][ 85]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.10-16.30.49:683][ 85]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.10-16.30.49:865][ 85]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.10-16.30.49:869][ 85]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.10-16.30.50:643][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.08.10-16.30.50:768][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
