@@ -11164,3 +11164,4 @@ Make sure 'InventoryComponent_C' has been compiled for  SRV Update Inventory Arr
 [2020.08.10-17.10.21:969][312]LogSlate: Window 'Save Content' being destroyed
 [2020.08.10-17.10.21:990][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
 [2020.08.10-17.10.22:280][312]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem538B5E0649639EB69EA92382A6A4B502.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.10-17.11.03:733][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
