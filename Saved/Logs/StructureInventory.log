@@ -14972,3 +14972,11 @@ Make sure 'SlotItem_C' has been compiled for  Transfer/ Drop Master Item
 [2020.08.11-19.03.21:161][349]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCorners_ncl1_2D246384448D701436BEEDF88DB16402C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_ncl1_2.uasset'
 [2020.08.11-19.03.21:165][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Storage/ChestNew/ChestCorners_2" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_2.uasset" SILENT=true
 [2020.08.11-19.03.21:183][349]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/ChestCorners_20CE7D2784FF2B4CE4A5BCAB84629411B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Storage/ChestNew/ChestCorners_2.uasset'
+[2020.08.11-19.06.08:170][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyPlayer/MyPlayerController.MyPlayerController
+[2020.08.11-19.06.26:924][314]BlueprintLog: New page: Compile MyPlayerController
+[2020.08.11-19.06.27:176][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.08.11-19.06.27:592][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset" SILENT=true
+[2020.08.11-19.06.27:676][342]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerController5BB256CB460865F7431970AA73AD8EB0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset'
+[2020.08.11-19.06.28:884][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayer/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset" SILENT=true
+[2020.08.11-19.06.28:957][437]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyPlayerControllerF698D5894B94B2D33CC7E5B7DECE4660.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/MyPlayer/MyPlayerController.uasset'
+[2020.08.11-19.06.29:855][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
