@@ -1039,3 +1039,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.11-21.29.03:508][579]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2020.08.11-21.29.03:511][579]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2020.08.11-21.29.05:536][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.08.11-21.31.55:252][127]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/SlotItem.SlotItem
+[2020.08.11-21.32.27:199][339]BlueprintLog: New page: Compile SlotItem
+[2020.08.11-21.32.27:624][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.08.11-21.32.27:888][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.32.28:173][359]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem60E44AC840536CAF98A5EA90A8330F21.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.32.29:015][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.08.11-21.32.29:027][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.11-21.32.29:057][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.11-21.32.29:199][443]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel8AB02D3945E189ACEBD7A495F964292B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.08.11-21.32.29:226][443]LogFileHelpers: Saving map 'MyLevel' took 0.198
