@@ -1049,3 +1049,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.11-21.32.29:057][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2020.08.11-21.32.29:199][443]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel8AB02D3945E189ACEBD7A495F964292B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
 [2020.08.11-21.32.29:226][443]LogFileHelpers: Saving map 'MyLevel' took 0.198
+[2020.08.11-21.35.10:977][ 50]BlueprintLog: New page: Compile SlotItem
+[2020.08.11-21.35.11:386][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.08.11-21.35.15:146][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.35.15:433][407]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem36CDDABB49D5695930F7D2B6D17B5363.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.35.23:793][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.35.24:062][278]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemE0C901FA48C0226DAE2E1F953F257DB6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.35.49:743][857]BlueprintLog: New page: Compile SlotItem
+[2020.08.11-21.35.50:151][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.08.11-21.35.50:457][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.35.50:768][880]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem0C1FAC284F96B2A1FCA08CA1313AA519.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.36.01:256][875]BlueprintLog: New page: Compile SlotItem
+[2020.08.11-21.36.01:661][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.08.11-21.36.01:857][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.36.02:155][880]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemBFFAF815471BBDE2416383A890E65A0E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.36.02:986][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.08.11-21.36.02:998][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.11-21.36.03:023][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.11-21.36.03:171][957]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/MyLevel2A756DF84155FB13FDD7CBA626FCD0CE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/GameRelated/MyLevel.umap'
+[2020.08.11-21.36.03:199][957]LogFileHelpers: Saving map 'MyLevel' took 0.201
+[2020.08.11-21.36.07:091][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.08.11-21.36.15:344][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.36.15:620][180]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemB5E4B27E429BFA2540FFC09B783E19D8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.36.17:617][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.11-21.36.20:469][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.36.20:742][655]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemE39AF4E145F52964102964BBEA0AB899.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.11-21.36.21:427][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.08.11-21.36.24:009][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
+[2020.08.11-21.36.24:283][986]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItemD864ED7048BBCBC94DEBEB82F1EC202B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
