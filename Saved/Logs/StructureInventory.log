@@ -1361,3 +1361,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.31-19.27.51:592][192]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem569CE3A1472085CD03FA05ABB9F9E408.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
 [2020.08.31-19.28.19:103][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/SlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset" SILENT=true
 [2020.08.31-19.28.19:425][444]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/Saved/SlotItem18F191B44DDE7D34D5426EB1429F489B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/Content/Inventory/SlotItem.uasset'
+[2020.08.31-21.43.27:928][902]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={907F2CC1-4324-455F-4787-42A317552EB3}
