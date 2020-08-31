@@ -3937,3 +3937,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.31-22.59.01:143][883]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary470BADA24413418472C6549ACFBBC8D9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
 [2020.08.31-22.59.02:324][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
 [2020.08.31-22.59.03:483][108]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Kan element niet vinden.]
+[2020.08.31-22.59.17:342][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.59.17:467][544]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryECD0FF224238F61E5FF3C4A9F6B36414.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
