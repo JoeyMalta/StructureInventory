@@ -3875,3 +3875,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.31-22.40.50:110][234]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2020.08.31-22.40.51:647][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
 [2020.08.31-22.41.03:259][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.31-22.42.45:280][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.31-22.50.07:420][149]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.08.31-22.50.29:704][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/MyPlayerController.MyPlayerController
+[2020.08.31-22.50.32:677][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.08.31-22.50.57:578][973]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.50.57:648][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.31-22.50.58:047][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.50.58:185][  7]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryE2D082374163F5F3C7431A9C519D82D7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.51.26:778][934]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.51.26:839][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.08.31-22.52.42:650][612]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.52.42:711][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.08.31-22.52.43:129][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.52.43:261][650]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary9DE7F6E14AEC0D8230A5F29D1141F95A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.52.54:706][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.52.54:858][944]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary5F490EA9458E292F597D9C86296B2948.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.00:920][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.53.01:037][630]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary6651B1494FBE60A4768219A32230D674.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.02:485][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.53.02:631][787]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryD0D73C98467C1C2680513CB6B0B17643.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.10:695][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.53.10:844][715]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryEDBB033E402B88A19C9C74BD6FA83956.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.13:864][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.53.13:998][ 61]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary378D006F441B9F0684740EB4F3AE076C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.15:883][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.53.16:003][276]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryE58487BD4312A20D1AC039A6640D91BA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.53.21:130][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.08.31-22.53.21:164][843]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController5472273C4AF5F12545ED5DB630E82199.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.08.31-22.54.30:411][761]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.54.30:455][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.08.31-22.54.30:814][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.54.30:893][792]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot531B0962418551594F91199A66180ABD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.54.39:694][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.54.39:824][647]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary23BFFDF94036BB577EC3F3B3C2DCE069.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.55.16:233][308]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.55.16:301][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.08.31-22.55.16:997][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.55.17:124][375]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryFD7A7F444DFE81BE36944A998D8A9CCA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.55.46:740][528]LogEditorTransaction: Undo Move Nodes
+[2020.08.31-22.55.49:326][775]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.55.49:390][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.08.31-22.55.49:896][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.55.50:019][821]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary83F9208D438C54EF0F4CB28158D3CA03.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.56.07:627][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.56.07:772][705]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryAA31F3FD4F543B436FBD5A9973583856.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.57.41:653][857]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.57.41:719][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.08.31-22.57.42:125][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.57.42:257][895]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary20A1FABE4FB536DB3C45FCAAB7C7DB22.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.57.46:767][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.57.46:887][400]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary172F8955498EA04CEF1D0B96431640BD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.58.31:361][955]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.58.31:429][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.08.31-22.58.31:830][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.58.31:956][990]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryC81110F6488C64558880C8B424005AA3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.58.57:600][567]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.31-22.59.00:593][856]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.08.31-22.59.00:658][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.08.31-22.59.00:982][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.08.31-22.59.01:143][883]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary470BADA24413418472C6549ACFBBC8D9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.08.31-22.59.02:324][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.08.31-22.59.03:483][108]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Kan element niet vinden.]
