@@ -942,3 +942,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.31-22.05.32:359][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
 [2020.08.31-22.05.32:428][134]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot3914CA2144AF17AD9E691F95A9D1A3C5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
 [2020.08.31-22.05.36:267][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.08.31-22.06.04:423][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.06.04:485][790]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot03A10EDA418B988E6505638366BE9A27.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.06.05:400][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.06.05:463][876]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotE1E008D646692B910668A18E9242DC68.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.06.19:094][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.06.19:175][ 30]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot4721473341E829EBFA22C380CC3A3A5E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.06.45:619][522]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.06.45:675][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.08.31-22.07.00:080][853]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.07.00:136][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.08.31-22.07.05:271][338]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.07.05:322][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.08.31-22.07.05:619][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.07.05:687][362]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot489BD10F486AF3A16781DCB1A4A53884.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.07.06:254][414]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.31-22.07.06:280][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.08.31-22.07.06:280][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.31-22.07.06:280][414]PIE: New page: PIE session: MyLevel (1 sep. 2020 02:07:06)
+[2020.08.31-22.07.06:280][414]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyLevel
+[2020.08.31-22.07.06:282][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001895s)
+[2020.08.31-22.07.06:283][414]LogAIModule: Creating AISystem for world MyLevel
+[2020.08.31-22.07.06:283][414]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2020.08.31-22.07.06:283][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_0_MyLevel.MyLevel (0.002922s)
+[2020.08.31-22.07.06:319][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.08.31-22.07.06:319][414]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.08.31-22.07.06:342][414]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.31-22.07.06:374][414]LogInit: FAudioDevice initialized.
+[2020.08.31-22.07.06:386][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.31-22.07.06:386][414]LogLoad: Game class is 'MyGamemode_C'
+[2020.08.31-22.07.06:387][414]LogWorld: Bringing World /Game/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.01-00.07.06
+[2020.08.31-22.07.06:387][414]LogWorld: Bringing up level for play took: 0.000855
+[2020.08.31-22.07.06:388][414]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.08.31-22.07.06:391][414]LogBlueprintUserMessages: [MyPlayer_C_0] 10
+[2020.08.31-22.07.06:395][414]PIE: Play in editor start time for /Game/UEDPIE_0_MyLevel -0,869
+[2020.08.31-22.07.06:395][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.08.31-22.07.08:710][599]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.08:710][599]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.08:889][613]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.08:889][613]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.09:054][626]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.09:054][626]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.09:189][637]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.09:189][637]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.10:233][723]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.10:233][723]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.10:391][736]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.10:391][736]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.10:549][749]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.10:549][749]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.10:714][762]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.10:715][762]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.10:862][774]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.10:862][774]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.32:457][901]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.32:457][901]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.32:634][915]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.32:634][915]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.32:809][930]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.32:809][930]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.32:947][942]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.32:947][942]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.33:097][955]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.33:097][955]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.33:610][998]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.33:610][998]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.33:777][ 12]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.33:777][ 12]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.33:954][ 27]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.33:954][ 27]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.34:110][ 40]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.34:110][ 40]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.34:268][ 53]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.34:268][ 53]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.34:415][ 64]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.34:415][ 64]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.34:600][ 79]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.34:600][ 79]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:073][ 28]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:073][ 28]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:249][ 43]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:249][ 43]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:392][ 54]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:392][ 54]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:550][ 67]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:551][ 67]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:700][ 79]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:700][ 79]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.46:823][ 89]LogBlueprintUserMessages: [None] Called Loop
+[2020.08.31-22.07.46:823][ 89]LogBlueprintUserMessages: [None] looped
+[2020.08.31-22.07.47:918][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.08.31-22.07.47:918][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.31-22.07.47:918][179]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyLevel
+[2020.08.31-22.07.47:931][179]LogSlate: Window 'InventorySystemThing Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.31-22.07.47:937][179]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.08.31-22.07.47:937][179]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.31-22.07.47:952][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.31-22.07.47:952][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.08.31-22.07.48:019][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.08.31-22.07.48:261][180]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.08.31-22.07.51:123][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.07.51:206][400]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot8073C72243BF54B14AC4809CBE9622B0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.08.00:949][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.08.01:027][425]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot9921246D4A36F6CD1C15B4BF4FE17251.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.08.43:059][  4]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.08.43:111][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.08.31-22.08.43:513][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.08.43:584][ 41]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot1F0C40B140BFD3C17C59BD8A12E76735.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.08.44:764][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.08.44:833][150]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot9EFF07B5401FB140ADE234800015BE9B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.08.46:841][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.08.46:900][354]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot9104675D4D20EECAEA45C196813ADB5A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.08.48:119][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.08.31-22.08.58:462][526]BlueprintLog: New page: Compile InventorySlot
+[2020.08.31-22.08.58:513][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.08.31-22.08.59:668][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.08.59:783][638]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot36D8C8DD402E26399CA4A2BAA10B1FC9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.09.04:077][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.09.04:142][ 62]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotC5DD57394A4478C0189870870C850C0F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.08.31-22.09.05:412][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.08.31-22.09.05:488][183]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot16BD45074BE3E151ED3DDEA23452C4CF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
