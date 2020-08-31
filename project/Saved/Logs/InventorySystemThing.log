@@ -615,3 +615,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.31-21.43.11:787][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.08.31-21.43.11:787][292]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2020.08.31-21.43.13:147][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.08.31-21.45.39:896][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.08.31-21.46.03:181][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.31-21.46.03:206][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.31-21.46.03:467][767]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel3A2C576A4A4EFFFEDDDCF789758E48F2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.08.31-21.46.03:503][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.08.31-21.46.03:527][767]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData1AFEF3F64777DE2CE30415BB2EB77632.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
