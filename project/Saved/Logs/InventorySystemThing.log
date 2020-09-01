@@ -2864,3 +2864,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.01-16.25.58:212][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
 [2020.09.01-16.25.58:263][108]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer1CD3C61945BB274A5B5A1490F127BF45.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
 [2020.09.01-16.25.59:222][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.09.01-16.26.34:884][654]LogSlate: Window 'MyPlayerController' being destroyed
+[2020.09.01-16.26.34:888][654]LogSlate: Window 'MyPlayerController' being destroyed
+[2020.09.01-16.26.34:901][654]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.01-16.26.34:972][654]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.01-16.26.34:972][654]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
