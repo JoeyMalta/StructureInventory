@@ -569,3 +569,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.01-13.38.45:466][373]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
 [2020.09.01-13.38.46:440][373]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.09.01-13.38.48:182][529]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.01-19.53.19:790][727]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.01-19.53.19:890][727]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.01-20.45.44:208][288]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.01-20.45.44:279][288]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
