@@ -1015,3 +1015,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-22.41.59:899][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
 [2020.09.02-22.42.00:225][667]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary66DC90DD4046EBF29ACED7BD720A6388.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
 [2020.09.02-22.42.01:371][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.09.02-22.47.02:750][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.47.03:084][913]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryF61B8E004F845A3282968CBCD0E4F348.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.47.05:107][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.47.05:420][135]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryF0A095D2422E7FE46CF52AB815763ECB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.47.06:466][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.02-22.47.07:806][381]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.47.07:810][381]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.47.07:813][381]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:835][381]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:881][381]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:927][381]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.08:780][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
