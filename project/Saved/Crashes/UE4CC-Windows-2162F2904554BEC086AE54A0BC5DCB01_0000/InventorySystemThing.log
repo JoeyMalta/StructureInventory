@@ -1,0 +1,1132 @@
+﻿Log file open, 09/02/20 19:14:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystemThing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086771
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.42
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.02-17.14.23:560][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.02-17.14.23:561][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.02-17.14.23:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:561][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:566][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:566][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.02-17.14.23:566][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.02-17.14.23:566][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:566][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.02-17.14.23:566][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.02-17.14.23:567][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.02-17.14.23:568][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.02-17.14.23:568][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-17.14.23:568][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.02-17.14.23:572][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.02-17.14.23:572][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.02-17.14.23:572][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.09.02-17.14.23:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.02-17.14.23:573][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-17.14.23:573][  0]LogInit: Computer: JOEYCOMPUTER
+[2020.09.02-17.14.23:573][  0]LogInit: User: joeym
+[2020.09.02-17.14.23:573][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.02-17.14.23:573][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.02-17.14.23:574][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.02-17.14.23:574][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.02-17.14.23:574][  0]LogMemory: Process Physical Memory: 102.05 MB used, 102.05 MB peak
+[2020.09.02-17.14.23:574][  0]LogMemory: Process Virtual Memory: 99.41 MB used, 99.41 MB peak
+[2020.09.02-17.14.23:574][  0]LogMemory: Physical Memory: 8068.50 MB used,  8245.11 MB free, 16313.61 MB total
+[2020.09.02-17.14.23:574][  0]LogMemory: Virtual Memory: 4668.22 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.09.02-17.14.23:579][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.02-17.14.23:609][  0]LogInit: Using OS detected language (nl-NL).
+[2020.09.02-17.14.23:609][  0]LogInit: Using OS detected locale (nl-NL).
+[2020.09.02-17.14.23:610][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2020.09.02-17.14.23:778][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.02-17.14.23:821][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.02-17.14.23:821][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.02-17.14.24:048][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.02-17.14.24:048][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.02-17.14.24:108][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.09.02-17.14.24:108][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.02-17.14.24:110][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.02-17.14.24:110][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.02-17.14.24:110][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.02-17.14.24:118][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.02-17.14.24:118][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.02-17.14.24:118][  0]LogWindows: EnumDisplayDevices:
+[2020.09.02-17.14.24:118][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.09.02-17.14.24:119][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.09.02-17.14.24:119][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.02-17.14.24:119][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.02-17.14.24:119][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.02-17.14.24:119][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.09.02-17.14.24:119][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.09.02-17.14.24:119][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.09.02-17.14.24:119][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.09.02-17.14.24:158][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.02-17.14.24:173][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.02-17.14.24:477][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.02-17.14.24:483][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.02-17.14.24:491][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.02-17.14.24:500][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.02-17.14.24:509][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.02-17.14.24:516][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.02-17.14.24:524][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.02-17.14.24:533][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.02-17.14.24:537][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.02-17.14.24:569][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.02-17.14.24:570][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.02-17.14.24:572][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.02-17.14.24:589][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.02-17.14.24:589][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.02-17.14.24:605][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.02-17.14.24:605][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.02-17.14.24:613][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.02-17.14.24:620][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.02-17.14.24:626][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.02-17.14.24:635][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.02-17.14.24:658][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.02-17.14.24:658][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.02-17.14.24:658][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.02-17.14.24:668][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.02-17.14.24:728][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Down2DieInventory/StructureInventory/project/Intermediate/Shaders/WorkingDirectory/11968/).
+[2020.09.02-17.14.24:728][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/0EED335743DF8F5880467C86EB622931/'.
+[2020.09.02-17.14.24:730][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.02-17.14.24:730][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.02-17.14.24:730][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.02-17.14.25:282][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.02-17.14.25:333][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.02-17.14.25:334][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.02-17.14.25:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Down2DieInventory/StructureInventory/project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.02-17.14.25:334][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.02-17.14.25:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Down2DieInventory/StructureInventory/project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.02-17.14.25:334][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.02-17.14.25:344][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.02-17.14.25:345][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.09.02-17.14.25:346][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.02-17.14.25:346][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.02-17.14.25:346][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.02-17.14.25:365][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.02-17.14.25:368][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.02-17.14.25:369][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.02-17.14.25:425][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.09.02-17.14.25:678][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-17.14.25:838][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.02-17.14.25:838][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.02-17.14.25:838][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.02-17.14.25:838][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.02-17.14.25:838][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.02-17.14.25:851][  0]LogNetVersion: InventorySystemThing 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 843839388)
+[2020.09.02-17.14.26:414][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.070984 seconds
+[2020.09.02-17.14.26:421][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.09.02-17.14.26:421][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.09.02-17.14.26:421][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.02-17.14.27:291][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.02-17.14.27:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.02-17.14.27:368][  0]SourceControl: Source control is disabled
+[2020.09.02-17.14.27:368][  0]SourceControl: Source control is disabled
+[2020.09.02-17.14.27:370][  0]SourceControl: Source control is disabled
+[2020.09.02-17.14.27:371][  0]SourceControl: Source control is disabled
+[2020.09.02-17.14.27:580][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.02-17.14.27:725][  0]LogOcInput: OculusInput pre-init called
+[2020.09.02-17.14.27:737][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.02-17.14.27:737][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.02-17.14.30:293][  0]LogEngine: Initializing Engine...
+[2020.09.02-17.14.30:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.02-17.14.30:295][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.02-17.14.30:638][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.02-17.14.30:649][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.02-17.14.30:688][  0]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-17.14.30:729][  0]LogInit: FAudioDevice initialized.
+[2020.09.02-17.14.30:729][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.02-17.14.30:774][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.02-17.14.30:783][  0]LogInit: Texture streaming: Enabled
+[2020.09.02-17.14.30:801][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.02-17.14.30:801][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.02-17.14.30:801][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.02-17.14.30:854][  0]LogInit: Transaction tracking system initialized
+[2020.09.02-17.14.30:880][  0]BlueprintLog: New page: Editor Load
+[2020.09.02-17.14.30:948][  0]LocalizationService: Localization service is disabled
+[2020.09.02-17.14.31:195][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/' took 0.00s
+[2020.09.02-17.14.31:195][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.02-17.14.31:195][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.02-17.14.32:763][  0]SourceControl: Source control is disabled
+[2020.09.02-17.14.32:763][  0]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.02-17.14.32:763][  0]LightingResults: New page: Lighting Build
+[2020.09.02-17.14.32:765][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.14.32:765][  0]MapCheck: New page: Map Check
+[2020.09.02-17.14.32:765][  0]LightingResults: New page: Lighting Build
+[2020.09.02-17.14.32:786][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.09.02-17.14.33:106][  0]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.14.33:111][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.02-17.14.33:140][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.09.02-17.14.33:140][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.02-17.14.33:140][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,233ms to complete.
+[2020.09.02-17.14.33:140][  0]LogFileHelpers: Loading map 'MyLevel' took 0.378
+[2020.09.02-17.14.33:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.14.33:264][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.14.33:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.14.33:277][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.14.33:282][  0]LogCollectionManager: Loaded 0 collections in 0.001433 seconds
+[2020.09.02-17.14.33:287][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Saved/Collections/' took 0.00s
+[2020.09.02-17.14.33:287][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/Developers/joeym/Collections/' took 0.00s
+[2020.09.02-17.14.33:287][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/Collections/' took 0.00s
+[2020.09.02-17.14.33:287][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.09.02-17.14.33:295][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3071 classes and 775 folders.
+[2020.09.02-17.14.33:301][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.02-17.14.33:359][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.02-17.14.33:362][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.09.02-17.14.33:418][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.02-17.14.33:433][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.02-17.14.33:435][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.02-17.14.33:445][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.02-17.14.33:445][  0]LogLoad: (Engine Initialization) Total time: 11.45 seconds
+[2020.09.02-17.14.33:445][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.02-17.14.33:493][  0]LogAssetRegistry: Asset discovery search completed in 8.0698 seconds
+[2020.09.02-17.14.33:498][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2020.09.02-17.14.33:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000126 seconds (updated 0 objects)
+[2020.09.02-17.14.33:499][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.09.02-17.14.33:510][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.02-17.14.33:575][  0]LogRenderer: Reallocating scene render targets to support 884x312 Format 10 NumSamples 1 (Frame:1).
+[2020.09.02-17.14.33:575][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.02-17.15.55:183][688]LogRenderer: Reallocating scene render targets to support 1332x560 Format 10 NumSamples 1 (Frame:9690).
+[2020.09.02-17.15.55:667][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-17.15.59:271][124]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.02-17.15.59:282][124]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.09.02-17.15.59:516][124]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.09.02-17.16.00:552][124]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.02-17.16.02:125][261]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.02-17.16.06:083][562]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/MyPlayerController.MyPlayerController
+[2020.09.02-17.16.11:702][ 42]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  TransferItemSingle_DragDrop  and was replaced as a Custom Event!
+[2020.09.02-17.16.31:632][944]BlueprintLog: New page: Compile MyPlayerController
+[2020.09.02-17.16.31:888][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.09.02-17.16.32:060][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-17.16.32:154][948]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController5C080C09455977BB1EF21DA0AEC41722.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-17.17.21:510][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-17.17.21:608][775]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController9B004C384FAFDDDADA05CBAAD586110E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-17.18.07:563][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-17.18.07:654][883]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerControllerA6AF2A0C482061B23ABE21A62782C649.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-17.19.28:859][ 64]BlueprintLog: New page: Compile MyPlayerController
+[2020.09.02-17.19.29:078][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.09.02-17.19.46:715][551]BlueprintLog: New page: Compile InventorySlot
+[2020.09.02-17.19.46:776][551]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.09.02-17.19.47:196][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-17.19.47:411][579]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot71FDD6484E897297EBE99491BE0ECBC5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-17.19.52:684][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-17.19.52:837][ 49]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot733B19214D8DE14D9211ADA7AE13B918.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-17.22.36:773][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-17.22.36:938][ 14]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotFCE62D0640DB57DDEA371381D813EB80.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-17.22.47:052][851]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.02-17.24.08:438][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.24.08:688][749]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryBF14434A478EB2B84DB780BFDF2E9F0D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.24.58:752][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.09.02-17.24.58:752][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.042
+[2020.09.02-17.24.58:753][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/MyPlayerController] ([1] browsable assets)...
+[2020.09.02-17.24.58:753][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/MyPlayerController]
+[2020.09.02-17.24.58:841][449]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController_Auto179455C134ECD32454E8263996251B639.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Autosaves/Game/Player/MyPlayerController_Auto1.uasset'
+[2020.09.02-17.24.58:842][449]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.09.02-17.25.44:615][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-17.25.44:704][837]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerControllerA52816E04926F9009610C691921E19C2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-17.25.51:020][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-17.25.51:114][440]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerControllerF4C7AB53423FD395D9BDF4BB2591D3B9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-17.26.05:116][566]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-17.26.05:214][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.09.02-17.26.05:503][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.26.05:952][582]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary3BDF842E45183CE20020E0BDDEE8EBC6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.26.09:020][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.26.09:304][822]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryB80191C74E7F83CA5A24A8BABD31DF43.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.26.14:629][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.26.14:899][302]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary66051CAC4F99048C2D92F3A59F5A50AE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.26.16:260][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.26.16:533][423]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryADB292F34488040A6C1FFBB2C134475C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.26.19:222][670]LogEditorTransaction: Undo Move Node
+[2020.09.02-17.27.39:388][117]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-17.27.39:487][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.09.02-17.27.39:771][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.27.40:057][135]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary7A19F2AE49AC2A10AEB5CFAFEB692EDF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.27.40:506][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-17.27.40:531][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.40:532][171]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.09.02-17.27.40:557][171]LogPlayLevel: [PlayLevel] Compiling MyPlayerController before play...
+[2020.09.02-17.27.40:788][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.09.02-17.27.40:789][171]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2020.09.02-17.27.40:789][171]PIE: New page: PIE session: MyLevel (2 sep. 2020 21:27:40)
+[2020.09.02-17.27.40:790][171]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.09.02-17.27.40:790][171]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.09.02-17.27.40:790][171]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.02-17.27.40:791][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.27.40:793][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002168s)
+[2020.09.02-17.27.40:794][171]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.27.40:795][171]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2020.09.02-17.27.40:795][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.004046s)
+[2020.09.02-17.27.40:832][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.09.02-17.27.40:837][171]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.40:838][171]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-17.27.40:840][171]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.27.40
+[2020.09.02-17.27.40:840][171]LogWorld: Bringing up level for play took: 0.001050
+[2020.09.02-17.27.40:840][171]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.40:840][171]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.09.02-17.27.40:840][171]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.40:840][171]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-17.27.40:840][171]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-17.27.40:841][171]LogInit: WinSock: I am JOEYCOMPUTER (169.254.105.252:0)
+[2020.09.02-17.27.40:841][171]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-17.27.40:841][171]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.40:841][171]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.09.02-17.27.40:842][171]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,859
+[2020.09.02-17.27.40:843][171]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.40:865][171]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-17.27.40:902][171]LogInit: FAudioDevice initialized.
+[2020.09.02-17.27.40:913][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.27.40:913][171]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-17.27.40:913][171]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.40:913][171]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.09.02-17.27.40:914][171]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-17.27.40:914][171]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-17.27.40:914][171]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.40:914][171]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-17.27.40:920][171]PIE: Play in editor start time for /Game/MyLevel -0,78
+[2020.09.02-17.27.40:923][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.40:924][171]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56773
+[2020.09.02-17.27.40:924][171]LogHandshake: SendConnectChallenge. Timestamp: 0.012470, Cookie: 251062216141062097016066162127074121003162158122215093252226
+[2020.09.02-17.27.40:928][171]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.09.02-17.27.40:930][171]LogHandshake: SendChallengeResponse. Timestamp: 0.012470, Cookie: 251062216141062097016066162127074121003162158122215093252226
+[2020.09.02-17.27.41:233][172]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56773
+[2020.09.02-17.27.41:233][172]LogHandshake: SendChallengeAck. InCookie: 251062216141062097016066162127074121003162158122215093252226
+[2020.09.02-17.27.41:233][172]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56773
+[2020.09.02-17.27.41:233][172]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.41:234][172]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/02/20 19:27:41, [UNetConnection] RemoteAddr: 127.0.0.1:56773, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.41:234][172]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56773, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.41:234][172]LogNetVersion: InventorySystemThing 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3987550767)
+[2020.09.02-17.27.41:234][172]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.41:248][173]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-17.27.41:248][173]LogNet: Remote platform little endian=1
+[2020.09.02-17.27.41:248][173]LogNet: This platform little endian=1
+[2020.09.02-17.27.41:249][173]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.02-17.27.41:264][174]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30 userId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30 platform: NULL
+[2020.09.02-17.27.41:264][174]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-17.27.41:264][174]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-17.27.41:264][174]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.09.02-17.27.41:264][174]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.27.41:323][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.09.02-17.27.41:329][174]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.27.41:329][174]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.41:331][174]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.27.41
+[2020.09.02-17.27.41:331][174]LogWorld: Bringing up level for play took: 0.000641
+[2020.09.02-17.27.41:331][174]LogLoad: Took 0.066766 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-17.27.41:352][175]LogRenderer: Reallocating scene render targets to support 1332x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.02-17.27.41:353][175]LogNet: Client netspeed is 10000
+[2020.09.02-17.27.41:353][175]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30?SplitscreenCount=1
+[2020.09.02-17.27.41:354][175]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.27.41:355][175]LogNet: Join succeeded: JOEYCOMPUTER-142F5E2
+[2020.09.02-17.27.41:482][183]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.27.54:040][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.54:040][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.27.54:040][ 22]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-17.27.54:053][ 22]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-17.27.54:059][ 22]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.54:059][ 22]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.27.54:070][ 22]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.09.02-17.27.54:070][ 22]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.09.02-17.27.54:070][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30, Channels: 14, Time: 2020.09.02-17.27.54
+[2020.09.02-17.27.54:070][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30
+[2020.09.02-17.27.54:070][ 22]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.09.02-17.27.54:071][ 22]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.27.54:072][ 22]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.54:072][ 22]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.27.54:072][ 22]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.09.02-17.27.54:072][ 22]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.09.02-17.27.54:072][ 22]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56773, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30
+[2020.09.02-17.27.54:072][ 22]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56773, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30, Channels: 14, Time: 2020.09.02-17.27.54
+[2020.09.02-17.27.54:072][ 22]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56773, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-142F5E2A4B2E423406A1F8AF6A758F30
+[2020.09.02-17.27.54:073][ 22]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.09.02-17.27.54:074][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-17.27.54:074][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.54:136][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.09.02-17.27.54:169][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.02-17.27.54:169][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.09.02-17.27.58:180][339]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-17.27.58:272][339]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.09.02-17.27.58:838][383]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-17.27.58:863][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.58:863][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-17.27.58:863][383]PIE: New page: PIE session: MyLevel (2 sep. 2020 21:27:58)
+[2020.09.02-17.27.58:863][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.27.58:866][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002579s)
+[2020.09.02-17.27.58:866][383]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.27.58:866][383]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2020.09.02-17.27.58:866][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.003999s)
+[2020.09.02-17.27.58:907][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.09.02-17.27.58:907][383]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.58:907][383]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-17.27.58:908][383]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.27.58
+[2020.09.02-17.27.58:908][383]LogWorld: Bringing up level for play took: 0.000647
+[2020.09.02-17.27.58:908][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.58:908][383]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.09.02-17.27.58:909][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.58:909][383]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-17.27.58:909][383]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-17.27.58:909][383]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-17.27.58:909][383]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.58:909][383]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.09.02-17.27.58:909][383]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,79
+[2020.09.02-17.27.58:911][383]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.27.58:934][383]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-17.27.58:967][383]LogInit: FAudioDevice initialized.
+[2020.09.02-17.27.58:978][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.27.58:979][383]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-17.27.58:979][383]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.58:979][383]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.09.02-17.27.58:979][383]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-17.27.58:979][383]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-17.27.58:980][383]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.58:980][383]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-17.27.58:983][383]PIE: Play in editor start time for /Game/MyLevel -0,717
+[2020.09.02-17.27.58:987][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.27.58:987][383]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56775
+[2020.09.02-17.27.58:987][383]LogHandshake: SendConnectChallenge. Timestamp: 0.010966, Cookie: 161003212148204251043236098010108047236051016127126017218161
+[2020.09.02-17.27.58:987][383]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.02-17.27.58:988][383]LogHandshake: SendChallengeResponse. Timestamp: 0.010966, Cookie: 161003212148204251043236098010108047236051016127126017218161
+[2020.09.02-17.27.59:039][384]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56775
+[2020.09.02-17.27.59:039][384]LogHandshake: SendChallengeAck. InCookie: 161003212148204251043236098010108047236051016127126017218161
+[2020.09.02-17.27.59:039][384]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56775
+[2020.09.02-17.27.59:039][384]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.27.59:039][384]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/02/20 19:27:59, [UNetConnection] RemoteAddr: 127.0.0.1:56775, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.59:039][384]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56775, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.59:040][384]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.27.59:057][385]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-17.27.59:057][385]LogNet: Remote platform little endian=1
+[2020.09.02-17.27.59:057][385]LogNet: This platform little endian=1
+[2020.09.02-17.27.59:058][385]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.02-17.27.59:072][386]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8 userId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8 platform: NULL
+[2020.09.02-17.27.59:072][386]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-17.27.59:072][386]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-17.27.59:072][386]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2020.09.02-17.27.59:072][386]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.27.59:114][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.09.02-17.27.59:117][386]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.27.59:117][386]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.27.59:118][386]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.27.59
+[2020.09.02-17.27.59:118][386]LogWorld: Bringing up level for play took: 0.000479
+[2020.09.02-17.27.59:118][386]LogLoad: Took 0.046081 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-17.27.59:142][387]LogNet: Client netspeed is 10000
+[2020.09.02-17.27.59:142][387]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8?SplitscreenCount=1
+[2020.09.02-17.27.59:142][387]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.27.59:143][387]LogNet: Join succeeded: JOEYCOMPUTER-2ABCA1B
+[2020.09.02-17.27.59:274][395]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.28.03:293][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.28.03:293][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.28.03:293][672]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-17.28.03:309][672]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-17.28.03:316][672]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.28.03:316][672]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.28.03:321][672]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2020.09.02-17.28.03:321][672]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2020.09.02-17.28.03:321][672]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8, Channels: 14, Time: 2020.09.02-17.28.03
+[2020.09.02-17.28.03:321][672]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8
+[2020.09.02-17.28.03:322][672]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2020.09.02-17.28.03:322][672]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.28.03:322][672]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.28.03:322][672]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.28.03:323][672]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.09.02-17.28.03:323][672]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.09.02-17.28.03:323][672]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56775, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8
+[2020.09.02-17.28.03:323][672]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56775, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8, Channels: 14, Time: 2020.09.02-17.28.03
+[2020.09.02-17.28.03:323][672]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56775, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-2ABCA1BE431A167D9A5F248F6FB184C8
+[2020.09.02-17.28.03:323][672]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.09.02-17.28.03:324][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-17.28.03:324][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.28.03:382][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.09.02-17.28.03:413][673]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.09.02-17.28.03:413][673]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.02-17.28.10:143][289]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-17.28.10:232][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.09.02-17.28.10:503][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.28.10:788][307]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryD45FEF864BAAB95577257592CBF394D1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.28.13:550][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.28.13:851][564]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary786174174F0F244B2D9FA989DB458E5A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.28.14:874][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-17.28.14:902][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.28.14:903][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-17.28.14:903][652]PIE: New page: PIE session: MyLevel (2 sep. 2020 21:28:14)
+[2020.09.02-17.28.14:903][652]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.28.14:905][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002581s)
+[2020.09.02-17.28.14:906][652]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.28.14:906][652]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2020.09.02-17.28.14:906][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.003767s)
+[2020.09.02-17.28.14:949][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.09.02-17.28.14:949][652]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.28.14:949][652]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-17.28.14:950][652]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.28.14
+[2020.09.02-17.28.14:950][652]LogWorld: Bringing up level for play took: 0.000547
+[2020.09.02-17.28.14:951][652]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.28.14:951][652]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.09.02-17.28.14:951][652]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.28.14:951][652]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-17.28.14:951][652]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-17.28.14:951][652]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-17.28.14:951][652]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.28.14:951][652]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2020.09.02-17.28.14:952][652]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,748
+[2020.09.02-17.28.14:953][652]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.28.14:977][652]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-17.28.15:011][652]LogInit: FAudioDevice initialized.
+[2020.09.02-17.28.15:020][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.28.15:021][652]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-17.28.15:021][652]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.28.15:021][652]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.09.02-17.28.15:021][652]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-17.28.15:021][652]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-17.28.15:022][652]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.28.15:022][652]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-17.28.15:026][652]PIE: Play in editor start time for /Game/MyLevel -0,674
+[2020.09.02-17.28.15:030][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.28.15:031][652]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57892
+[2020.09.02-17.28.15:031][652]LogHandshake: SendConnectChallenge. Timestamp: 0.010819, Cookie: 243170242214002075238104063229016044054076152127116078122166
+[2020.09.02-17.28.15:031][652]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.09.02-17.28.15:032][652]LogHandshake: SendChallengeResponse. Timestamp: 0.010819, Cookie: 243170242214002075238104063229016044054076152127116078122166
+[2020.09.02-17.28.15:083][653]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57892
+[2020.09.02-17.28.15:083][653]LogHandshake: SendChallengeAck. InCookie: 243170242214002075238104063229016044054076152127116078122166
+[2020.09.02-17.28.15:083][653]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57892
+[2020.09.02-17.28.15:084][653]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.28.15:084][653]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/02/20 19:28:15, [UNetConnection] RemoteAddr: 127.0.0.1:57892, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.28.15:084][653]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57892, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.28.15:084][653]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.28.15:099][654]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-17.28.15:099][654]LogNet: Remote platform little endian=1
+[2020.09.02-17.28.15:099][654]LogNet: This platform little endian=1
+[2020.09.02-17.28.15:099][654]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.09.02-17.28.15:114][655]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C userId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C platform: NULL
+[2020.09.02-17.28.15:115][655]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-17.28.15:115][655]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-17.28.15:115][655]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2020.09.02-17.28.15:115][655]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.28.15:158][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.09.02-17.28.15:161][655]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.28.15:161][655]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.28.15:163][655]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.28.15
+[2020.09.02-17.28.15:163][655]LogWorld: Bringing up level for play took: 0.000716
+[2020.09.02-17.28.15:163][655]LogLoad: Took 0.048132 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-17.28.15:186][656]LogNet: Client netspeed is 10000
+[2020.09.02-17.28.15:186][656]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C?SplitscreenCount=1
+[2020.09.02-17.28.15:186][656]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.28.15:188][656]LogNet: Join succeeded: JOEYCOMPUTER-D4A6314
+[2020.09.02-17.28.15:341][667]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.28.16:134][725]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Player/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD'!
+[2020.09.02-17.28.16:134][725]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	GameHUD_C /Game/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.GameHUD_C_0
+	Function /Game/Player/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD:02A7
+[2020.09.02-17.28.16:135][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Open Container
+[2020.09.02-17.28.18:783][905]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:251).
+[2020.09.02-17.38.05:921][470]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.02-17.38.07:501][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.38.07:502][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.38.07:502][542]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-17.38.07:523][542]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-17.38.07:526][542]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.38.07:527][542]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.38.07:539][542]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2020.09.02-17.38.07:539][542]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2020.09.02-17.38.07:539][542]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C, Channels: 14, Time: 2020.09.02-17.38.07
+[2020.09.02-17.38.07:539][542]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C
+[2020.09.02-17.38.07:539][542]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2020.09.02-17.38.07:540][542]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.38.07:541][542]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.38.07:541][542]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.38.07:541][542]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2020.09.02-17.38.07:541][542]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2020.09.02-17.38.07:542][542]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57892, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C
+[2020.09.02-17.38.07:542][542]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57892, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C, Channels: 14, Time: 2020.09.02-17.38.07
+[2020.09.02-17.38.07:542][542]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57892, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-D4A6314B45A7F74D4AA26DBBCB787A8C
+[2020.09.02-17.38.07:542][542]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2020.09.02-17.38.07:543][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-17.38.07:544][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.38.07:623][542]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.09.02-17.38.07:762][543]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.09.02-17.38.07:762][543]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.09.02-17.38.09:460][630]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-17.38.09:466][630]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-17.38.43:621][501]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-17.38.43:777][501]LogUObjectHash: Compacting FUObjectHashTables data took  13.03ms
+[2020.09.02-17.38.44:731][547]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-17.38.44:776][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.38.44:776][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-17.38.44:776][547]PIE: New page: PIE session: MyLevel (2 sep. 2020 21:38:44)
+[2020.09.02-17.38.44:776][547]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.38.44:781][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004325s)
+[2020.09.02-17.38.44:782][547]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.38.44:782][547]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2020.09.02-17.38.44:783][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.006229s)
+[2020.09.02-17.38.44:840][547]LogUObjectHash: Compacting FUObjectHashTables data took   8.55ms
+[2020.09.02-17.38.44:840][547]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.38.44:841][547]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-17.38.44:842][547]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.38.44
+[2020.09.02-17.38.44:843][547]LogWorld: Bringing up level for play took: 0.001295
+[2020.09.02-17.38.44:843][547]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.38.44:843][547]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.09.02-17.38.44:843][547]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.38.44:843][547]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-17.38.44:843][547]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-17.38.44:844][547]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-17.38.44:844][547]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.38.44:844][547]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.09.02-17.38.44:845][547]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,856
+[2020.09.02-17.38.44:847][547]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.38.44:898][547]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-17.38.44:962][547]LogInit: FAudioDevice initialized.
+[2020.09.02-17.38.44:979][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.38.44:980][547]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-17.38.44:980][547]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.38.44:980][547]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.09.02-17.38.44:980][547]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-17.38.44:981][547]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-17.38.44:982][547]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.38.44:982][547]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-17.38.44:989][547]PIE: Play in editor start time for /Game/MyLevel -0,711
+[2020.09.02-17.38.44:994][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.38.44:995][547]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65518
+[2020.09.02-17.38.44:995][547]LogHandshake: SendConnectChallenge. Timestamp: 0.015301, Cookie: 134211047212253229050083004107238115089168193123081240085240
+[2020.09.02-17.38.44:995][547]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.02-17.38.44:997][547]LogHandshake: SendChallengeResponse. Timestamp: 0.015301, Cookie: 134211047212253229050083004107238115089168193123081240085240
+[2020.09.02-17.38.45:042][548]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65518
+[2020.09.02-17.38.45:042][548]LogHandshake: SendChallengeAck. InCookie: 134211047212253229050083004107238115089168193123081240085240
+[2020.09.02-17.38.45:042][548]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65518
+[2020.09.02-17.38.45:042][548]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-17.38.45:042][548]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/02/20 19:38:45, [UNetConnection] RemoteAddr: 127.0.0.1:65518, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.38.45:043][548]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65518, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.38.45:043][548]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-17.38.45:074][549]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-17.38.45:074][549]LogNet: Remote platform little endian=1
+[2020.09.02-17.38.45:074][549]LogNet: This platform little endian=1
+[2020.09.02-17.38.45:075][549]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.09.02-17.38.45:097][550]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414 userId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414 platform: NULL
+[2020.09.02-17.38.45:098][550]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-17.38.45:098][550]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-17.38.45:098][550]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2020.09.02-17.38.45:098][550]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.38.45:153][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.09.02-17.38.45:159][550]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-17.38.45:159][550]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-17.38.45:161][550]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.02-19.38.45
+[2020.09.02-17.38.45:161][550]LogWorld: Bringing up level for play took: 0.000903
+[2020.09.02-17.38.45:161][550]LogLoad: Took 0.063086 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-17.38.45:206][551]LogNet: Client netspeed is 10000
+[2020.09.02-17.38.45:206][551]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414?SplitscreenCount=1
+[2020.09.02-17.38.45:208][551]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.38.45:209][551]LogNet: Join succeeded: JOEYCOMPUTER-9E90A0F
+[2020.09.02-17.38.45:333][556]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-17.38.46:209][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Player/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD'!
+[2020.09.02-17.38.46:209][591]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	GameHUD_C /Game/UEDPIE_2_MyLevel.MyLevel:PersistentLevel.GameHUD_C_0
+	Function /Game/Player/GameHUD.GameHUD_C:ExecuteUbergraph_GameHUD:02A7
+[2020.09.02-17.38.46:210][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  GameHUD Function:  Execute Ubergraph Game HUD Graph:  EventGraph Node:  Open Container
+[2020.09.02-17.39.08:676][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.39.08:677][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-17.39.08:677][595]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-17.39.08:699][595]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-17.39.08:707][595]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.39.08:708][595]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.39.08:717][595]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2020.09.02-17.39.08:717][595]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2020.09.02-17.39.08:717][595]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414, Channels: 14, Time: 2020.09.02-17.39.08
+[2020.09.02-17.39.08:718][595]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414
+[2020.09.02-17.39.08:718][595]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2020.09.02-17.39.08:719][595]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-17.39.08:719][595]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-17.39.08:719][595]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-17.39.08:720][595]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2020.09.02-17.39.08:720][595]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2020.09.02-17.39.08:720][595]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65518, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414
+[2020.09.02-17.39.08:720][595]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65518, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414, Channels: 14, Time: 2020.09.02-17.39.08
+[2020.09.02-17.39.08:720][595]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65518, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-9E90A0FF45BB0274A61D2FA7B3A60414
+[2020.09.02-17.39.08:721][595]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2020.09.02-17.39.08:722][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-17.39.08:723][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-17.39.08:802][595]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.09.02-17.39.08:876][596]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.09.02-17.39.08:877][596]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.02-17.39.10:049][656]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-17.39.10:058][656]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-17.39.17:053][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-17.39.18:125][ 55]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary07CED98A459D3B7DE00F2391A542BAEC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-17.45.34:066][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.09.02-17.45.34:066][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyLevel' took 0.100
+[2020.09.02-17.45.34:068][264]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/MyPlayerController] ([1] browsable assets)...
+[2020.09.02-17.45.34:068][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/MyPlayerController]
+[2020.09.02-17.45.34:289][264]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController_Auto28592B4A94159B7A6749495B0E7100EFF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Autosaves/Game/Player/MyPlayerController_Auto2.uasset'
+[2020.09.02-17.45.34:301][264]LogFileHelpers: Auto-saving content packages took 0.234
+[2020.09.02-18.04.03:662][363]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Inventory/MasterItem.MasterItem
+[2020.09.02-18.04.09:978][985]LogSlate: Took 0.043640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.09.02-18.04.42:186][535]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.02-18.04.52:658][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.09.02-18.04.52:669][712]LogMetaData: Removing '/Game/Inventory/FOODTASK.SKEL_FOODTASK_C' ref from Metadata '/Game/Inventory/NewBlueprint.PackageMetaData'
+[2020.09.02-18.04.52:669][712]LogMetaData: Removing '/Game/Inventory/FOODTASK.FOODTASK_C' ref from Metadata '/Game/Inventory/NewBlueprint.PackageMetaData'
+[2020.09.02-18.04.52:735][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/FOODTASK" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset" SILENT=true
+[2020.09.02-18.04.52:747][712]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/FOODTASK36FA0CF04F5C107CD6747283F4C3354A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset'
+[2020.09.02-18.04.53:015][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.09.02-18.04.53:065][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.09.02-18.04.53:112][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.09.02-18.05.14:160][593]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/FOODTASK.FOODTASK
+[2020.09.02-18.05.48:080][774]BlueprintLog: New page: Compile FOODTASK
+[2020.09.02-18.05.48:130][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.09.02-18.05.48:411][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/FOODTASK" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset" SILENT=true
+[2020.09.02-18.05.48:529][798]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/FOODTASKAED6EE6C4980EE94C53B8ABBEA88EBDE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset'
+[2020.09.02-18.05.57:799][679]BlueprintLog: New page: Compile FOODTASK
+[2020.09.02-18.05.57:854][679]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.09.02-18.06.31:037][611]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.02-18.06.34:568][950]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/blabla.blabla
+[2020.09.02-18.07.10:299][697]BlueprintLog: New page: Compile blabla
+[2020.09.02-18.07.10:689][697]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.09.02-18.07.52:047][350]BlueprintLog: New page: Compile FOODTASK
+[2020.09.02-18.07.52:111][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.09.02-18.07.52:345][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/FOODTASK" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset" SILENT=true
+[2020.09.02-18.07.52:478][367]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/FOODTASK849C2C004BFEA6923F78A6BFE913CF4E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset'
+[2020.09.02-18.07.56:552][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/FOODTASK" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset" SILENT=true
+[2020.09.02-18.07.56:637][725]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/FOODTASKE9AC7503450E7036478F7CA706BE45D5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/FOODTASK.uasset'
+[2020.09.02-18.08.04:089][405]BlueprintLog: New page: Compile blabla
+[2020.09.02-18.08.04:419][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.09.02-18.08.04:602][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/blabla" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/blabla.uasset" SILENT=true
+[2020.09.02-18.08.04:622][419]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/blabla9DD80AC141EBEC33930E109F659F52F5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/blabla.uasset'
+[2020.09.02-18.08.06:144][504]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-18.08.07:086][572]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-18.08.25:707][367]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.09.02-18.08.28:399][367]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.02-18.08.28:918][367]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.09.02-18.08.28:958][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.09.02-18.08.29:007][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.09.02-18.08.29:066][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.09.02-18.08.54:269][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-18.08.54:373][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.09.02-18.08.54:772][789]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel530EE2D446E62A70B14A249EACDD2A57.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-18.08.54:837][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-18.08.55:078][789]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltDataC3F93CFD4AF4D261DCBC85842E4FF458.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-18.09.11:080][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-18.09.11:432][ 49]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot04AAD49B4FAC88BF099E38AF04D3F7B7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-18.10.14:071][818]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-18.10.14:222][818]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2020.09.02-18.10.19:448][178]BlueprintLog: New page: Compile MyPlayerController
+[2020.09.02-18.10.19:832][178]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.09.02-18.10.28:936][694]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/MyPlayer.MyPlayer
+[2020.09.02-18.10.33:479][860]LogEditorViewport: Clicking on Actor (LMB): ChestActor_C (ChestActor2)
+[2020.09.02-18.10.33:989][871]LogEditorViewport: Clicking on Actor (context menu): ChestActor_C (ChestActor2)
+[2020.09.02-18.10.34:327][871]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.02-18.10.35:129][919]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.02-18.10.35:139][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/ChestActor.ChestActor
+[2020.09.02-18.10.49:420][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-18.10.49:672][940]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActor32F5B37F4F7377997255A4A9408CB613.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-18.10.49:910][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-18.11.12:601][188]BlueprintLog: New page: Compile MyPlayer
+[2020.09.02-18.11.13:396][188]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.09.02-18.11.16:822][396]LogUObjectArray: Warning: Invalid object index 7602281
+[2020.09.02-18.11.16:887][396]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.02-18.11.22:032][396]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.144 s
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: 
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: Stack: 
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd9d35279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd9557fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd956622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd5b26c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd4064dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcd401e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcda84d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcdaa3c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcda89922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcda875738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcda869a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcefec4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcefeb26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcefec7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcefeaedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffd26015c7d USER32.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffd26015672 USER32.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffcefec88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ff7c4eb6980 UE4Editor.exe!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ff7c4eca91c UE4Editor.exe!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ff7c4eca9fa UE4Editor.exe!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ff7c4edb92c UE4Editor.exe!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ff7c4ede60e UE4Editor.exe!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffd25cc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: [Callstack] 0x00007ffd279cce51 ntdll.dll!UnknownFunction []
+[2020.09.02-18.11.22:032][396]LogOutputDevice: Error: 
+[2020.09.02-18.11.22:072][396]LogStats:                SubmitErrorReport -  0.000 s

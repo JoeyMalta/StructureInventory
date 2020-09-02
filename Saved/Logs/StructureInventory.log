@@ -573,3 +573,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-15.44.06:153][854]LogHttp: Warning: 0000014FA2C48180: libcurl info message cache 3 (SSL_write() returned SYSCALL, errno = 10054)
 [2020.09.02-15.44.06:153][854]LogHttp: Warning: 0000014FA2C48180: libcurl info message cache 4 (Closing connection 16)
 [2020.09.02-15.44.06:153][854]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B527CBFCE-42B0-DE0D-A3BF-2796C5B9EAD8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=223845704c6516493bcdb69e8f4e2567%7C52cd936612ca433ba7244efdbd41ffd6%7C4eec7dc2-007f-4bed-8ab7-a8a892bc0b34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.09.02-17.12.24:549][613]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C56BE7A5-45A7-6E5C-0CF8-FCB5F61E5897}
+[2020.09.02-18.21.37:173][ 14]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/SlotItem.SlotItem
+[2020.09.02-18.21.46:341][ 14]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1689 seconds. Added 121 classes and 0 folders.
+[2020.09.02-18.22.07:280][ 14]LogSlate: Took 0.124953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.02-18.22.21:562][170]LogSlate: Took 0.818367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
