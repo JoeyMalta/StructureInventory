@@ -2866,3 +2866,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-16.51.55:311][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
 [2020.09.02-16.51.55:463][825]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotF5190C2C4A73220EF62C3993E16FA644.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
 [2020.09.02-16.51.56:571][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.09.02-16.58.55:008][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
