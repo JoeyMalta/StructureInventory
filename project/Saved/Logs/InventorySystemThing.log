@@ -4511,3 +4511,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-00.53.30:020][511]LogFileHelpers: Saving map 'MyLevel' took 0.378
 [2020.09.02-00.53.31:061][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
 [2020.09.02-00.53.31:261][604]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryD17E0A2D46F45AC19EF4638955DA94B3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-00.58.21:519][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-00.58.21:704][443]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot7E08C42F4253E6B5B5B0719B4CE47A56.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-00.58.54:603][135]LogEditorTransaction: Undo Move Nodes
+[2020.09.02-00.59.48:406][729]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-00.59.48:508][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.09.02-00.59.48:875][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-00.59.49:107][753]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary2EDEAAD24B8CAA5C86CFA6838A4AA149.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-00.59.50:322][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-00.59.50:538][853]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary2DCB4E5A4902DD3074EF21BA5C87DB92.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-00.59.51:450][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.09.02-01.01.16:349][ 75]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-01.01.16:356][ 75]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-01.01.16:366][ 75]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.16:395][ 75]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.16:614][ 75]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.16:767][ 75]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.16:774][ 75]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.16:888][ 75]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-01.01.20:370][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.09.02-01.01.22:147][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
