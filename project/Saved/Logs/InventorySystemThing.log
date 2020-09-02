@@ -736,3 +736,194 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-22.17.27:216][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel897D4E1248972DCD45FC5BBAE4DCF7CC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
 [2020.09.02-22.17.27:243][210]LogFileHelpers: Saving map 'MyLevel' took 0.313
 [2020.09.02-22.17.27:446][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctionsB8DBB41C4CE9A7CBD00DA69E20A0F18A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-22.17.50:796][915]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.02-22.18.33:129][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.18.33:462][543]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary2D09E40E4D6623F1D5B6249ACF7764DD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.18.57:898][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.18.58:203][354]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryCA12EBD64718B5DEA1EEF0A42B56B603.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.18.58:727][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-22.18.58:757][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.18.58:757][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-22.18.58:757][410]PIE: New page: PIE session: MyLevel (3 sep. 2020 02:18:58)
+[2020.09.02-22.18.58:776][410]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.09.02-22.18.58:776][410]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.09.02-22.18.58:776][410]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.02-22.18.58:788][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-22.18.58:790][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2020.09.02-22.18.58:791][410]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-22.18.58:791][410]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2020.09.02-22.18.58:791][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.003756s)
+[2020.09.02-22.18.58:821][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.02-22.18.58:889][410]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.18.58:937][410]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-22.18.58:970][410]LogInit: FAudioDevice initialized.
+[2020.09.02-22.18.58:979][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.18.58:980][410]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-22.18.58:981][410]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.03-00.18.58
+[2020.09.02-22.18.58:982][410]LogWorld: Bringing up level for play took: 0.001466
+[2020.09.02-22.18.58:982][410]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.02-22.18.59:017][410]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:114][410]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-22.18.59:114][410]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-22.18.59:126][410]LogInit: WinSock: I am JOEYCOMPUTER (169.254.105.252:0)
+[2020.09.02-22.18.59:126][410]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-22.18.59:140][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:141][410]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.09.02-22.18.59:145][410]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,555
+[2020.09.02-22.18.59:147][410]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.18.59:152][410]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.02-22.18.59:159][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.18.59:159][410]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-22.18.59:173][410]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-22.18.59:182][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:182][410]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-22.18.59:184][410]PIE: Play in editor start time for /Game/MyLevel -0,516
+[2020.09.02-22.18.59:190][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.18.59:191][410]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2020.09.02-22.18.59:192][410]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:214][410]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:252][411]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.02-22.18.59:500][411]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2020.09.02-22.18.59:500][411]LogHandshake: SendChallengeAck. InCookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:500][411]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57560
+[2020.09.02-22.18.59:500][411]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:500][411]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/03/20 00:18:59, [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:500][411]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:509][411]LogNetVersion: InventorySystemThing 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3987550767)
+[2020.09.02-22.18.59:509][411]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:522][412]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-22.18.59:522][412]LogNet: Remote platform little endian=1
+[2020.09.02-22.18.59:522][412]LogNet: This platform little endian=1
+[2020.09.02-22.18.59:523][412]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.02-22.18.59:545][413]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE userId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE platform: NULL
+[2020.09.02-22.18.59:545][413]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-22.18.59:546][413]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-22.18.59:546][413]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.09.02-22.18.59:546][413]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.18.59:606][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.09.02-22.18.59:611][413]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-22.18.59:611][413]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:640][413]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.03-00.18.59
+[2020.09.02-22.18.59:640][413]LogWorld: Bringing up level for play took: 0.000542
+[2020.09.02-22.18.59:640][413]LogLoad: Took 0.094826 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-22.18.59:660][414]LogNet: Client netspeed is 10000
+[2020.09.02-22.18.59:660][414]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE?SplitscreenCount=1
+[2020.09.02-22.18.59:661][414]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.18.59:682][414]LogNet: Join succeeded: JOEYCOMPUTER-1B7B16F
+[2020.09.02-22.18.59:717][415]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.18.59:777][419]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.19.03:536][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.06:363][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.07:924][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.15:261][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.29:627][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.53:593][ 25]LogBlueprintUserMessages: [InventorySlot_C_8] Client 1: EMPTY SLOT
+[2020.09.02-22.20.53:420][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.21.00:943][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.21.01:060][473]LogSlate: Window 'InventorySystemThing Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-22.21.01:065][473]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.02-22.21.01:065][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.21.01:067][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.21.01:067][473]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-22.21.01:084][473]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-22.21.01:090][473]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.21.01:090][473]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.21.01:095][473]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.09.02-22.21.01:095][473]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.09.02-22.21.01:095][473]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE, Channels: 17, Time: 2020.09.02-22.21.01
+[2020.09.02-22.21.01:096][473]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:103][473]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.09.02-22.21.01:110][473]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-22.21.01:111][473]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.21.01:111][473]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.21.01:118][473]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.09.02-22.21.01:118][473]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.09.02-22.21.01:118][473]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:118][473]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE, Channels: 17, Time: 2020.09.02-22.21.01
+[2020.09.02-22.21.01:118][473]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:118][473]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.09.02-22.21.01:119][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-22.21.01:119][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.21.01:207][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.09.02-22.21.01:231][474]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.02-22.21.01:231][474]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.02-22.21.22:624][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.21.22:934][912]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary083B118E4235D1A7ECAC738659615BB7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.21.43:953][246]LogEditorTransaction: Undo Move Nodes
+[2020.09.02-22.21.56:770][683]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.21.56:921][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-22.22.44:162][575]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.02-22.24.04:525][293]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.24.04:617][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-22.24.04:994][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.24.05:314][319]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary393A459C409337518F95269BAAB0EFA7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.24.07:286][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.09.02-22.24.08:501][608]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.24.08:506][608]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.24.08:507][608]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.24.09:921][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.09.02-22.24.12:914][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.09.02-22.24.23:313][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.02-22.24.23:391][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStruct47C1144041413B02ED44C1A22BF2304E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.02-22.24.23:395][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.02-22.24.23:467][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct15B251064B93697A3425F18647C9596D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.02-22.24.23:471][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.02-22.24.23:552][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActor8F537B4645473A782A12959092CCE173.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.02-22.24.23:556][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.02-22.24.23:719][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer871B765D4CE798AF2A37A590C5CBA438.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.02-22.24.23:723][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.02-22.24.23:812][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItemE909888B40ECD2D40938578F74080B41.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.02-22.24.23:815][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.02-22.24.23:888][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterface2915C62F443E209B468A3B8730B98161.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.02-22.24.23:891][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.24.24:226][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary513654634C74789CD81D20938C251086.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.24.24:230][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-22.24.24:331][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController4AFADB544BE59F1D57FEFBB22D4842F1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-22.24.24:336][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-22.24.24:556][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot6D45FECE44C2249C09D5429947E585B1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-22.24.24:560][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.02-22.24.24:665][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItem12029F754360C521D3DE0BBC0E2FB888.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.02-22.24.24:669][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.02-22.24.25:994][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidgetB4730A5F40BD1A00D381488FA299FF30.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.02-22.24.25:998][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.02-22.24.26:093][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUD2472274842E3A00920EE91A72FAC13FD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.02-22.24.26:097][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer2" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset" SILENT=true
+[2020.09.02-22.24.26:291][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryContainer223C82EBF419F8584EE47209F1C425A2B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset'
+[2020.09.02-22.24.26:295][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.02-22.24.26:433][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlotA559C9124E3BB98D3ABAD3938ED3BC83.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.02-22.24.26:437][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.02-22.24.26:512][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidgetD4F9637B4A6C32A9ED733491C9C90736.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.02-22.24.26:515][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.02-22.24.26:589][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_icon95A78F93473E167C761188A2C11B7D07.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.02-22.24.26:677][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_iconD8452EAB428CC6B4F54944AB03E67C5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.02-22.24.26:684][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.02-22.24.26:773][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_icon08D73F50434BD1F8458DBAA01C0C7477.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.02-22.24.26:870][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_icon08A776434E5BA646C132249169ADF04E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.02-22.24.26:954][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_iconE1BCBB784B04397379EB70A73DC5DCE8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.02-22.24.26:957][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:040][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_iconF9B4DBDC4EF57C1B077CBC87EDE0B2CD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.02-22.24.27:043][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.02-22.24.27:137][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Stone84B1AFCE44FBAC2FF10E66AD9D061453.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.02-22.24.27:145][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:237][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_icon5BA939B7426D16B699D69FBC29C42FBB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.02-22.24.27:240][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:319][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_icon59A14A6D433D98577735A3ADE37006B4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.02-22.24.27:323][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.02-22.24.27:646][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemDataC63648534D1EAD6C6EBACE80B6FE8BC5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.02-22.24.27:649][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-22.24.27:750][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActor346BEC9547CDFA38B6DD0AB3D218662B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-22.24.27:754][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.02-22.24.27:929][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemode59D7BC544F50E095F3C942AC7A1123D3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.02-22.24.27:932][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.24.28:038][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData45D052CC4C5EFBCA7C2AA1B7A6F64AAC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.24.28:043][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.24.28:070][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.02-22.24.28:271][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel44CF952546856E32E71B90A293576AA9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.24.28:299][106]LogFileHelpers: Saving map 'MyLevel' took 0.256
+[2020.09.02-22.24.28:498][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions6421D3F54A24F7656696F489239EEB2D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
