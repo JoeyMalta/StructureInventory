@@ -1006,3 +1006,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-22.38.36:888][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel704FAB4F49A54D2D7616F683FA0F0929.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
 [2020.09.02-22.38.36:917][597]LogFileHelpers: Saving map 'MyLevel' took 0.551
 [2020.09.02-22.38.37:046][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions38E0C4D34D3DF29924CB6E8C480F8D17.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-22.41.22:261][619]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.22:351][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.02-22.41.42:280][820]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.42:367][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.02-22.41.52:737][903]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.52:823][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.09.02-22.41.59:899][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.42.00:225][667]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary66DC90DD4046EBF29ACED7BD720A6388.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.42.01:371][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
