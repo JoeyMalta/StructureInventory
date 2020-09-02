@@ -5531,3 +5531,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-01.19.58:005][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
 [2020.09.02-01.19.58:352][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
 [2020.09.02-01.19.58:595][165]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary77FF7ED943AF6C225587509A65B9230D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-01.20.07:417][345]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
