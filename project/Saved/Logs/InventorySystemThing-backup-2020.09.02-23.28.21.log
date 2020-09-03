@@ -1,0 +1,1525 @@
+﻿Log file open, 09/03/20 00:12:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystemThing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208001
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.42
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.02-22.12.06:389][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.02-22.12.06:389][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.02-22.12.06:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.02-22.12.06:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:470][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:528][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.02-22.12.06:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.02-22.12.06:529][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.02-22.12.06:536][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-22.12.06:541][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.02-22.12.06:597][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.02-22.12.06:597][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.02-22.12.06:598][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.02-22.12.06:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.02-22.12.06:599][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.02-22.12.06:614][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.02-22.12.06:614][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.02-22.12.06:614][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Down2DieInventory/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.02-22.12.06:639][  0]LogInit: Computer: JOEYCOMPUTER
+[2020.09.02-22.12.06:639][  0]LogInit: User: joeym
+[2020.09.02-22.12.06:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.02-22.12.06:639][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.02-22.12.06:652][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.02-22.12.06:654][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.02-22.12.06:654][  0]LogMemory: Process Physical Memory: 102.68 MB used, 102.68 MB peak
+[2020.09.02-22.12.06:654][  0]LogMemory: Process Virtual Memory: 99.30 MB used, 99.30 MB peak
+[2020.09.02-22.12.06:655][  0]LogMemory: Physical Memory: 6324.96 MB used,  9988.65 MB free, 16313.61 MB total
+[2020.09.02-22.12.06:655][  0]LogMemory: Virtual Memory: 4668.22 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.09.02-22.12.06:661][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.02-22.12.07:433][  0]LogInit: Using OS detected language (nl-NL).
+[2020.09.02-22.12.07:433][  0]LogInit: Using OS detected locale (nl-NL).
+[2020.09.02-22.12.07:434][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2020.09.02-22.12.08:088][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.02-22.12.08:645][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.02-22.12.08:645][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.02-22.12.11:640][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.02-22.12.11:640][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.02-22.12.11:700][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.09.02-22.12.11:700][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.02-22.12.11:704][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.02-22.12.11:704][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.02-22.12.11:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.02-22.12.11:764][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.02-22.12.11:764][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.02-22.12.11:764][  0]LogWindows: EnumDisplayDevices:
+[2020.09.02-22.12.11:764][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.09.02-22.12.11:764][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.09.02-22.12.11:765][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.02-22.12.11:765][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.09.02-22.12.11:765][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.02-22.12.11:765][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.09.02-22.12.11:766][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.09.02-22.12.11:766][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.09.02-22.12.11:766][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.09.02-22.12.11:811][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.02-22.12.12:155][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.02-22.12.12:926][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.02-22.12.12:961][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.02-22.12.12:991][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.02-22.12.13:021][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.02-22.12.13:087][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.02-22.12.13:175][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.02-22.12.13:206][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.02-22.12.13:232][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.02-22.12.13:259][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.02-22.12.13:329][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.02-22.12.13:353][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.02-22.12.13:520][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.02-22.12.13:520][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.02-22.12.13:551][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.02-22.12.13:551][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.02-22.12.13:577][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.02-22.12.13:596][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.02-22.12.13:622][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.02-22.12.13:715][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.02-22.12.13:766][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.02-22.12.13:766][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.02-22.12.13:766][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.02-22.12.13:965][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.02-22.12.14:681][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Down2DieInventory/StructureInventory/project/Intermediate/Shaders/WorkingDirectory/19576/).
+[2020.09.02-22.12.14:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/7A23219E4633DEFE1C894496D097AD0F/'.
+[2020.09.02-22.12.14:684][  0]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.02-22.12.14:684][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.02-22.12.14:684][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.02-22.12.14:684][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.02-22.12.19:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Down2DieInventory/StructureInventory/project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Down2DieInventory/StructureInventory/project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.02-22.12.19:849][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.02-22.12.19:967][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.02-22.12.20:004][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.09.02-22.12.20:005][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.02-22.12.20:005][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.02-22.12.20:005][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.02-22.12.20:087][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.02-22.12.20:225][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.02-22.12.20:275][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.02-22.12.20:946][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2020.09.02-22.12.27:548][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.02-22.12.29:448][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.02-22.12.29:448][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.02-22.12.29:448][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.02-22.12.29:448][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.02-22.12.29:449][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.02-22.12.29:814][  0]LogNetVersion: InventorySystemThing 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 843839388)
+[2020.09.02-22.12.33:807][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.117942 seconds
+[2020.09.02-22.12.33:812][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.09.02-22.12.33:812][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.09.02-22.12.33:812][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.02-22.12.45:419][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.02-22.12.45:461][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.02-22.12.46:939][  0]SourceControl: Source control is disabled
+[2020.09.02-22.12.46:947][  0]SourceControl: Source control is disabled
+[2020.09.02-22.12.47:026][  0]SourceControl: Source control is disabled
+[2020.09.02-22.12.47:161][  0]SourceControl: Source control is disabled
+[2020.09.02-22.12.49:980][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.02-22.12.50:372][  0]LogOcInput: OculusInput pre-init called
+[2020.09.02-22.12.50:433][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.02-22.12.50:433][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.02-22.12.56:743][  0]LogEngine: Initializing Engine...
+[2020.09.02-22.12.56:773][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.02-22.12.56:817][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.033 s
+[2020.09.02-22.12.57:501][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.02-22.12.57:924][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.02-22.12.58:144][  0]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-22.12.58:186][  0]LogInit: FAudioDevice initialized.
+[2020.09.02-22.12.58:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.02-22.12.58:233][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.02-22.12.58:238][  0]LogInit: Texture streaming: Enabled
+[2020.09.02-22.12.58:481][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.02-22.12.58:481][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.02-22.12.58:499][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.02-22.12.58:754][  0]LogInit: Transaction tracking system initialized
+[2020.09.02-22.12.59:157][  0]BlueprintLog: New page: Editor Load
+[2020.09.02-22.13.00:934][  0]LocalizationService: Localization service is disabled
+[2020.09.02-22.13.04:827][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.02-22.13.04:827][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.02-22.13.05:696][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/' took 0.46s
+[2020.09.02-22.13.10:266][  0]SourceControl: Source control is disabled
+[2020.09.02-22.13.10:309][  0]Cmd: MAP LOAD FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.02-22.13.10:311][  0]LightingResults: New page: Lighting Build
+[2020.09.02-22.13.10:375][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.13.10:485][  0]MapCheck: New page: Map Check
+[2020.09.02-22.13.10:485][  0]LightingResults: New page: Lighting Build
+[2020.09.02-22.13.10:760][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.09.02-22.13.13:006][  0]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-22.13.13:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.02-22.13.13:628][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.09.02-22.13.13:628][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.02-22.13.13:634][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,988ms to complete.
+[2020.09.02-22.13.13:634][  0]LogFileHelpers: Loading map 'MyLevel' took 3.349
+[2020.09.02-22.13.14:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.13.14:918][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.13.14:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.13.14:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.13.14:999][  0]LogCollectionManager: Loaded 0 collections in 0.001383 seconds
+[2020.09.02-22.13.15:102][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Saved/Collections/' took 0.00s
+[2020.09.02-22.13.15:102][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/Developers/joeym/Collections/' took 0.00s
+[2020.09.02-22.13.15:102][  0]LogFileCache: Scanning file cache for directory 'D:/Down2DieInventory/StructureInventory/project/Content/Collections/' took 0.00s
+[2020.09.02-22.13.15:102][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.09.02-22.13.15:109][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3071 classes and 775 folders.
+[2020.09.02-22.13.15:171][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.02-22.13.16:449][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.02-22.13.16:494][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.09.02-22.13.17:064][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.09.02-22.13.17:379][  0]LogSlate: Took 0.027581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.02-22.13.17:420][  0]LogSlate: Took 0.011058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.02-22.13.17:553][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.02-22.13.17:553][  0]LogLoad: (Engine Initialization) Total time: 83.98 seconds
+[2020.09.02-22.13.17:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.02-22.13.17:926][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.09.02-22.13.17:992][  0]LogSlate: Took 0.029562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.02-22.13.18:813][  0]LogRenderer: Reallocating scene render targets to support 768x280 Format 10 NumSamples 1 (Frame:1).
+[2020.09.02-22.13.18:813][  0]LogSlate: Took 0.027454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.02-22.13.20:987][ 25]LogAssetRegistry: Asset discovery search completed in 60.0415 seconds
+[2020.09.02-22.13.20:990][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2020.09.02-22.13.20:990][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.09.02-22.13.25:156][ 37]LogRenderer: Reallocating scene render targets to support 1156x504 Format 10 NumSamples 1 (Frame:26).
+[2020.09.02-22.13.25:752][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.13.33:077][944]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.02-22.13.33:086][944]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.09.02-22.13.33:778][944]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.09.02-22.13.35:397][944]LogSlate: Took 0.014973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.02-22.13.37:730][114]LogSlate: Took 0.017013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.02-22.13.51:492][172]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.02-22.14.17:588][822]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0BD4D948-4FA1-6EBA-A325-C499EB80BC45}
+[2020.09.02-22.14.25:428][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.14.26:485][655]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary2D70EB8B4CDA74B8B43F65B324F7D77F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.16.04:916][381]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.16.05:049][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.09.02-22.16.05:472][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.16.05:793][414]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary14AD878C4B7DD96CCEB54087A9340BFE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.16.22:642][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.16.22:947][165]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryDE1B7B4246907A04DDC526A086B87D9F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.16.24:225][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.09.02-22.16.30:002][552]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.16.30:005][552]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.16.30:065][552]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.16.30:082][552]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.16.30:179][552]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.16.31:165][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.09.02-22.16.32:757][842]MapCheck: New page: Map Check
+[2020.09.02-22.16.32:781][842]Cmd: MAP REBUILD ALLVISIBLE
+[2020.09.02-22.16.32:781][842]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.09.02-22.16.32:882][842]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=false
+[2020.09.02-22.16.32:940][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.09.02-22.16.32:968][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.02-22.16.33:000][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.02-22.16.34:456][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.02-22.16.34:456][842]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.02-22.16.34:456][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.02-22.16.34:456][842]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.02-22.16.34:456][842]TextureStreamingBuild: Display: Compiling optional shaders took 1.503 seconds.
+[2020.09.02-22.16.34:490][842]LogLevel: Display: Export Material TexCoord Scales took 0.035 seconds.
+[2020.09.02-22.16.34:503][842]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.09.02-22.16.34:529][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.09.02-22.16.34:560][842]LightingResults: New page: Lighting Build - 3 sep. 2020 02:16:34
+[2020.09.02-22.16.34:749][842]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.02-22.16.35:045][842]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.02-22.16.35:061][842]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.02-22.16.36:098][842]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.02-22.16.36:098][842]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19576
+[2020.09.02-22.16.38:934][842]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.02-22.16.38:945][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.02-22.16.38:945][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.02-22.16.38:945][842]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.02-22.16.38:945][842]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.02-22.16.38:945][842]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.02-22.16.39:078][842]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.09.02-22.16.39:079][842]MapCheck: New page: MyLevel - 3 sep. 2020 02:16:39
+[2020.09.02-22.16.39:079][842]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.09.02-22.16.39:123][842]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 43,904ms to complete.
+[2020.09.02-22.16.39:124][842]LogEditorBuildUtils: Build time 0:06
+[2020.09.02-22.16.39:635][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.09.02-22.16.41:162][949]Job is a success!
+[2020.09.02-22.16.41:303][950]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:      Bricks at Level
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2020.09.02-22.16.41:304][950]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.09.02-22.16.41:445][950]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2020.09.02-22.16.41:521][950]Lightmass on JOEYCOMPUTER: 1.32 sec total, 164 ms importing, 24 ms setup, 125 ms photons, 970 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 6.78 sec total, 1.45 sec processing.
+[2020.09.02-22.16.41:528][950]LogStaticLightingSystem: MyLevel_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.09.02-22.16.41:572][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.09.02-22.16.41:582][950]LogStaticLightingSystem: Illumination: 7.01 sec (92 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2020.09.02-22.16.41:583][950]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.02-22.16.41:583][950]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.02-22.16.41:932][950]DumpUnbuiltLightIteractions
+[2020.09.02-22.16.41:932][950]Lights with unbuilt interactions: 0
+[2020.09.02-22.16.41:932][950]
+[2020.09.02-22.16.41:932][950]Primitives with unbuilt interactions: 0
+[2020.09.02-22.16.41:985][951]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.02-22.16.41:985][951]MapCheck: New page: MyLevel - 3 sep. 2020 02:16:41
+[2020.09.02-22.16.41:985][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,405ms to complete.
+[2020.09.02-22.16.44:676][273]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.16.44:681][273]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.16.58:736][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.16.59:651][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.09.02-22.17.00:676][ 48]LogSlate: Window 'Save Content' being destroyed
+[2020.09.02-22.17.00:713][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.17.00:752][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.09.02-22.17.01:067][ 48]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevelD31A8D4D40F36C12DA2CF79C09D73680.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.17.01:096][ 48]LogFileHelpers: Saving map 'MyLevel' took 0.384
+[2020.09.02-22.17.01:099][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.17.01:193][ 48]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltDataBDC41DD84C2A58D10DB44297CD35C696.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.17.10:459][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/MasterItemStruct has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/InventorySlotStruct has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Charcoal_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/High_Quality_Metal_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Leather_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Low_Grade_Fuel_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Metal_Fragments_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Pumpkin_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Stone has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Sulfur_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/Textures/Wood_icon has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/Inventory/MasterItemData has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/MyLevel_BuiltData has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: /Game/MyLevel has no data validation.
+[2020.09.02-22.17.14:705][208]AssetCheck: Data validation SUCCEEDED. Files Checked: 30, Passed: 16, Failed: 0, Skipped: 0, Unable to validate: 14
+[2020.09.02-22.17.19:835][814]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.17.19:839][814]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.17.23:210][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.02-22.17.23:276][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStruct1D52DF8A475FE320418D79AF2D8F2EB4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.02-22.17.23:297][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.02-22.17.23:362][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct66E3E99945380941DAE1628F967E0980.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.02-22.17.23:372][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.02-22.17.23:465][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActorC4F77FC04F8FB75E5B44FC84DB2ED05C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.02-22.17.23:506][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.02-22.17.23:712][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer560A77CF4F704B0AEF080796A63E2479.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.02-22.17.23:724][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.02-22.17.23:839][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItem0B6D04154FC627DAC60049A2DF7C09CE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.02-22.17.23:854][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.02-22.17.23:951][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterface21BA025940CD1C699F74F1A997EADD83.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.02-22.17.23:959][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.17.24:265][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary309E4D6242B05034C8FDBFA694A1ECE7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.17.24:269][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-22.17.24:484][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController558E80364AD600A398A22CB930E1EA9D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-22.17.24:487][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-22.17.24:643][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot42FD7975479D9D2DCBD7949C09649AA5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-22.17.24:646][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.02-22.17.24:717][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItem9B1E0AC64C51356BB792FF8D3404CA58.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.02-22.17.24:720][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.02-22.17.24:868][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidgetFC0BD8AA463D1E6EA48594A78FBAED40.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.02-22.17.24:872][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.02-22.17.24:954][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUD0F1C40F34010604EC397F3B40B7255EE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.02-22.17.24:961][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer2" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset" SILENT=true
+[2020.09.02-22.17.25:139][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryContainer2D4931CC74D30FAA48D1A24863E3562C9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset'
+[2020.09.02-22.17.25:143][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.02-22.17.25:226][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlot2981B6A94A8C55DB01594A96B2AF7512.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.02-22.17.25:230][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.02-22.17.25:315][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidgetAB4DF44D42BD61DB91244F8D49B87FED.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.02-22.17.25:324][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.02-22.17.25:425][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_iconD022D5BB46A95D0702F6E9AE788EF0F3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.02-22.17.25:522][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_icon845A32A04DAD0B886B0FEDB8BAA40934.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.02-22.17.25:540][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.02-22.17.25:618][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_icon48AFF18F40DD7CAFCA5CA1B092EE8396.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.02-22.17.25:711][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_iconEBCBB82347604DDB559FBCBDCB003630.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.02-22.17.25:806][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_iconB97D8F1A4A38B35906B0E49587FCB627.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.02-22.17.25:814][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.02-22.17.25:968][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_icon7DA67CA94B62E1C52A8C1EA247EDDD32.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.02-22.17.25:983][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.02-22.17.26:138][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/StoneCBE6AF0840A9F4EA391B768F7773F91E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.02-22.17.26:146][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.02-22.17.26:460][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_icon28F96E644D55C3355AD4428DADF9ECD4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.02-22.17.26:467][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.02-22.17.26:571][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_iconE44E50614DC78E96634B2BA4B69936F2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.02-22.17.26:576][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.02-22.17.26:642][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemData24F048C040C108EF515B0C8C1ECD9831.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.02-22.17.26:653][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-22.17.26:758][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActorBAB120FE403BCCE99C3DD296FF57D7DA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-22.17.26:762][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.02-22.17.26:842][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemodeFFBABF4747CEA9CE0C0C3B8EA18E9626.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.02-22.17.26:846][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.17.26:927][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltDataA90D4EB948A06C3E681521962B4A381F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.17.26:931][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.17.27:024][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.09.02-22.17.27:216][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel897D4E1248972DCD45FC5BBAE4DCF7CC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.17.27:243][210]LogFileHelpers: Saving map 'MyLevel' took 0.313
+[2020.09.02-22.17.27:446][210]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctionsB8DBB41C4CE9A7CBD00DA69E20A0F18A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-22.17.50:796][915]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.02-22.18.33:129][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.18.33:462][543]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary2D09E40E4D6623F1D5B6249ACF7764DD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.18.57:898][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.18.58:203][354]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryCA12EBD64718B5DEA1EEF0A42B56B603.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.18.58:727][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.02-22.18.58:757][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.18.58:757][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.02-22.18.58:757][410]PIE: New page: PIE session: MyLevel (3 sep. 2020 02:18:58)
+[2020.09.02-22.18.58:776][410]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.09.02-22.18.58:776][410]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.09.02-22.18.58:776][410]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.02-22.18.58:788][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.02-22.18.58:790][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2020.09.02-22.18.58:791][410]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-22.18.58:791][410]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2020.09.02-22.18.58:791][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.003756s)
+[2020.09.02-22.18.58:821][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.09.02-22.18.58:889][410]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.18.58:937][410]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.02-22.18.58:970][410]LogInit: FAudioDevice initialized.
+[2020.09.02-22.18.58:979][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.18.58:980][410]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.02-22.18.58:981][410]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.03-00.18.58
+[2020.09.02-22.18.58:982][410]LogWorld: Bringing up level for play took: 0.001466
+[2020.09.02-22.18.58:982][410]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.02-22.18.59:017][410]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.09.02-22.18.59:114][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:114][410]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.02-22.18.59:114][410]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.02-22.18.59:126][410]LogInit: WinSock: I am JOEYCOMPUTER (169.254.105.252:0)
+[2020.09.02-22.18.59:126][410]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.02-22.18.59:140][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:141][410]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.09.02-22.18.59:145][410]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel -0,555
+[2020.09.02-22.18.59:147][410]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.18.59:152][410]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.02-22.18.59:159][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.18.59:159][410]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.09.02-22.18.59:172][410]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.02-22.18.59:173][410]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.02-22.18.59:182][410]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:182][410]LogNet: Game client on port 17777, rate 10000
+[2020.09.02-22.18.59:184][410]PIE: Play in editor start time for /Game/MyLevel -0,516
+[2020.09.02-22.18.59:190][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.18.59:191][410]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2020.09.02-22.18.59:192][410]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:214][410]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:252][411]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.02-22.18.59:500][411]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57560
+[2020.09.02-22.18.59:500][411]LogHandshake: SendChallengeAck. InCookie: 200153233193083171101210038221167139070037255084000106147055
+[2020.09.02-22.18.59:500][411]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57560
+[2020.09.02-22.18.59:500][411]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.02-22.18.59:500][411]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/03/20 00:18:59, [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:500][411]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:509][411]LogNetVersion: InventorySystemThing 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3987550767)
+[2020.09.02-22.18.59:509][411]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.02-22.18.59:522][412]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.02-22.18.59:522][412]LogNet: Remote platform little endian=1
+[2020.09.02-22.18.59:522][412]LogNet: This platform little endian=1
+[2020.09.02-22.18.59:523][412]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.02-22.18.59:545][413]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE userId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE platform: NULL
+[2020.09.02-22.18.59:545][413]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.02-22.18.59:546][413]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.02-22.18.59:546][413]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.09.02-22.18.59:546][413]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.18.59:606][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.09.02-22.18.59:611][413]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.02-22.18.59:611][413]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.02-22.18.59:640][413]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.03-00.18.59
+[2020.09.02-22.18.59:640][413]LogWorld: Bringing up level for play took: 0.000542
+[2020.09.02-22.18.59:640][413]LogLoad: Took 0.094826 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.02-22.18.59:660][414]LogNet: Client netspeed is 10000
+[2020.09.02-22.18.59:660][414]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE?SplitscreenCount=1
+[2020.09.02-22.18.59:661][414]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.18.59:682][414]LogNet: Join succeeded: JOEYCOMPUTER-1B7B16F
+[2020.09.02-22.18.59:717][415]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.18.59:777][419]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.02-22.19.03:536][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.06:363][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.07:924][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.15:261][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.29:627][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.19.53:593][ 25]LogBlueprintUserMessages: [InventorySlot_C_8] Client 1: EMPTY SLOT
+[2020.09.02-22.20.53:420][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.21.00:943][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.02-22.21.01:060][473]LogSlate: Window 'InventorySystemThing Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-22.21.01:065][473]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.02-22.21.01:065][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.21.01:067][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.02-22.21.01:067][473]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.02-22.21.01:084][473]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.02-22.21.01:090][473]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.21.01:090][473]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.21.01:095][473]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.09.02-22.21.01:095][473]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.09.02-22.21.01:095][473]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE, Channels: 17, Time: 2020.09.02-22.21.01
+[2020.09.02-22.21.01:096][473]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:103][473]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.09.02-22.21.01:110][473]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.02-22.21.01:111][473]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.02-22.21.01:111][473]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.21.01:118][473]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.09.02-22.21.01:118][473]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.09.02-22.21.01:118][473]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:118][473]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE, Channels: 17, Time: 2020.09.02-22.21.01
+[2020.09.02-22.21.01:118][473]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57560, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-1B7B16F443FF9773632E6EB9CFBD34BE
+[2020.09.02-22.21.01:118][473]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.09.02-22.21.01:119][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.02-22.21.01:119][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.02-22.21.01:207][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.09.02-22.21.01:231][474]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.02-22.21.01:231][474]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.02-22.21.22:624][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.21.22:934][912]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary083B118E4235D1A7ECAC738659615BB7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.21.43:953][246]LogEditorTransaction: Undo Move Nodes
+[2020.09.02-22.21.56:770][683]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.21.56:921][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-22.22.44:162][575]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.02-22.24.04:525][293]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.24.04:617][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.02-22.24.04:994][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.24.05:314][319]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary393A459C409337518F95269BAAB0EFA7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.24.07:286][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.09.02-22.24.08:501][608]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.24.08:506][608]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.24.08:507][608]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.24.09:921][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.09.02-22.24.12:914][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.09.02-22.24.23:313][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.02-22.24.23:391][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStruct47C1144041413B02ED44C1A22BF2304E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.02-22.24.23:395][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.02-22.24.23:467][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct15B251064B93697A3425F18647C9596D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.02-22.24.23:471][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.02-22.24.23:552][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActor8F537B4645473A782A12959092CCE173.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.02-22.24.23:556][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.02-22.24.23:719][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer871B765D4CE798AF2A37A590C5CBA438.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.02-22.24.23:723][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.02-22.24.23:812][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItemE909888B40ECD2D40938578F74080B41.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.02-22.24.23:815][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.02-22.24.23:888][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterface2915C62F443E209B468A3B8730B98161.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.02-22.24.23:891][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.24.24:226][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary513654634C74789CD81D20938C251086.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.24.24:230][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-22.24.24:331][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController4AFADB544BE59F1D57FEFBB22D4842F1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-22.24.24:336][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-22.24.24:556][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot6D45FECE44C2249C09D5429947E585B1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-22.24.24:560][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.02-22.24.24:665][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItem12029F754360C521D3DE0BBC0E2FB888.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.02-22.24.24:669][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.02-22.24.25:994][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidgetB4730A5F40BD1A00D381488FA299FF30.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.02-22.24.25:998][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.02-22.24.26:093][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUD2472274842E3A00920EE91A72FAC13FD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.02-22.24.26:097][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer2" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset" SILENT=true
+[2020.09.02-22.24.26:291][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryContainer223C82EBF419F8584EE47209F1C425A2B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset'
+[2020.09.02-22.24.26:295][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.02-22.24.26:433][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlotA559C9124E3BB98D3ABAD3938ED3BC83.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.02-22.24.26:437][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.02-22.24.26:512][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidgetD4F9637B4A6C32A9ED733491C9C90736.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.02-22.24.26:515][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.02-22.24.26:589][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_icon95A78F93473E167C761188A2C11B7D07.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.02-22.24.26:677][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_iconD8452EAB428CC6B4F54944AB03E67C5B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.02-22.24.26:684][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.02-22.24.26:773][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_icon08D73F50434BD1F8458DBAA01C0C7477.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.02-22.24.26:870][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_icon08A776434E5BA646C132249169ADF04E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.02-22.24.26:954][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_iconE1BCBB784B04397379EB70A73DC5DCE8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.02-22.24.26:957][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:040][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_iconF9B4DBDC4EF57C1B077CBC87EDE0B2CD.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.02-22.24.27:043][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.02-22.24.27:137][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Stone84B1AFCE44FBAC2FF10E66AD9D061453.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.02-22.24.27:145][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:237][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_icon5BA939B7426D16B699D69FBC29C42FBB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.02-22.24.27:240][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.02-22.24.27:319][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_icon59A14A6D433D98577735A3ADE37006B4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.02-22.24.27:323][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.02-22.24.27:646][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemDataC63648534D1EAD6C6EBACE80B6FE8BC5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.02-22.24.27:649][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-22.24.27:750][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActor346BEC9547CDFA38B6DD0AB3D218662B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-22.24.27:754][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.02-22.24.27:929][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemode59D7BC544F50E095F3C942AC7A1123D3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.02-22.24.27:932][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.24.28:038][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData45D052CC4C5EFBCA7C2AA1B7A6F64AAC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.24.28:043][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.24.28:070][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.02-22.24.28:271][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel44CF952546856E32E71B90A293576AA9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.24.28:299][106]LogFileHelpers: Saving map 'MyLevel' took 0.256
+[2020.09.02-22.24.28:498][106]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions6421D3F54A24F7656696F489239EEB2D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-22.35.54:964][496]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.09.02-22.36.04:344][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/MyPlayerController.MyPlayerController
+[2020.09.02-22.36.06:517][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.02-22.36.59:453][931]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.36.59:546][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.09.02-22.37.11:939][183]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.37.12:024][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.09.02-22.37.47:187][ 76]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.37.47:275][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.02-22.38.06:868][175]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.38.06:958][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.09.02-22.38.17:700][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.38.18:055][254]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary9C0194694C53A05F5AB00AB7F2C66149.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.38.18:827][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.02-22.38.22:240][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.38.22:555][653]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary50757E564B82C78D71B110BA15D33BF0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.38.24:346][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.38.24:673][781]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary13C782E7469B558718EA05ADEB795E17.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.38.26:245][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.02-22.38.27:299][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.38.27:617][ 47]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary0847DDDA47142546FD594CAFD34435DE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.38.33:042][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.02-22.38.33:111][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStruct5A132A6548C82B0EEE8EE9984A4683B3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.02-22.38.33:114][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.02-22.38.33:184][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct2C6BC72949F631517C378391534658F4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.02-22.38.33:188][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.02-22.38.33:282][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActor1A6EB912494E23874E6753B0FDFEBAF5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.02-22.38.33:286][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.02-22.38.33:466][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer42F9AD2C48D525ED27A3BBAB092ED584.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.02-22.38.33:469][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.02-22.38.33:555][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItem8182ABA34926D4269E2A69BBD9570056.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.02-22.38.33:559][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.02-22.38.33:635][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterface7D1BE4E54DE25DA45CFCF98965BABCA4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.02-22.38.33:639][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.38.33:947][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary467E4AA743F7B845631F238B5E7B1C6C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.38.33:950][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-22.38.34:110][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerControllerDCB88013467C9ECF3D851D8FFD1B78EA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-22.38.34:115][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-22.38.34:277][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot9A33B36844CD43AF2280DDA45D23D441.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-22.38.34:280][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.02-22.38.34:381][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItem610A810845A6EC66797C00A1424E5452.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.02-22.38.34:385][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.02-22.38.34:482][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidget6E39A3A1424B0AAB8DFD0EB40072B8A1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.02-22.38.34:486][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.02-22.38.34:589][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUD2CB62FE6450D91C760D479909020CD3A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.02-22.38.34:594][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer2" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset" SILENT=true
+[2020.09.02-22.38.34:681][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryContainer27190F7A949EC58FA3940D0932D9D6B2B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset'
+[2020.09.02-22.38.34:684][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.02-22.38.34:773][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlotEF1D24A54D5A8F9CD7454991F56BA61F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.02-22.38.34:777][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.02-22.38.34:855][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidget31B462484B4656BDA8C9C4A6A580D184.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.02-22.38.34:859][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.02-22.38.34:938][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_icon34F163D84C712AF1DF6959ACBAC5FAD8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.02-22.38.35:017][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_icon2F0E56E64FBBBA47B77CBB8298DCA93A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.02-22.38.35:021][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.02-22.38.35:096][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_iconE55662164ADC30F646690F9683A35674.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.02-22.38.35:178][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_iconFE9BA27B4D6280C045430BB333E6BE55.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.02-22.38.35:259][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_icon0EC4535E45824EE8AA5BFD954C577509.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.02-22.38.35:262][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.02-22.38.35:340][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_iconB8F2C4C7453FDF0FDDA436B52CEDBDF3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.02-22.38.35:344][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.02-22.38.35:790][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Stone6BC693244348F3AB22DB919E51BD0D3A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.02-22.38.35:793][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.02-22.38.35:888][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_iconDA64CF9B4085BFD45E6B35A350699D97.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.02-22.38.35:892][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.02-22.38.35:971][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_icon64AFD7084237C65169AD99871EDCAC40.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.02-22.38.35:974][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.02-22.38.36:050][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemData7E4EAA9F4128B8FBE2B716B604B1C651.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.02-22.38.36:053][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-22.38.36:140][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActorB0CE42E347CB2A60F4786990AC7D279E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-22.38.36:146][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.02-22.38.36:228][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemode80FCF1414FF5996A1B366C9B6AC6D838.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.02-22.38.36:231][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.38.36:363][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData62AE10974E04998E1CBCFB865EC3AFB5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.38.36:367][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.38.36:398][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.09.02-22.38.36:888][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel704FAB4F49A54D2D7616F683FA0F0929.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.38.36:917][597]LogFileHelpers: Saving map 'MyLevel' took 0.551
+[2020.09.02-22.38.37:046][597]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions38E0C4D34D3DF29924CB6E8C480F8D17.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-22.41.22:261][619]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.22:351][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.02-22.41.42:280][820]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.42:367][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.02-22.41.52:737][903]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.02-22.41.52:823][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.09.02-22.41.59:899][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.42.00:225][667]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary66DC90DD4046EBF29ACED7BD720A6388.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.42.01:371][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.09.02-22.47.02:750][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.47.03:084][913]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryF61B8E004F845A3282968CBCD0E4F348.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.47.05:107][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.47.05:420][135]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryF0A095D2422E7FE46CF52AB815763ECB.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.47.06:466][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.02-22.47.07:806][381]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.47.07:810][381]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.02-22.47.07:813][381]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:835][381]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:881][381]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.07:927][381]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.47.08:780][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.09.02-22.48.24:556][462]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventoryContainer2.InventoryContainer2
+[2020.09.02-22.48.35:009][603]LogSlate: Window 'InventoryContainer2' being destroyed
+[2020.09.02-22.48.35:013][603]LogSlate: Window 'InventoryContainer2' being destroyed
+[2020.09.02-22.48.35:016][603]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.48.35:020][603]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.48.41:371][357]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.09.02-22.49.01:183][218]LogSlate: Window 'InventorySlot' being destroyed
+[2020.09.02-22.49.01:188][218]LogSlate: Window 'InventorySlot' being destroyed
+[2020.09.02-22.49.01:191][218]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.49.01:201][218]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/MasterItemStruct has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/InventorySlotStruct has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Charcoal_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/High_Quality_Metal_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Leather_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Low_Grade_Fuel_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Metal_Fragments_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Pumpkin_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Stone has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Sulfur_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/Textures/Wood_icon has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/Inventory/MasterItemData has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/MyLevel_BuiltData has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: /Game/MyLevel has no data validation.
+[2020.09.02-22.49.34:205][168]AssetCheck: Data validation SUCCEEDED. Files Checked: 30, Passed: 16, Failed: 0, Skipped: 0, Unable to validate: 14
+[2020.09.02-22.49.35:697][343]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.49.35:702][343]LogSlate: Window 'Message Log' being destroyed
+[2020.09.02-22.49.39:611][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.02-22.49.39:704][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStructDAB309A041DFF90432D3ED8691340795.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.02-22.49.39:708][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.02-22.49.39:797][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct6313691C413EEC1CC3E34A9EB2AA2CC3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.02-22.49.39:800][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.02-22.49.39:886][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActor69F0B4024918CD3D402D85B13F1CE686.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.02-22.49.39:890][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.02-22.49.40:004][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer9B760EE84B133BFCAA14FEAE73196A09.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.02-22.49.40:008][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.02-22.49.40:095][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItem782A4AB0470093C56EFA4FB1269A138F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.02-22.49.40:098][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.02-22.49.40:188][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterface9C8214EE4DBB52792618B2BC3149937E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.02-22.49.40:191][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.02-22.49.40:499][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary4AEAFA8E4CDD8C4BD0867CB62003964E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.02-22.49.40:503][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.02-22.49.40:635][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerControllerDE9E2630432A564430DB49B6A4B411D1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.02-22.49.40:640][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.02-22.49.40:815][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotEB4E8B864AAD5DAE3910CA919226B6F9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.02-22.49.40:819][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.02-22.49.40:899][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItemED19797148E1550BC83DFEA7730A3EED.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.02-22.49.40:903][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.02-22.49.40:995][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidgetBBA00EB845C416E7B77386B4BFBAFA3B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.02-22.49.40:999][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.02-22.49.41:089][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUD72B73E134A4E4E2AD75774AC5248FAA9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.02-22.49.41:092][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryContainer2" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset" SILENT=true
+[2020.09.02-22.49.41:193][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryContainer239B9D92445A551D7B9BEA2B38EB5D64B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryContainer2.uasset'
+[2020.09.02-22.49.41:197][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.02-22.49.41:296][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlot1A4AC0874A0298ED8291699A762A156C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.02-22.49.41:300][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.02-22.49.41:381][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidget3577D4B943B92B3EC8E4549E9D48F125.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.02-22.49.41:383][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.02-22.49.41:465][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_iconBD3AD7994FA50E232B3D929AF582E3A5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.02-22.49.41:553][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_icon4D15712E4FC9B715C9E309989452015D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.02-22.49.41:557][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.02-22.49.41:646][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_icon45173D2B4E532E5EC71C60BB67D9E73B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.02-22.49.41:732][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_icon741457474FB2361AAAC141A7FF57AAB3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.02-22.49.41:817][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_icon944D643E49FAAD6B85B9A291E41706FF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.02-22.49.41:821][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.02-22.49.41:924][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_icon089E20E64F35B6B65293CCBA0CB08AD8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.02-22.49.41:928][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.02-22.49.42:015][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/StoneE179ED0744D4F126D4FD4888EB4B55BE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.02-22.49.42:018][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.02-22.49.42:100][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_iconD4B98598463755B561DDC8A27D599009.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.02-22.49.42:103][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.02-22.49.42:185][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_iconECEB568F4147466F41F493BF3A39C815.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.02-22.49.42:189][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.02-22.49.42:265][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemData741A927E4467CF2475BC68BD489A3805.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.02-22.49.42:268][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.02-22.49.42:356][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActor40E8C59A40EFB8762BF7D1A47F4B2149.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.02-22.49.42:359][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.02-22.49.42:445][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemodeA4133D0F460C0334F25F1883B65974E1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.02-22.49.42:449][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.02-22.49.42:546][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData613C83254B8C5A4DD3711BAC17575404.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.02-22.49.42:550][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-22.49.42:581][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.09.02-22.49.42:801][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel11AAE2C9420D29F733FC4B89C86BF77F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.02-22.49.42:829][802]LogFileHelpers: Saving map 'MyLevel' took 0.279
+[2020.09.02-22.49.42:961][802]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions70F25C77433C3BB0F8886D993D3B7860.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.02-23.27.35:123][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.02-23.28.17:100][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.02-23.28.17:189][153]LogSlate: Window 'InventorySystemThing - Unreal Editor' being destroyed
+[2020.09.02-23.28.17:329][154]Cmd: QUIT_EDITOR
+[2020.09.02-23.28.18:206][154]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.02-23.28.18:219][154]LogExit: Preparing to exit.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.02-23.28.18:737][154]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.02-23.28.18:791][154]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.02-23.28.18:809][154]LogExit: Editor shut down
+[2020.09.02-23.28.18:809][154]LogExit: Transaction tracking system shut down
+[2020.09.02-23.28.19:488][154]LogExit: Object subsystem successfully closed.
+[2020.09.02-23.28.19:516][154]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (746)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module Voice (744)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (742)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module SequencerWidgets (740)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module BlueprintGraph (738)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (736)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module WorldBrowser (734)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module SceneOutliner (732)
+[2020.09.02-23.28.19:796][154]LogModuleManager: Shutting down and abandoning module AddContentDialog (730)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module WidgetCarousel (729)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module EditorWidgets (726)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module CollectionManager (724)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module StatsViewer (722)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (720)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module FoliageEdit (718)
+[2020.09.02-23.28.19:807][154]LogModuleManager: Shutting down and abandoning module LandscapeEditor (716)
+[2020.09.02-23.28.19:834][154]LogModuleManager: Shutting down and abandoning module MeshPaintMode (714)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (712)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module ActorPickerMode (710)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module GeometryMode (708)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module TextureAlignMode (706)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module BspMode (704)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (702)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (700)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module AutomationWorker (698)
+[2020.09.02-23.28.19:835][154]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (696)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (694)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (692)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module OculusMR (690)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (688)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (686)
+[2020.09.02-23.28.19:844][154]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (684)
+[2020.09.02-23.28.19:857][154]LogModuleManager: Shutting down and abandoning module PlacementMode (683)
+[2020.09.02-23.28.19:857][154]LogModuleManager: Shutting down and abandoning module MaterialEditor (682)
+[2020.09.02-23.28.19:857][154]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (678)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (676)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (674)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (672)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (670)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module WebMMedia (668)
+[2020.09.02-23.28.19:864][154]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (666)
+[2020.09.02-23.28.19:870][154]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (664)
+[2020.09.02-23.28.19:873][154]LogModuleManager: Shutting down and abandoning module SequenceRecorder (663)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (660)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (658)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (656)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (654)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (652)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (650)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (648)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (646)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (644)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (642)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (640)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module CharacterAI (638)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module SmartSnapping (636)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module SessionServices (634)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module MeshPaint (632)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module ViewportSnapping (630)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module ViewportInteraction (628)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module ClothPainter (626)
+[2020.09.02-23.28.19:874][154]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (625)
+[2020.09.02-23.28.19:897][154]LogModuleManager: Shutting down and abandoning module LogVisualizer (622)
+[2020.09.02-23.28.19:898][154]LogModuleManager: Shutting down and abandoning module IntroTutorials (620)
+[2020.09.02-23.28.19:898][154]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (619)
+[2020.09.02-23.28.19:905][154]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (616)
+[2020.09.02-23.28.19:905][154]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (614)
+[2020.09.02-23.28.19:905][154]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (612)
+[2020.09.02-23.28.19:905][154]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (610)
+[2020.09.02-23.28.19:905][154]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (609)
+[2020.09.02-23.28.20:793][154]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (606)
+[2020.09.02-23.28.20:793][154]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (604)
+[2020.09.02-23.28.20:794][154]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (602)
+[2020.09.02-23.28.20:794][154]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (600)
+[2020.09.02-23.28.20:794][154]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (598)
+[2020.09.02-23.28.20:794][154]LogModuleManager: Shutting down and abandoning module InputBindingEditor (596)
+[2020.09.02-23.28.20:794][154]LogModuleManager: Shutting down and abandoning module MergeActors (594)
+[2020.09.02-23.28.20:813][154]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (592)
+[2020.09.02-23.28.20:813][154]LogModuleManager: Shutting down and abandoning module LocalizationService (591)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module HardwareTargeting (588)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (586)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module UndoHistory (584)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module XmlParser (582)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module Blutility (580)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (578)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (577)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (574)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module SettingsEditor (572)
+[2020.09.02-23.28.20:823][154]LogModuleManager: Shutting down and abandoning module ProjectLauncher (570)
+[2020.09.02-23.28.20:830][154]LogModuleManager: Shutting down and abandoning module SessionFrontend (568)
+[2020.09.02-23.28.20:830][154]LogModuleManager: Shutting down and abandoning module ProfilerClient (566)
+[2020.09.02-23.28.20:840][154]LogModuleManager: Shutting down and abandoning module DeviceManager (564)
+[2020.09.02-23.28.20:840][154]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (563)
+[2020.09.02-23.28.20:920][154]LogModuleManager: Shutting down and abandoning module AutomationController (560)
+[2020.09.02-23.28.20:920][154]LogModuleManager: Shutting down and abandoning module AutomationWindow (558)
+[2020.09.02-23.28.20:935][154]LogModuleManager: Shutting down and abandoning module Layers (556)
+[2020.09.02-23.28.20:944][154]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (554)
+[2020.09.02-23.28.20:945][154]LogModuleManager: Shutting down and abandoning module DetailCustomizations (552)
+[2020.09.02-23.28.20:945][154]LogModuleManager: Shutting down and abandoning module PackagesDialog (550)
+[2020.09.02-23.28.20:945][154]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (548)
+[2020.09.02-23.28.20:954][154]LogModuleManager: Shutting down and abandoning module Persona (546)
+[2020.09.02-23.28.20:973][154]LogModuleManager: Shutting down and abandoning module AnimGraph (545)
+[2020.09.02-23.28.20:973][154]LogModuleManager: Shutting down and abandoning module Kismet (542)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module KismetWidgets (541)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module GraphEditor (538)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module StructViewer (536)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module ClassViewer (534)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module Toolbox (532)
+[2020.09.02-23.28.20:981][154]LogModuleManager: Shutting down and abandoning module ModuleUI (530)
+[2020.09.02-23.28.20:989][154]LogModuleManager: Shutting down and abandoning module MovieSceneTools (528)
+[2020.09.02-23.28.20:989][154]LogModuleManager: Shutting down and abandoning module OutputLog (526)
+[2020.09.02-23.28.20:990][154]LogModuleManager: Shutting down and abandoning module GammaUI (524)
+[2020.09.02-23.28.20:997][154]LogModuleManager: Shutting down and abandoning module Documentation (522)
+[2020.09.02-23.28.20:997][154]LogModuleManager: Shutting down and abandoning module LiveCoding (520)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module LevelSequence (518)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (516)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module MovieScene (514)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (512)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module LauncherPlatform (510)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module AnalyticsET (508)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module PortalServices (506)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module PortalRpc (504)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module MessagingRpc (502)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module AIModule (500)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module GameplayDebugger (499)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module AITestSuite (497)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module NavigationSystem (495)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module DesktopPlatform (492)
+[2020.09.02-23.28.20:998][154]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (490)
+[2020.09.02-23.28.21:001][154]LogModuleManager: Shutting down and abandoning module ProfilerService (488)
+[2020.09.02-23.28.21:216][154]LogModuleManager: Shutting down and abandoning module TaskGraph (486)
+[2020.09.02-23.28.21:216][154]LogModuleManager: Shutting down and abandoning module DatasmithCADTranslator (484)
+[2020.09.02-23.28.21:216][154]LogModuleManager: Shutting down and abandoning module DatasmithC4DImporter (482)
+[2020.09.02-23.28.21:216][154]LogModuleManager: Shutting down and abandoning module VariantManager (480)
+[2020.09.02-23.28.21:224][154]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (478)
+[2020.09.02-23.28.21:224][154]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (477)
+[2020.09.02-23.28.21:224][154]LogModuleManager: Shutting down and abandoning module MDLImporter (474)
+[2020.09.02-23.28.21:235][154]LogModuleManager: Shutting down and abandoning module DatasmithCoreTechExtension (472)
+[2020.09.02-23.28.21:235][154]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (471)
+[2020.09.02-23.28.21:250][154]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (470)
+[2020.09.02-23.28.21:250][154]LogModuleManager: Shutting down and abandoning module DatasmithOpenNurbsTranslator (466)
+[2020.09.02-23.28.21:263][154]LogModuleManager: Shutting down and abandoning module DatasmithNativeTranslator (464)
+[2020.09.02-23.28.21:263][154]LogModuleManager: Shutting down and abandoning module DatasmithIFCImporter (462)
+[2020.09.02-23.28.21:263][154]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (460)
+[2020.09.02-23.28.21:263][154]LogModuleManager: Shutting down and abandoning module DatasmithImporter (459)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module ScreenshotTools (456)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module SteamVRController (454)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (452)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (450)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module OculusEditor (448)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module OculusInput (446)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module EditableMesh (442)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (440)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module CableComponent (438)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (434)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (432)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module AppleImageUtils (430)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module AndroidPermission (428)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (426)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (424)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module MediaCompositing (422)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module ImgMedia (420)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (418)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (416)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (414)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module HTML5Networking (412)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (410)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (409)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (406)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (404)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (402)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (400)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module DataprepLibraries (398)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module DataprepCore (396)
+[2020.09.02-23.28.21:273][154]LogModuleManager: Shutting down and abandoning module DataprepEditor (394)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (392)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module BlastCore (390)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module BlastAuthoring (388)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module BackChannel (386)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (384)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module AutomationUtils (382)
+[2020.09.02-23.28.21:279][154]LogModuleManager: Shutting down and abandoning module AlembicImporter (380)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module AlembicLibrary (379)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module GeometryCache (378)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (377)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module VariantManagerContent (372)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (370)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (368)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module PluginBrowser (366)
+[2020.09.02-23.28.21:289][154]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (364)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module PolygonModeling (362)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module MeshEditor (360)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (358)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module GLTFImporter (356)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (354)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module CurveEditorTools (352)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module CurveEditor (351)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (348)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module CryptoKeys (346)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (344)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (342)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module UObjectPlugin (340)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (338)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (336)
+[2020.09.02-23.28.21:299][154]LogModuleManager: Shutting down and abandoning module GitSourceControl (334)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module SourceControl (333)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (330)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (328)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (326)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (324)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (322)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (320)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (318)
+[2020.09.02-23.28.21:333][154]LogModuleManager: Shutting down and abandoning module Paper2DEditor (316)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (314)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module AdvancedSessions (312)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2020.09.02-23.28.21:342][154]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2020.09.02-23.28.21:443][154]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2020.09.02-23.28.21:543][154]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2020.09.02-23.28.21:543][154]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2020.09.02-23.28.21:544][154]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2020.09.02-23.28.21:544][154]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2020.09.02-23.28.21:544][154]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.09.02-23.28.21:545][154]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.09.02-23.28.21:545][154]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2020.09.02-23.28.21:547][154]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2020.09.02-23.28.21:547][154]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2020.09.02-23.28.21:547][154]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2020.09.02-23.28.21:547][154]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2020.09.02-23.28.21:547][154]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2020.09.02-23.28.21:549][154]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2020.09.02-23.28.21:550][154]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.09.02-23.28.21:551][154]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2020.09.02-23.28.21:552][154]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2020.09.02-23.28.21:578][154]LogDerivedDataCache: Shutdown
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2020.09.02-23.28.21:578][154]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2020.09.02-23.28.21:578][154]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.09.02-23.28.21:580][154]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2020.09.02-23.28.21:580][154]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.09.02-23.28.21:580][154]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.09.02-23.28.21:580][154]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.09.02-23.28.21:580][154]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2020.09.02-23.28.21:582][154]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.09.02-23.28.21:582][154]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.09.02-23.28.21:584][154]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2020.09.02-23.28.21:584][154]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.09.02-23.28.21:596][154]LogHMD: Freeing OpenVRDLLHandle.
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.09.02-23.28.21:596][154]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.09.02-23.28.21:597][154]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.09.02-23.28.21:597][154]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.09.02-23.28.21:600][154]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.09.02-23.28.21:600][154]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.09.02-23.28.21:600][154]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17D78A16-4521-60DA-A5A7-DCA84B6DEBAF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=223845704c6516493bcdb69e8f4e2567%7C52cd936612ca433ba7244efdbd41ffd6%7C4eec7dc2-007f-4bed-8ab7-a8a892bc0b34&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.09.02-23.28.21:619][154]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.09.02-23.28.21:622][154]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.09.02-23.28.21:623][154]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.09.02-23.28.21:623][154]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.09.02-23.28.21:623][154]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.09.02-23.28.21:624][154]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.09.02-23.28.21:624][154]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.09.02-23.28.21:624][154]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.09.02-23.28.21:624][154]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.09.02-23.28.21:624][154]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.09.02-23.28.21:625][154]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.09.02-23.28.21:626][154]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.09.02-23.28.21:626][154]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.09.02-23.28.21:626][154]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.09.02-23.28.21:626][154]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.09.02-23.28.21:627][154]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.09.02-23.28.21:627][154]LogD3D11RHI: Shutdown
+[2020.09.02-23.28.21:627][154]LogD3D11RHI: CleanupD3DDevice
+[2020.09.02-23.28.21:628][154]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.09.02-23.28.21:628][154]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.09.02-23.28.21:628][154]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.09.02-23.28.21:722][154]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.09.02-23.28.21:731][154]LogExit: Exiting.
+[2020.09.02-23.28.21:760][154]Log file closed, 09/03/20 01:28:21
