@@ -12278,3 +12278,44 @@ Make sure 'UI_InventoryPanel_C' has been compiled for  Get WrapBox_389
 [2020.09.05-22.33.32:232][479]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltDataA051830448E6481D1391EEB03283FA9B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
 [2020.09.05-22.33.32:431][479]LogSlate: Window 'InventorySystemThing - Unreal Editor' being destroyed
 [2020.09.05-22.33.32:432][479]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.09.05-22.33.41:314][480]Cmd: QUIT_EDITOR
+[2020.09.05-22.33.44:187][480]LogExit: Preparing to exit.
+[2020.09.05-22.33.46:076][480]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:095][480]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:105][480]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:105][480]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:105][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:106][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.09.05-22.33.46:107][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-22.33.46:986][480]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.05-22.33.48:050][480]LogExit: Editor shut down
+[2020.09.05-22.33.48:071][480]LogExit: Transaction tracking system shut down
