@@ -5228,3 +5228,16 @@ Make sure 'GameWorkBench_C' has been compiled for  Get Image_162
 [2020.09.06-00.58.40:348][525]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2020.09.06-00.58.40:419][525]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2020.09.06-00.58.40:477][525]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-01.02.42:152][681]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/InventorySlot.InventorySlot
+[2020.09.06-01.02.55:574][398]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/DropWidget.DropWidget
+[2020.09.06-01.02.58:557][586]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/MyPlayerController.MyPlayerController
+[2020.09.06-01.03.00:615][718]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.06-01.03.48:197][468]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.06-01.03.48:329][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.09.06-01.03.48:733][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.06-01.03.49:218][495]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary380F6A95404FB54C6C46F192CC81985C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.06-01.04.39:791][825]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.06-01.04.39:910][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.06-01.04.40:229][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.06-01.04.40:612][842]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryEBD37EDF4E2C4DF58F1D34A71B15BF36.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.06-01.04.41:485][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
