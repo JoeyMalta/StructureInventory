@@ -5241,3 +5241,10 @@ Make sure 'GameWorkBench_C' has been compiled for  Get Image_162
 [2020.09.06-01.04.40:229][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
 [2020.09.06-01.04.40:612][842]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryEBD37EDF4E2C4DF58F1D34A71B15BF36.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
 [2020.09.06-01.04.41:485][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.09.06-01.05.23:603][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.06-01.05.23:978][433]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary947A4A7C4E4FA1FB8DBBDD8A85C5B52F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.06-01.05.47:462][529]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.06-01.05.47:571][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.09.06-01.05.47:819][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.06-01.05.48:198][545]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary699F6A474C9665AA93F58A8FAA64190B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.06-01.05.49:089][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
