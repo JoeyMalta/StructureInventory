@@ -26598,3 +26598,653 @@ Make sure 'GameWorkBench_C' has been compiled for  Get Image_309
 [2020.09.06-21.52.37:768][337]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
 [2020.09.06-21.53.33:788][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
 [2020.09.06-21.53.37:081][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.09.06-22.06.46:106][679]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.06-22.06.46:174][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.06-22.06.46:174][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.06-22.06.46:174][679]PIE: New page: PIE session: MyLevel (7 sep. 2020 02:06:46)
+[2020.09.06-22.06.46:241][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_1_MyLevel
+[2020.09.06-22.06.46:248][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006826s)
+[2020.09.06-22.06.46:250][679]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.06-22.06.46:250][679]LogPlayLevel: PIE: World Init took: (0.002454s)
+[2020.09.06-22.06.46:250][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyLevel.MyLevel to /Game/UEDPIE_1_MyLevel.MyLevel (0.009671s)
+[2020.09.06-22.06.46:292][679]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2020.09.06-22.06.46:292][679]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.06-22.06.46:328][679]LogInit: XAudio2 using 'Hoofdtelefoon (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.09.06-22.06.46:372][679]LogInit: FAudioDevice initialized.
+[2020.09.06-22.06.46:402][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.06-22.06.46:403][679]LogLoad: Game class is 'MyGamemode_C'
+[2020.09.06-22.06.46:407][679]LogWorld: Bringing World /Game/UEDPIE_1_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.07-00.06.46
+[2020.09.06-22.06.46:408][679]LogWorld: Bringing up level for play took: 0.003699
+[2020.09.06-22.06.46:408][679]LogOnline: OSS: Creating online subsystem instance for: :Context_266
+[2020.09.06-22.06.46:412][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.06-22.06.46:413][679]LogTemp: Display: ParseSettings for IpNetDriver_233
+[2020.09.06-22.06.46:413][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.06-22.06.46:413][679]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.06-22.06.46:413][679]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.06-22.06.46:414][679]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.06-22.06.46:414][679]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.06-22.06.46:414][679]LogNet: GameNetDriver IpNetDriver_233 IpNetDriver listening on port 17777
+[2020.09.06-22.06.46:424][679]PIE: Play in editor start time for /Game/UEDPIE_1_MyLevel 0,652
+[2020.09.06-22.06.46:429][679]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.06-22.06.46:452][679]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.06-22.06.46:476][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.06-22.06.46:476][679]LogNet: Browse: 127.0.0.1:17777//Game/MyLevel
+[2020.09.06-22.06.46:476][679]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.06-22.06.46:476][679]LogTemp: Display: ParseSettings for IpNetDriver_234
+[2020.09.06-22.06.46:476][679]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.06-22.06.46:477][679]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.06-22.06.46:496][679]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.06-22.06.46:496][679]LogNet: Game client on port 17777, rate 10000
+[2020.09.06-22.06.46:498][679]PIE: Play in editor start time for /Game/MyLevel 0,725
+[2020.09.06-22.06.46:503][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.06-22.06.46:503][679]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62730
+[2020.09.06-22.06.46:503][679]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 033157002216224098214088228050151174254174163175255141255127
+[2020.09.06-22.06.46:505][679]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 033157002216224098214088228050151174254174163175255141255127
+[2020.09.06-22.06.46:545][680]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62730
+[2020.09.06-22.06.46:545][680]LogHandshake: SendChallengeAck. InCookie: 033157002216224098214088228050151174254174163175255141255127
+[2020.09.06-22.06.46:545][680]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62730
+[2020.09.06-22.06.46:546][680]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.06-22.06.46:546][680]LogNet: NotifyAcceptedConnection: Name: MyLevel, TimeStamp: 09/07/20 00:06:46, [UNetConnection] RemoteAddr: 127.0.0.1:62730, Name: IpConnection_233, Driver: GameNetDriver IpNetDriver_233, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.06-22.06.46:546][680]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62730, Name: IpConnection_233, Driver: GameNetDriver IpNetDriver_233, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.06-22.06.46:547][680]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_232, Driver: PendingNetDriver IpNetDriver_234, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.06-22.06.46:571][681]LogNet: NotifyAcceptingChannel Control 0 server World /Game/UEDPIE_1_MyLevel.MyLevel: Accepted
+[2020.09.06-22.06.46:571][681]LogNet: Remote platform little endian=1
+[2020.09.06-22.06.46:571][681]LogNet: This platform little endian=1
+[2020.09.06-22.06.46:572][681]LogOnline: OSS: Creating online subsystem instance for: :Context_267
+[2020.09.06-22.06.46:584][682]LogNet: Login request: /Game/MyLevel?Name=JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A userId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A platform: NULL
+[2020.09.06-22.06.46:585][682]LogNet: Welcomed by server (Level: /Game/UEDPIE_1_MyLevel, Game: /Game/Player/MyGamemode.MyGamemode_C)
+[2020.09.06-22.06.46:585][682]LogLoad: LoadMap: 127.0.0.1:17777//Game/UEDPIE_1_MyLevel?game=/Game/Player/MyGamemode.MyGamemode_C
+[2020.09.06-22.06.46:585][682]LogWorld: BeginTearingDown for /Temp/Untitled_117
+[2020.09.06-22.06.46:585][682]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-22.06.46:615][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.09.06-22.06.46:625][682]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.06-22.06.46:625][682]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.06-22.06.46:628][682]LogWorld: Bringing World /Game/UEDPIE_2_MyLevel.MyLevel up for play (max tick rate 0) at 2020.09.07-00.06.46
+[2020.09.06-22.06.46:628][682]LogWorld: Bringing up level for play took: 0.002227
+[2020.09.06-22.06.46:629][682]LogLoad: Took 0.043740 seconds to LoadMap(/Game/UEDPIE_1_MyLevel)
+[2020.09.06-22.06.46:667][683]LogNet: Client netspeed is 10000
+[2020.09.06-22.06.46:667][683]LogNet: Join request: /Game/MyLevel?Name=JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A?SplitscreenCount=1
+[2020.09.06-22.06.46:669][683]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.06-22.06.46:672][683]LogNet: Join succeeded: JOEYCOMPUTER-DEFD57E
+[2020.09.06-22.06.46:946][696]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.06-22.06.47:494][728]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.06-22.06.49:324][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.06.53:040][  7]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.06.54:112][ 71]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.01:708][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.12:006][988]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.13:812][ 69]LogBlueprintUserMessages: [InventorySlot_C_3] Client 1: EMPTY SLOT
+[2020.09.06-22.07.13:815][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.18:235][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.18:236][245]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:048][280]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:440][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:441][295]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 2
+[2020.09.06-22.07.19:853][312]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.20:611][346]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:067][366]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.21:647][391]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:263][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.22:264][416]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:036][450]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.23:679][478]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:413][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:435][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:436][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:436][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.24:436][516]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.25:147][548]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.25:584][570]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.25:973][589]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.26:156][597]LogBlueprintUserMessages: [InventorySlot_C_0] Client 1: EMPTY SLOT
+[2020.09.06-22.07.26:796][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.26:813][627]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.27:591][663]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.28:063][688]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.29:390][755]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.32:892][931]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.34:063][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.34:079][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:079][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:080][988]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:226][996]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:384][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:384][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:384][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:384][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:384][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:385][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:385][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:385][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:385][  5]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:540][ 13]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.34:698][ 21]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:988][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:988][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.35:989][ 82]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:500][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.36:513][108]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:103][461]LogBlueprintUserMessages: [None] 2
+[2020.09.06-22.07.44:103][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:103][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:103][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:103][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:104][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:104][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:104][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:104][461]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:896][494]LogBlueprintUserMessages: [None] 2
+[2020.09.06-22.07.44:896][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:896][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:896][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:896][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:897][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:897][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:897][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.44:897][494]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:831][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.45:847][538]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:828][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:849][575]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:996][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:996][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:996][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:996][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:996][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:997][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:997][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:997][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.46:997][582]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:134][590]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:286][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:287][598]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:434][607]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:597][616]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:736][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:737][624]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:876][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:876][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:876][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:876][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:877][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:877][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:877][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:877][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.47:877][632]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.51:440][796]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.55:286][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:286][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.55:287][966]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:005][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:006][  1]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:697][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:698][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:698][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.56:698][ 33]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.07.58:977][155]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.59:454][178]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.07.59:888][197]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.00:260][213]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.00:575][229]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.08:147][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.08:168][599]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:134][685]LogBlueprintUserMessages: [None] 5
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 4
+[2020.09.06-22.08.10:135][685]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:659][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:678][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.13:679][842]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:106][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.16:125][940]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.20:780][171]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.23:585][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.26:143][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:143][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.26:144][421]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:271][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.27:272][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.30:647][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.31:346][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:346][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:346][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.31:347][659]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.33:363][745]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.33:858][768]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.34:209][785]LogBlueprintUserMessages: [InventorySlot_C_16] Client 1: EMPTY SLOT
+[2020.09.06-22.08.35:935][861]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.36:486][885]LogBlueprintUserMessages: [None] R_True2
+[2020.09.06-22.08.49:187][469]LogBlueprintUserMessages: [InventorySlot_C_8] Client 1: EMPTY SLOT
+[2020.09.06-22.08.53:353][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.08.57:814][815]LogBlueprintUserMessages: [None] 1
+[2020.09.06-22.09.06:644][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.06-22.09.06:647][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.06-22.09.06:648][252]LogWorld: BeginTearingDown for /Game/UEDPIE_2_MyLevel
+[2020.09.06-22.09.06:668][252]LogSlate: Window 'InventorySystemThing Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.06-22.09.06:670][252]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.06-22.09.06:670][252]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-22.09.06:681][252]LogNet: World NetDriver shutdown IpNetDriver_234 [GameNetDriver]
+[2020.09.06-22.09.06:681][252]LogNet: DestroyNamedNetDriver IpNetDriver_234 [GameNetDriver]
+[2020.09.06-22.09.06:681][252]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_232, Driver: GameNetDriver IpNetDriver_234, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A, Channels: 33, Time: 2020.09.06-22.09.06
+[2020.09.06-22.09.06:682][252]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_232, Driver: GameNetDriver IpNetDriver_234, IsServer: NO, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A
+[2020.09.06-22.09.06:682][252]LogExit: GameNetDriver IpNetDriver_234 shut down
+[2020.09.06-22.09.06:682][252]LogWorld: BeginTearingDown for /Game/UEDPIE_1_MyLevel
+[2020.09.06-22.09.06:683][252]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.06-22.09.06:684][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.06-22.09.06:701][252]LogSlate: Window 'InventorySystemThing Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.06-22.09.06:707][252]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2020.09.06-22.09.06:707][252]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.06-22.09.06:731][252]LogNet: World NetDriver shutdown IpNetDriver_233 [GameNetDriver]
+[2020.09.06-22.09.06:731][252]LogNet: DestroyNamedNetDriver IpNetDriver_233 [GameNetDriver]
+[2020.09.06-22.09.06:731][252]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62730, Name: IpConnection_233, Driver: GameNetDriver IpNetDriver_233, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A
+[2020.09.06-22.09.06:732][252]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62730, Name: IpConnection_233, Driver: GameNetDriver IpNetDriver_233, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A, Channels: 33, Time: 2020.09.06-22.09.06
+[2020.09.06-22.09.06:732][252]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62730, Name: IpConnection_233, Driver: GameNetDriver IpNetDriver_233, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:JOEYCOMPUTER-DEFD57EF45233ADF4A890EBC7DEC544A
+[2020.09.06-22.09.06:732][252]LogExit: GameNetDriver IpNetDriver_233 shut down
+[2020.09.06-22.09.06:733][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.06-22.09.06:733][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2020.09.06-22.09.06:807][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.09.06-22.09.06:876][253]LogPlayLevel: Display: Destroying online subsystem :Context_267
+[2020.09.06-22.09.06:876][253]LogPlayLevel: Display: Destroying online subsystem :Context_266
+[2020.09.06-22.09.08:662][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.09.06-22.09.12:374][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:375][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:375][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:375][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:375][714]LogLinker: Warning: Failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:376][714]LogLinker: Warning: Failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:376][714]LogLinker: Warning: Failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:376][714]LogLinker: Warning: Failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:376][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:376][714]LoadErrors: Failed to load /Game/MyAssets/Textures/Rocket_icon.Rocket_icon Referenced by Image_48
+[2020.09.06-22.09.12:376][714]LogLinker: Warning: While loading '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset' failed to load '/Game/MyAssets/Textures/Rocket_icon': Can't find file.
+[2020.09.06-22.09.12:685][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset" SILENT=true
+[2020.09.06-22.09.12:790][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemStruct1DEB059A4390ABB4D86FF48A0A4A50E1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemStruct.uasset'
+[2020.09.06-22.09.12:797][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlotStruct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset" SILENT=true
+[2020.09.06-22.09.12:902][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlotStruct25C3B3BD455F45FF0A7404B9BF0F5F71.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlotStruct.uasset'
+[2020.09.06-22.09.12:909][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset" SILENT=true
+[2020.09.06-22.09.13:036][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryActorF3A6B8D7404B37FDFE26ECB6BC5362C4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryActor.uasset'
+[2020.09.06-22.09.13:044][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_GamePanel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_GamePanel.uasset" SILENT=true
+[2020.09.06-22.09.13:166][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_GamePanelC605B95040316460FD54DB8DD92F322E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_GamePanel.uasset'
+[2020.09.06-22.09.13:173][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset" SILENT=true
+[2020.09.06-22.09.13:380][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayer8593617E48B623BEF862239972D96A4D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayer.uasset'
+[2020.09.06-22.09.13:388][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BP_MasterItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset" SILENT=true
+[2020.09.06-22.09.13:576][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_MasterItemD44AB06F47402BE1C237EA820F8CB88E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/BP_MasterItem.uasset'
+[2020.09.06-22.09.13:583][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryInterface" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset" SILENT=true
+[2020.09.06-22.09.13:684][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryInterfaceFC9664774248B0E26EF2B2B2672C115C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryInterface.uasset'
+[2020.09.06-22.09.13:694][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.06-22.09.14:284][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary714AA6CE40EFC92B5B4FB2A8B2E2F68B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.06-22.09.14:302][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerController" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset" SILENT=true
+[2020.09.06-22.09.14:462][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerController21A137674A25C85CC8E7F49ED3DCD2E9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerController.uasset'
+[2020.09.06-22.09.14:468][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_WidgetContainer" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_WidgetContainer.uasset" SILENT=true
+[2020.09.06-22.09.14:659][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_WidgetContainerEFFA91CA4EF932930A213CB661156E58.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_WidgetContainer.uasset'
+[2020.09.06-22.09.14:666][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/GeneralWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset" SILENT=true
+[2020.09.06-22.09.14:789][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GeneralWidget8EA8019443171341B7087186EE36CCFC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/GeneralWidget.uasset'
+[2020.09.06-22.09.14:797][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/GameHUD" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset" SILENT=true
+[2020.09.06-22.09.14:963][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameHUDC00B39D94F5D56788BC1E3BDB1198E42.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/GameHUD.uasset'
+[2020.09.06-22.09.15:017][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Coal/Coal1" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Coal/Coal1.uasset" SILENT=true
+[2020.09.06-22.09.15:198][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Coal1D941DECB4D571ED92DE5B98D77FD3FAF.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Coal/Coal1.uasset'
+[2020.09.06-22.09.15:306][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Coal/Coal" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Coal/Coal.uasset" SILENT=true
+[2020.09.06-22.09.15:535][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/CoalDFCBA46D41EB35F3A1AAB1BA37A55BB0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Coal/Coal.uasset'
+[2020.09.06-22.09.15:553][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/Pumpkin1" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/Pumpkin1.uasset" SILENT=true
+[2020.09.06-22.09.15:691][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin1AAAB8F8547D5B3377DCFFC91085B0ACA.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/Pumpkin1.uasset'
+[2020.09.06-22.09.15:710][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/Stem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/Stem.uasset" SILENT=true
+[2020.09.06-22.09.15:862][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/StemA2D6CAC648ADC9E7ADE39EB959AC27EC.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/Stem.uasset'
+[2020.09.06-22.09.15:879][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/Pumpkin/pumpkin" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/pumpkin.uasset" SILENT=true
+[2020.09.06-22.09.16:044][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/pumpkin4B8ED7484CEAA67AE181AEB882115F08.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/Pumpkin/pumpkin.uasset'
+[2020.09.06-22.09.16:083][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/WoodLog/Mat" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Mat.uasset" SILENT=true
+[2020.09.06-22.09.16:252][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Mat1A7A4C7B4675CC42A7FB7F901F3DECDE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Mat.uasset'
+[2020.09.06-22.09.16:290][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/WoodLog/Mat_1" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Mat_1.uasset" SILENT=true
+[2020.09.06-22.09.16:416][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Mat_15E05919540EC57D4E64BD6B2D1D55A09.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Mat_1.uasset'
+[2020.09.06-22.09.16:436][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/WoodLog/Woodlog" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Woodlog.uasset" SILENT=true
+[2020.09.06-22.09.16:601][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/WoodlogA145DDFA44D7E8E4208EF98581DAE4B4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Models/WoodLog/Woodlog.uasset'
+[2020.09.06-22.09.16:611][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Charcoal_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset" SILENT=true
+[2020.09.06-22.09.16:743][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Charcoal_iconCEA9079B43F81FE372999989EFC23D90.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Charcoal_icon.uasset'
+[2020.09.06-22.09.16:969][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/High_Quality_Metal_icon900D794F43E7F677B871818DCFD42159.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/High_Quality_Metal_icon.uasset'
+[2020.09.06-22.09.16:992][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Leather_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset" SILENT=true
+[2020.09.06-22.09.17:128][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Leather_iconA0EADCB5436E046FCF0EF683FE93F916.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Leather_icon.uasset'
+[2020.09.06-22.09.17:396][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Low_Grade_Fuel_icon0ACF32964C8A84D925240BB63D0CF6E9.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Low_Grade_Fuel_icon.uasset'
+[2020.09.06-22.09.17:542][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Metal_Fragments_icon3CB08EA64C5D2E4E3546B890E3CA2E4B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Metal_Fragments_icon.uasset'
+[2020.09.06-22.09.17:553][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Pumpkin_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset" SILENT=true
+[2020.09.06-22.09.17:716][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Pumpkin_icon87354897438448BE76459495DAF51886.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Pumpkin_icon.uasset'
+[2020.09.06-22.09.17:745][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Stone" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset" SILENT=true
+[2020.09.06-22.09.17:904][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Stone9EC567854BD7F6FA25F740850F63247E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Stone.uasset'
+[2020.09.06-22.09.17:977][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Sulfur_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset" SILENT=true
+[2020.09.06-22.09.18:106][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Sulfur_icon79374DC743809EA8C97539B5EEB65DC0.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Sulfur_icon.uasset'
+[2020.09.06-22.09.18:149][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/Wood_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset" SILENT=true
+[2020.09.06-22.09.18:294][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood_iconE2721DA948F310EA9DB8ACB7D338898A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/Wood_icon.uasset'
+[2020.09.06-22.09.18:301][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/MasterItemData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset" SILENT=true
+[2020.09.06-22.09.18:409][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MasterItemDataBAAB949945108A243D58468D91548A06.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/MasterItemData.uasset'
+[2020.09.06-22.09.18:433][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/Wood" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Wood.uasset" SILENT=true
+[2020.09.06-22.09.18:584][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Wood1E0E82404A83E5BF4D9D1B95FEE798A6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Wood.uasset'
+[2020.09.06-22.09.18:624][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/WoodDark" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/WoodDark.uasset" SILENT=true
+[2020.09.06-22.09.18:783][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/WoodDarkE65FBEBB468A691D3D23559F55C651C8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/WoodDark.uasset'
+[2020.09.06-22.09.18:987][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/game_loot_large_crate_bottom580C17CF42C5E4F6206382A0255689D6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/game_loot_large_crate_bottom.uasset'
+[2020.09.06-22.09.19:183][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/game_loot_large_crate_topD89C77EF4BA5F99B91C3F78340EB1621.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/game_loot_large_crate_top.uasset'
+[2020.09.06-22.09.19:195][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.06-22.09.19:682][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot32106CBE43802D829F4DDA9A46C5175D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.06-22.09.19:692][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DragAndDropSlotItem" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset" SILENT=true
+[2020.09.06-22.09.19:811][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DragAndDropSlotItemC3F0A22046768EDD6D338AB0F8666FA5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DragAndDropSlotItem.uasset'
+[2020.09.06-22.09.19:820][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DropWidget" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset" SILENT=true
+[2020.09.06-22.09.20:056][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DropWidgetA87F717240919E42CBEE07BAAB8E5047.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/DropWidget.uasset'
+[2020.09.06-22.09.20:066][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryDragSlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset" SILENT=true
+[2020.09.06-22.09.20:182][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryDragSlot96D9BFC34F3D8D11FD15A2A60DD5B78E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryDragSlot.uasset'
+[2020.09.06-22.09.20:193][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/block_icon" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/block_icon.uasset" SILENT=true
+[2020.09.06-22.09.20:290][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/block_icon5F3BEDD5413D66BE9DB46A9118CF850B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/block_icon.uasset'
+[2020.09.06-22.09.20:298][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_InventoryPanel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_InventoryPanel.uasset" SILENT=true
+[2020.09.06-22.09.20:417][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_InventoryPanelE69EA7664B61F017562DAA93924632C8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_InventoryPanel.uasset'
+[2020.09.06-22.09.20:435][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/ChestActor" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset" SILENT=true
+[2020.09.06-22.09.20:740][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ChestActor48FCF7574E46F921460760948F24C3A6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/ChestActor.uasset'
+[2020.09.06-22.09.20:747][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/Crafting_Struct" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/Crafting_Struct.uasset" SILENT=true
+[2020.09.06-22.09.20:852][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Crafting_StructE8A46EAB461426B1A453E98339A36520.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/Crafting_Struct.uasset'
+[2020.09.06-22.09.20:861][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/CraftingRecipe" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/CraftingRecipe.uasset" SILENT=true
+[2020.09.06-22.09.20:966][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/CraftingRecipe430AF81F4E258BF9AAA85FA47CB48B32.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/CraftingRecipe.uasset'
+[2020.09.06-22.09.20:973][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/GameWorkBench" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/GameWorkBench.uasset" SILENT=true
+[2020.09.06-22.09.21:133][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/GameWorkBench372A3450415FCE3E582A50BE6CCABA86.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/GameWorkBench.uasset'
+[2020.09.06-22.09.21:152][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/Blue" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Blue.uasset" SILENT=true
+[2020.09.06-22.09.21:279][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BlueE338B9204DC3FCA944A793801F476E8E.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Blue.uasset'
+[2020.09.06-22.09.21:302][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/DarkMetal" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/DarkMetal.uasset" SILENT=true
+[2020.09.06-22.09.21:435][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/DarkMetal3D4CA6434C282AAFECAF4D9F1C1B8996.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/DarkMetal.uasset'
+[2020.09.06-22.09.21:578][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/HandleColorOne70086A654A34CA7FCF65509B4BC61C63.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/HandleColorOne.uasset'
+[2020.09.06-22.09.21:616][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/Mat" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Mat.uasset" SILENT=true
+[2020.09.06-22.09.21:732][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MatFCF289184C3E53B741CD2E9CFB1A3E71.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/Mat.uasset'
+[2020.09.06-22.09.21:749][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/MEtal" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/MEtal.uasset" SILENT=true
+[2020.09.06-22.09.21:916][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MEtal73D56DFC44912C700D5F9CB64C751F6D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/MEtal.uasset'
+[2020.09.06-22.09.22:157][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/PaperMaterial3BD4275E41BB77083797B7B1603E97E6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/PaperMaterial.uasset'
+[2020.09.06-22.09.22:207][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/Models/workbench" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/workbench.uasset" SILENT=true
+[2020.09.06-22.09.22:338][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/workbench4EA16FAA438EEBEC65166A803090CA6A.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/workbench.uasset'
+[2020.09.06-22.09.22:358][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/BP_WorkBench" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/BP_WorkBench.uasset" SILENT=true
+[2020.09.06-22.09.22:537][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/BP_WorkBench214D17A84F4F39DB92B4588020D6461C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/BP_WorkBench.uasset'
+[2020.09.06-22.09.22:544][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_StoragePanel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_StoragePanel.uasset" SILENT=true
+[2020.09.06-22.09.22:662][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_StoragePanelB5887DA34AC4CEC725A47B94D80B3CB2.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_StoragePanel.uasset'
+[2020.09.06-22.09.22:668][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Chest" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Chest.uasset" SILENT=true
+[2020.09.06-22.09.22:841][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/Chest73EECA4F4DBA3B30F57DAB92C624E5C4.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Chest.uasset'
+[2020.09.06-22.09.22:866][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/LootBox" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/LootBox.uasset" SILENT=true
+[2020.09.06-22.09.23:017][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/LootBox0BD2DC024794E37FD45C76B8D9C2A688.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/LootBox.uasset'
+[2020.09.06-22.09.23:026][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGamemode" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset" SILENT=true
+[2020.09.06-22.09.23:217][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyGamemodeCD742BBA4A4E4892878DDC98E7BDCC6C.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyGamemode.uasset'
+[2020.09.06-22.09.23:223][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel_BuiltData" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset" SILENT=true
+[2020.09.06-22.09.23:494][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevel_BuiltData66754B26435F2C88D2EF3B925715F3C5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel_BuiltData.uasset'
+[2020.09.06-22.09.23:501][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_LootBoxPanel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_LootBoxPanel.uasset" SILENT=true
+[2020.09.06-22.09.23:625][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_LootBoxPanel5FA814294C63CBB45ADFD88105737429.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/UI_LootBoxPanel.uasset'
+[2020.09.06-22.09.23:633][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyLevel" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.06-22.09.23:670][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.09.06-22.09.24:017][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyLevelB924B1234425144AB22962947F2F1727.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/MyLevel.umap'
+[2020.09.06-22.09.24:095][714]LogFileHelpers: Saving map 'MyLevel' took 0.463
+[2020.09.06-22.09.24:099][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyPlayerState" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerState.uasset" SILENT=true
+[2020.09.06-22.09.24:209][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/MyPlayerState2D0EEB3F4F1D5ADFBD42C1BB6062DBF7.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Player/MyPlayerState.uasset'
+[2020.09.06-22.09.24:219][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/CraftingFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/CraftingFunctionLibrary.uasset" SILENT=true
+[2020.09.06-22.09.24:373][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/CraftingFunctionLibraryBE476DDC4559044AAA991A8E3C1EEF0D.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/CraftingFunctionLibrary.uasset'
+[2020.09.06-22.09.24:379][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/arrow" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/arrow.uasset" SILENT=true
+[2020.09.06-22.09.24:482][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/arrowBD9042BD43C711D4AD6D2DADD31135E1.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/arrow.uasset'
+[2020.09.06-22.09.24:492][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Textures/result" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/result.uasset" SILENT=true
+[2020.09.06-22.09.24:594][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/resultD23DF23B4FEF9590B6437EAFA2FE6B04.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/Textures/result.uasset'
+[2020.09.06-22.09.24:602][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/UI_SLOT" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOT.uasset" SILENT=true
+[2020.09.06-22.09.24:710][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_SLOTED0CF4A94E4BB51E8DF871AAD39A8E2B.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOT.uasset'
+[2020.09.06-22.09.24:718][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/UI_SLOTTIMER" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset" SILENT=true
+[2020.09.06-22.09.24:842][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/UI_SLOTTIMER5E80F658406BBEE6A059FAA0EAB9DF1F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Crafting/UI_SLOTTIMER.uasset'
+[2020.09.06-22.09.25:076][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/ExampleAdvancedSessionsFunctions0B5192514E84FF49E2DDFDA16C2839A8.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.09.06-22.09.25:219][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/game_loot_small_crate_bottom43CC61F54A4854887EAEBFBDE1685C26.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/game_loot_small_crate_bottom.uasset'
+[2020.09.06-22.09.25:385][714]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/game_loot_small_crate_topE67AA0FD42EB5B22F3587C822F3609D6.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/ExampleBlueprints/Models/game_loot_small_crate_top.uasset'
