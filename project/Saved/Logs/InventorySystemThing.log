@@ -23233,3 +23233,14 @@ Make sure 'MyPlayerController_C' has been compiled for  Set isInventoryOpen
 [2020.09.08-20.22.14:243][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
 [2020.09.08-20.22.14:725][570]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary37F7BD4F4B6FED284BD128B5EDD7E32F.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
 [2020.09.08-20.22.15:512][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.09.08-20.22.44:160][866]BlueprintLog: New page: Compile InventorySlot
+[2020.09.08-20.22.44:241][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.09.08-20.22.44:993][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventorySlot" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset" SILENT=true
+[2020.09.08-20.22.45:241][922]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventorySlot6744F6EB46AEAC1E19F09B800DF451D3.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventorySlot.uasset'
+[2020.09.08-20.22.47:690][106]LogSlate: Window 'InventoryInterface' being destroyed
+[2020.09.08-20.22.47:695][106]LogSlate: Window 'InventoryInterface' being destroyed
+[2020.09.08-20.22.47:723][106]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-20.22.47:821][106]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-20.22.47:825][106]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-20.22.47:890][106]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-20.22.50:765][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
