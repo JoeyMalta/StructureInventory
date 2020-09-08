@@ -22976,3 +22976,16 @@ Make sure 'MyPlayerController_C' has been compiled for  Set isInventoryOpen
 [2020.09.08-20.01.44:041][422]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
 [2020.09.08-20.01.44:042][422]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
 [2020.09.08-20.01.45:262][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.08-20.13.40:007][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryFunctionLibrary.InventoryFunctionLibrary
+[2020.09.08-20.14.32:138][206]BlueprintLog: New page: Compile InventoryFunctionLibrary
+[2020.09.08-20.14.32:294][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.09.08-20.14.32:701][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.08-20.14.33:536][230]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary40BFC58447E0480B1D221BA3DE9200BE.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.08-20.14.36:239][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.08-20.14.36:701][404]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibraryB6C8C69B4CF815A36EF67D9657F523F5.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.08-20.14.39:610][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryFunctionLibrary" FILE="../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset" SILENT=true
+[2020.09.08-20.14.40:084][592]LogSavePackage: Moving '../../../../../../Down2DieInventory/StructureInventory/project/Saved/InventoryFunctionLibrary13CC83D244B3898F4242399C0F7C7925.tmp' to '../../../../../../Down2DieInventory/StructureInventory/project/Content/Inventory/InventoryFunctionLibrary.uasset'
+[2020.09.08-20.14.41:770][713]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.08-20.14.41:776][713]LogSlate: Window 'InventoryFunctionLibrary' being destroyed
+[2020.09.08-20.14.41:796][713]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-20.14.43:012][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
