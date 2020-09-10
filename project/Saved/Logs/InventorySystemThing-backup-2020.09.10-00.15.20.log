@@ -1,0 +1,672 @@
+﻿Log file open, 09/09/20 18:50:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystemThing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.458417
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.42
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.09-16.50.31:546][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.09-16.50.31:546][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:547][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.09-16.50.31:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.09-16.50.31:596][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.09-16.50.31:605][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-16.50.31:607][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.09-16.50.31:626][  0]LogHAL: Display: Platform has ~ 32 GB [34184097792 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.09-16.50.31:626][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.09-16.50.31:642][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.09-16.50.31:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.09-16.50.31:643][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.09-16.50.31:659][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.09-16.50.31:659][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.09-16.50.31:659][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Config/Windows/Engine.ini]
+[2020.09.09-16.50.31:671][  0]LogInit: Computer: DESKTOP-JFFIKOL
+[2020.09.09-16.50.31:672][  0]LogInit: User: tomas
+[2020.09.09-16.50.31:672][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.09-16.50.31:672][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.09-16.50.31:676][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2020.09.09-16.50.31:676][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.09-16.50.31:676][  0]LogMemory: Process Physical Memory: 106.10 MB used, 106.10 MB peak
+[2020.09.09-16.50.31:676][  0]LogMemory: Process Virtual Memory: 99.31 MB used, 99.31 MB peak
+[2020.09.09-16.50.31:676][  0]LogMemory: Physical Memory: 11145.56 MB used,  21454.93 MB free, 32600.50 MB total
+[2020.09.09-16.50.31:676][  0]LogMemory: Virtual Memory: 4669.39 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.09.09-16.50.31:683][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.09-16.50.32:469][  0]LogInit: Using OS detected language (sv-SE).
+[2020.09.09-16.50.32:469][  0]LogInit: Using OS detected locale (sv-SE).
+[2020.09.09-16.50.32:478][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2020.09.09-16.50.33:070][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.09-16.50.33:504][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.09-16.50.33:504][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.09-16.50.36:679][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.09.09-16.50.36:679][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.09-16.50.36:801][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2020.09.09-16.50.36:801][  0]LogD3D11RHI:       3952/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.09-16.50.36:811][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.09.09-16.50.36:811][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.09-16.50.36:820][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.09-16.50.36:820][  0]LogD3D11RHI:       0/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.09-16.50.36:820][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.09-16.50.36:847][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.09-16.50.36:847][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.09-16.50.36:847][  0]LogWindows: EnumDisplayDevices:
+[2020.09.09-16.50.36:847][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2020.09.09-16.50.36:847][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.09.09-16.50.36:848][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.09.09-16.50.36:848][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.09.09-16.50.36:849][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.09.09-16.50.36:849][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.09.09-16.50.36:850][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.09.09-16.50.36:850][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.09.09-16.50.36:850][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2020.09.09-16.50.36:851][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.09.09-16.50.36:851][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.09.09-16.50.36:851][  0]LogRHI: Texture pool is 2766 MB (70% of 3952 MB)
+[2020.09.09-16.50.36:914][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.09-16.50.37:163][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.09-16.50.38:032][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.09-16.50.38:069][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.09-16.50.38:102][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.09-16.50.38:137][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.09-16.50.38:265][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.09-16.50.38:316][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.09-16.50.38:354][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.09-16.50.38:386][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.09-16.50.38:420][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.09-16.50.38:532][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.09-16.50.38:558][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.09-16.50.38:686][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.09-16.50.38:686][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.09-16.50.38:730][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.09-16.50.38:730][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.09-16.50.38:768][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.09-16.50.38:803][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.09-16.50.38:835][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.09-16.50.38:884][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.09-16.50.38:981][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.09-16.50.38:981][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.09-16.50.38:981][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.09-16.50.39:133][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.09-16.50.39:961][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Intermediate/Shaders/WorkingDirectory/19564/).
+[2020.09.09-16.50.39:961][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tomas/AppData/Local/Temp/UnrealShaderWorkingDir/AE884E1D469D5117180E74B677F48EDC/'.
+[2020.09.09-16.50.39:993][  0]LogXGEController: Cleaning working directory: C:/Users/tomas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.09-16.50.39:993][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.09-16.50.39:993][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.09-16.50.39:994][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.09-16.50.44:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: Loaded boot cache 0.25s 72MB C:/Users/tomas/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tomas/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-16.50.45:156][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.09-16.50.45:210][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.09-16.50.45:210][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-16.50.45:210][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.09-16.50.45:211][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.09-16.50.45:211][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.09-16.50.45:211][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.09-16.50.45:263][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.09-16.50.45:376][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.09-16.50.45:459][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.09-16.50.46:012][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.09.09-16.50.49:046][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-16.50.51:125][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.09-16.50.51:125][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.09-16.50.51:125][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.09-16.50.51:125][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.09-16.50.51:126][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.09-16.50.51:690][  0]LogNetVersion: InventorySystemThing 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 843839388)
+[2020.09.09-16.50.56:527][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.085990 seconds
+[2020.09.09-16.50.56:539][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.09.09-16.50.56:539][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.09.09-16.50.56:539][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.09-16.51.22:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.09-16.51.22:607][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.09-16.51.24:491][  0]SourceControl: Source control is disabled
+[2020.09.09-16.51.24:496][  0]SourceControl: Source control is disabled
+[2020.09.09-16.51.24:823][  0]SourceControl: Source control is disabled
+[2020.09.09-16.51.24:863][  0]SourceControl: Source control is disabled
+[2020.09.09-16.51.27:089][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.09-16.51.28:172][  0]LogOcInput: OculusInput pre-init called
+[2020.09.09-16.51.28:245][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.09-16.51.28:246][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.09-16.51.29:163][  0]LogEngine: Initializing Engine...
+[2020.09.09-16.51.29:190][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2020.09.09-16.51.29:225][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.025 s
+[2020.09.09-16.51.29:580][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.09-16.51.29:919][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.09-16.51.30:151][  0]LogInit: XAudio2 using 'Högtalare (Logitech G933 Gaming Wireless Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.09.09-16.51.30:184][  0]LogInit: FAudioDevice initialized.
+[2020.09.09-16.51.30:184][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.09-16.51.30:355][  0]LogDerivedDataCache: Saved boot cache 0.17s 73MB C:/Users/tomas/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.09-16.51.30:359][  0]LogInit: Texture streaming: Enabled
+[2020.09.09-16.51.30:583][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.09-16.51.30:583][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.09-16.51.30:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.09-16.51.31:296][  0]LogInit: Transaction tracking system initialized
+[2020.09.09-16.51.31:780][  0]BlueprintLog: New page: Editor Load
+[2020.09.09-16.51.33:026][  0]LocalizationService: Localization service is disabled
+[2020.09.09-16.51.34:525][  0]LogFileCache: Scanning file cache for directory 'D:/Users/tomas/Documents/GitHub/StructureInventory/project/Content/' took 0.01s
+[2020.09.09-16.51.34:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.09-16.51.34:525][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.09-16.51.36:850][  0]SourceControl: Source control is disabled
+[2020.09.09-16.51.36:886][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/MyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-16.51.36:887][  0]LightingResults: New page: Lighting Build
+[2020.09.09-16.51.36:989][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-16.51.37:088][  0]MapCheck: New page: Map Check
+[2020.09.09-16.51.37:088][  0]LightingResults: New page: Lighting Build
+[2020.09.09-16.51.37:335][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.09-16.51.38:913][  0]LogStaticMesh: Building static mesh pumpkin...
+[2020.09.09-16.51.39:016][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Inventory/Models/Pumpkin/pumpkin.pumpkin
+[2020.09.09-16.51.39:190][  0]LogStaticMesh: Building static mesh workbench...
+[2020.09.09-16.51.39:231][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ExampleBlueprints/Models/workbench.workbench
+[2020.09.09-16.51.39:309][  0]LogStaticMesh: Building static mesh game_loot_large_crate_top...
+[2020.09.09-16.51.39:313][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ExampleBlueprints/Models/game_loot_large_crate_top.game_loot_large_crate_top
+[2020.09.09-16.51.39:315][  0]LogStaticMesh: Building static mesh game_loot_large_crate_bottom...
+[2020.09.09-16.51.39:324][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ExampleBlueprints/Models/game_loot_large_crate_bottom.game_loot_large_crate_bottom
+[2020.09.09-16.51.39:450][  0]LogStaticMesh: Building static mesh Woodlog...
+[2020.09.09-16.51.39:453][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Inventory/Models/WoodLog/Woodlog.Woodlog
+[2020.09.09-16.51.39:482][  0]LogAIModule: Creating AISystem for world MyLevel
+[2020.09.09-16.51.39:938][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-16.51.40:062][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.09-16.51.40:062][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-16.51.40:070][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7,111ms to complete.
+[2020.09.09-16.51.40:070][  0]LogFileHelpers: Loading map 'MyLevel' took 3.202
+[2020.09.09-16.51.41:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-16.51.41:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-16.51.41:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-16.51.41:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-16.51.41:455][  0]LogCollectionManager: Loaded 0 collections in 0.000875 seconds
+[2020.09.09-16.51.41:564][  0]LogFileCache: Scanning file cache for directory 'D:/Users/tomas/Documents/GitHub/StructureInventory/project/Saved/Collections/' took 0.00s
+[2020.09.09-16.51.41:564][  0]LogFileCache: Scanning file cache for directory 'D:/Users/tomas/Documents/GitHub/StructureInventory/project/Content/Developers/tomas/Collections/' took 0.00s
+[2020.09.09-16.51.41:564][  0]LogFileCache: Scanning file cache for directory 'D:/Users/tomas/Documents/GitHub/StructureInventory/project/Content/Collections/' took 0.00s
+[2020.09.09-16.51.41:564][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.09.09-16.51.41:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2889 classes and 690 folders.
+[2020.09.09-16.51.41:621][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.09-16.51.42:648][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.09-16.51.42:886][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.09.09-16.51.43:557][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.09.09-16.51.43:757][  0]LogSlate: Took 0.037907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.09-16.51.43:781][  0]LogSlate: Took 0.013455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.09-16.51.43:888][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.09-16.51.43:888][  0]LogLoad: (Engine Initialization) Total time: 83.35 seconds
+[2020.09.09-16.51.43:888][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.09-16.51.44:153][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.09-16.51.44:308][  0]LogSlate: Took 0.035414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.09-16.51.44:657][  0]LogRenderer: Reallocating scene render targets to support 652x272 Format 10 NumSamples 1 (Frame:1).
+[2020.09.09-16.51.44:657][  0]LogSlate: Took 0.015144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-16.51.45:096][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/tomas/Documents/GitHub/StructureInventory/project/Content/' took 1.07s
+[2020.09.09-16.51.45:124][  1]LogAssetRegistry: Asset discovery search completed in 59.1135 seconds
+[2020.09.09-16.51.45:128][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2020.09.09-16.51.45:128][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2020.09.09-16.51.46:609][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-16.51.46:681][120]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-16.51.46:705][120]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-16.51.47:520][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-16.51.47:640][224]LogRenderer: Reallocating scene render targets to support 980x508 Format 10 NumSamples 1 (Frame:206).
+[2020.09.09-16.51.54:492][822]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-16.51.54:517][822]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI_SplitterPanel.UI_SplitterPanel
+[2020.09.09-16.51.55:010][822]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.09.09-16.51.56:995][822]LogSlate: Took 0.014237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.09-16.52.21:680][926]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Crafting/GameWorkBench.GameWorkBench
+[2020.09.09-16.52.43:916][489]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D6D58051-4138-57DE-A1EF-5FBC32F8582C}
+[2020.09.09-16.52.43:916][489]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={08DCECC6-480B-617C-0557-9B8133FDB7D1}
+[2020.09.09-16.52.59:822][564]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-16.53.04:844][935]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.53.04:870][935]LogBlueprint: Warning: [Compiler UI_SplitterPanel] Could not find a variable named "CONTENT_CONTAINER" in 'UI_SplitterPanel_C'.
+Make sure 'UI_SplitterPanel_C' has been compiled for  Get CONTENT_CONTAINER
+[2020.09.09-16.53.04:873][935]LogBlueprint: Error: [Compiler UI_SplitterPanel] The property associated with  CONTENT CONTAINER  could not be found in '/Game/Inventory/UI_SplitterPanel.UI_SplitterPanel_C'
+[2020.09.09-16.53.04:961][935]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.09.09-16.53.05:441][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.53.05:546][960]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelB31C205A499914BD6FD1C38F82656AB5.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.53.07:924][107]LogSlate: Took 0.017950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.09-16.53.13:252][566]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.53.13:305][566]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.09.09-16.53.14:125][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.53.14:164][646]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel52C475B0490FFAEA8FB49BAE679FB50E.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.53.31:109][237]LogSlate: Took 0.052440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.09-16.54.20:537][736]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.54.20:590][736]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2020.09.09-16.54.21:023][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.54.21:055][758]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel8115C1A64ADAFDADCE2708BF6DBFA6C3.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.54.53:457][709]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.54.53:506][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.09.09-16.54.53:929][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.54.53:963][732]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelC40C341D49E9A4E51DF169AB512BAACD.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.56.41:164][579]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-16.56.45:936][929]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.56.45:991][929]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.09.09-16.56.46:390][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.56.46:428][958]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel19FE0955459A75FC7BF2DBBBFF240625.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.57.29:789][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-16.57.41:193][818]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-16.58.06:610][629]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.58.06:665][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.09.09-16.58.07:087][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.58.07:122][661]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelA3B716CA41EAEB8C23A14697A210CA5B.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.58.11:030][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.58.11:063][ 19]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelCFE10B0C4557556E7B117D9EECFE5545.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.58.33:239][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.58.33:283][383]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel4760C63240B00D3D36F43DA3067A03FD.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.58.55:438][898]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-16.59.31:612][393]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.59.31:666][393]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.09.09-16.59.32:062][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-16.59.32:100][413]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelC315D28743A47D48DA9110849D1D13AA.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-16.59.52:594][829]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-16.59.52:646][829]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.09.09-17.00.34:662][760]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.00.34:716][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.09.09-17.00.35:233][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.00.35:272][788]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelF8BA841E49077D121E8ACDAB30203E8F.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.00.55:403][183]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-17.01.01:977][637]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.01.02:032][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.09.09-17.01.02:463][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.01.02:505][658]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel36146A454BF7369D9906FCB4BE5ADDB7.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.01.55:033][328]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.01.55:096][328]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.09.09-17.04.39:688][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.04.39:733][783]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel51C7A439424A4E5538E90D86A1E2970C.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.05.57:508][406]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.09.09-17.05.57:945][424]Cmd: TRANSACTION UNDO
+[2020.09.09-17.05.57:946][424]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.09.09-17.05.58:300][444]Cmd: TRANSACTION UNDO
+[2020.09.09-17.05.58:300][444]LogEditorTransaction: Undo Wrap Widgets
+[2020.09.09-17.06.39:859][226]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.06.39:921][226]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.09.09-17.06.40:404][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.06.40:444][249]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel95BC4D8A4429D36842C89786E95654FD.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.08.00:081][593]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.08.00:141][593]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.09.09-17.08.00:595][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.08.00:637][616]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelA47B1D2142EF9AADCB37E8A46CFDFF5E.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.08.28:128][480]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.09-17.09.03:198][836]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.09.03:251][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.09.09-17.09.03:709][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.09.03:756][860]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelEF107CDA4FDFA6EA2F8CDB87E9E84B45.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.09.08:854][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crafting/GameWorkBench" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Crafting/GameWorkBench.uasset" SILENT=true
+[2020.09.09-17.09.09:195][193]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/GameWorkBench846C1DF4436033F0C2A04097C1124D7D.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Crafting/GameWorkBench.uasset'
+[2020.09.09-17.09.30:892][708]BlueprintLog: New page: Compile UI_SplitterPanel
+[2020.09.09-17.09.30:948][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.09.09-17.09.31:410][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.09.31:453][732]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanelA0CAA05A4A9CFAA41D24A08EEDCB535B.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.09.33:397][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI_SplitterPanel" FILE="../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset" SILENT=true
+[2020.09.09-17.09.33:434][857]LogSavePackage: Moving '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Saved/UI_SplitterPanel9078D7754C8DB4D94396169775FC750B.tmp' to '../../../../../../Users/tomas/Documents/GitHub/StructureInventory/project/Content/Inventory/UI_SplitterPanel.uasset'
+[2020.09.09-17.09.35:230][980]LogSlate: Window 'GameWorkBench' being destroyed
+[2020.09.09-17.09.35:236][980]LogSlate: Window 'GameWorkBench' being destroyed
+[2020.09.09-17.09.35:348][980]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-17.09.35:391][980]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-17.09.35:463][980]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-17.09.35:490][980]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-17.09.36:395][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.09.09-17.09.37:480][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
